@@ -1,0 +1,1115 @@
+[2025-02-25 10:42:16] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 10:42:16] token_user encontrado: a88bc5095ba48681162295f928b97ca8
+[2025-02-25 10:42:16] Usuário encontrado: ID 1
+[2025-02-25 10:42:16] Senha de saque válida para usuário ID 1
+[2025-02-25 10:42:16] Saques hoje: 2, Total saque hoje: 10.00
+[2025-02-25 10:42:16] Iniciando saque. Valor: 4, bank_id: 1, pix: 13870676647
+[2025-02-25 10:42:16] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-25 10:42:16] Solicitação de saque inserida com sucesso (transacao_id=4aa540eb7a23f45423dbe2079d8c7639). Saldo do usuário atualizado.
+[2025-02-25 10:42:16] Valor <= saque_automatico (50). Chamando payment_auto.php...
+[2025-02-25 10:42:18] Resposta payment_auto.php: Pagamento realizado com sucesso (ExpfyPay). ID: a0d1a14cd0b99ecc7979c23592dc5b4a
+[2025-02-25 10:42:18] Retorno indica sucesso. Atualizando status=1.
+[2025-02-25 10:44:16] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 10:44:16] token_user encontrado: a88bc5095ba48681162295f928b97ca8
+[2025-02-25 10:44:16] Usuário encontrado: ID 1
+[2025-02-25 10:44:16] Senha de saque válida para usuário ID 1
+[2025-02-25 10:44:16] Saques hoje: 3, Total saque hoje: 14.00
+[2025-02-25 10:44:16] Iniciando saque. Valor: 5, bank_id: 1, pix: 13870676647
+[2025-02-25 10:44:16] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-25 10:44:16] Solicitação de saque inserida com sucesso (transacao_id=f547bf1b8ebd8f7c5e4cf5ca0e84b3ca). Saldo do usuário atualizado.
+[2025-02-25 10:44:16] Valor acima do saque_automatico. Saque segue pendente para aprovação manual.
+[2025-02-25 10:45:27] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 10:45:27] token_user encontrado: a88bc5095ba48681162295f928b97ca8
+[2025-02-25 10:45:27] Usuário encontrado: ID 1
+[2025-02-25 10:45:27] Senha de saque válida para usuário ID 1
+[2025-02-25 10:45:27] Saques hoje: 4, Total saque hoje: 19.00
+[2025-02-25 10:45:27] Iniciando saque. Valor: 8, bank_id: 1, pix: 13870676647
+[2025-02-25 10:45:27] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-25 10:45:27] Solicitação de saque inserida com sucesso (transacao_id=5a7ba959b74ec49117513ab556950e3d). Saldo do usuário atualizado.
+[2025-02-25 10:45:27] Valor acima do saque_automatico. Saque segue pendente para aprovação manual.
+[2025-02-25 10:45:37] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 10:45:37] token_user encontrado: a88bc5095ba48681162295f928b97ca8
+[2025-02-25 10:45:37] Usuário encontrado: ID 1
+[2025-02-25 10:45:37] Senha de saque válida para usuário ID 1
+[2025-02-25 10:45:37] Saques hoje: 5, Total saque hoje: 27.00
+[2025-02-25 10:45:37] Iniciando saque. Valor: 3, bank_id: 1, pix: 13870676647
+[2025-02-25 10:45:37] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-25 10:45:37] Solicitação de saque inserida com sucesso (transacao_id=6d48a1cbc1a692ce613fddafdebc5716). Saldo do usuário atualizado.
+[2025-02-25 10:45:37] Valor <= saque_automatico (5). Chamando payment_auto.php...
+[2025-02-25 10:45:39] Resposta payment_auto.php: Pagamento realizado com sucesso (ExpfyPay). ID: dc43f0f0a6a15d5e6e1f949b8b400a31
+[2025-02-25 10:45:39] Retorno indica sucesso. Atualizando status=1.
+[2025-02-25 11:28:14] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 11:28:14] token_user encontrado: a88bc5095ba48681162295f928b97ca8
+[2025-02-25 11:28:14] Usuário encontrado: ID 1
+[2025-02-25 11:28:14] Senha de saque válida para usuário ID 1
+[2025-02-25 11:28:14] Saques hoje: 6, Total saque hoje: 30.00
+[2025-02-25 11:28:14] Iniciando saque. Valor: 5, bank_id: 1, pix: 13870676647
+[2025-02-25 11:28:14] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-25 11:28:14] Solicitação de saque inserida com sucesso (transacao_id=3b6d1c5128bfab48a0dd59077f2d5d65). Saldo do usuário atualizado.
+[2025-02-25 11:28:14] Valor acima do saque_automatico. Saque segue pendente para aprovação manual.
+[2025-02-25 11:28:33] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 11:28:33] token_user encontrado: a88bc5095ba48681162295f928b97ca8
+[2025-02-25 11:28:33] Usuário encontrado: ID 1
+[2025-02-25 11:28:33] Senha de saque válida para usuário ID 1
+[2025-02-25 11:28:33] Saques hoje: 7, Total saque hoje: 35.00
+[2025-02-25 11:28:33] Iniciando saque. Valor: 5, bank_id: 1, pix: 13870676647
+[2025-02-25 11:28:33] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-25 11:28:33] Solicitação de saque inserida com sucesso (transacao_id=33c57c4acdbb9e05ed3a39f732a4f8ed). Saldo do usuário atualizado.
+[2025-02-25 11:28:33] Valor acima do saque_automatico. Saque segue pendente para aprovação manual.
+[2025-02-25 17:01:38] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 17:01:38] token_user encontrado: 69a456cf31ebc1f871ab74e9560adc1f
+[2025-02-25 17:01:38] Usuário encontrado: ID 1
+[2025-02-25 17:01:38] Senha de saque válida para usuário ID 1
+[2025-02-25 17:01:38] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 17:01:38] Iniciando saque. Valor: 100, bank_id: 1, pix: 12332112321
+[2025-02-25 17:01:38] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-25 17:01:38] Solicitação de saque inserida com sucesso (transacao_id=af8423cbf7a6f9e8a58514270da3097c). Saldo do usuário atualizado.
+[2025-02-25 17:01:38] Valor acima do saque_automatico. Saque segue pendente para aprovação manual.
+[2025-02-25 19:19:03] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:19:03] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:19:03] Usuário encontrado: ID 5
+[2025-02-25 19:19:03] Senha de saque válida para usuário ID 5
+[2025-02-25 19:19:03] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:19:03] Iniciando saque. Valor: 5, bank_id: 3, pix: 13870676647
+[2025-02-25 19:19:03] Falha no rollover. valor_saque=5, total_depositos=10.00, rollover=2
+[2025-02-25 19:19:07] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:19:07] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:19:07] Usuário encontrado: ID 5
+[2025-02-25 19:19:07] Senha de saque válida para usuário ID 5
+[2025-02-25 19:19:07] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:19:07] Iniciando saque. Valor: 5, bank_id: 3, pix: 13870676647
+[2025-02-25 19:19:07] Falha no rollover. valor_saque=5, total_depositos=10.00, rollover=2
+[2025-02-25 19:25:40] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:25:40] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:25:40] Usuário encontrado: ID 5
+[2025-02-25 19:25:40] Senha de saque válida para usuário ID 5
+[2025-02-25 19:25:40] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:25:40] Iniciando saque. Valor: 5, bank_id: 3, pix: 13870676647
+[2025-02-25 19:25:40] Falha no rollover. valor_saque=5, total_depositos=10.00, rollover=2
+[2025-02-25 19:25:43] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:25:43] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:25:43] Usuário encontrado: ID 5
+[2025-02-25 19:25:43] Senha de saque válida para usuário ID 5
+[2025-02-25 19:25:43] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:25:43] Iniciando saque. Valor: 5, bank_id: 3, pix: 13870676647
+[2025-02-25 19:25:43] Falha no rollover. valor_saque=5, total_depositos=10.00, rollover=2
+[2025-02-25 19:25:49] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:25:49] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:25:49] Usuário encontrado: ID 5
+[2025-02-25 19:25:49] Senha de saque válida para usuário ID 5
+[2025-02-25 19:25:49] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:25:49] Iniciando saque. Valor: 5, bank_id: 3, pix: 13870676647
+[2025-02-25 19:25:49] Falha no rollover. valor_saque=5, total_depositos=10.00, rollover=2
+[2025-02-25 19:25:53] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:25:53] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:25:53] Usuário encontrado: ID 5
+[2025-02-25 19:25:53] Senha de saque válida para usuário ID 5
+[2025-02-25 19:25:53] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:25:53] Iniciando saque. Valor: 5, bank_id: 3, pix: 13870676647
+[2025-02-25 19:25:53] Falha no rollover. valor_saque=5, total_depositos=10.00, rollover=2
+[2025-02-25 19:33:51] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:33:51] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:33:51] Usuário encontrado: ID 5
+[2025-02-25 19:33:51] Senha de saque válida para usuário ID 5
+[2025-02-25 19:33:51] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:33:51] Iniciando saque. Valor: 10, bank_id: 3, pix: 13870676647
+[2025-02-25 19:33:51] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=2
+[2025-02-25 19:33:55] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:33:55] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:33:55] Usuário encontrado: ID 5
+[2025-02-25 19:33:55] Senha de saque válida para usuário ID 5
+[2025-02-25 19:33:55] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:33:55] Iniciando saque. Valor: 10, bank_id: 3, pix: 13870676647
+[2025-02-25 19:33:55] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=2
+[2025-02-25 19:33:58] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:33:58] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:33:58] Usuário encontrado: ID 5
+[2025-02-25 19:33:58] Senha de saque válida para usuário ID 5
+[2025-02-25 19:33:58] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:33:58] Iniciando saque. Valor: 10, bank_id: 3, pix: 13870676647
+[2025-02-25 19:33:58] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=2
+[2025-02-25 19:34:00] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:34:00] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:34:00] Usuário encontrado: ID 5
+[2025-02-25 19:34:00] Senha de saque válida para usuário ID 5
+[2025-02-25 19:34:00] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:34:00] Iniciando saque. Valor: 10, bank_id: 3, pix: 13870676647
+[2025-02-25 19:34:00] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=2
+[2025-02-25 19:34:04] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:34:04] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:34:04] Usuário encontrado: ID 5
+[2025-02-25 19:34:04] Senha de saque válida para usuário ID 5
+[2025-02-25 19:34:04] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:34:04] Iniciando saque. Valor: 10, bank_id: 3, pix: 13870676647
+[2025-02-25 19:34:04] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=2
+[2025-02-25 19:34:06] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:34:06] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:34:06] Usuário encontrado: ID 5
+[2025-02-25 19:34:06] Senha de saque válida para usuário ID 5
+[2025-02-25 19:34:06] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:34:06] Iniciando saque. Valor: 10, bank_id: 3, pix: 13870676647
+[2025-02-25 19:34:06] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=2
+[2025-02-25 19:34:06] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:34:06] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:34:06] Usuário encontrado: ID 5
+[2025-02-25 19:34:06] Senha de saque válida para usuário ID 5
+[2025-02-25 19:34:06] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:34:07] Iniciando saque. Valor: 10, bank_id: 3, pix: 13870676647
+[2025-02-25 19:34:07] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=2
+[2025-02-25 19:34:07] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:34:07] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:34:07] Usuário encontrado: ID 5
+[2025-02-25 19:34:07] Senha de saque válida para usuário ID 5
+[2025-02-25 19:34:07] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:34:07] Iniciando saque. Valor: 10, bank_id: 3, pix: 13870676647
+[2025-02-25 19:34:07] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=2
+[2025-02-25 19:34:11] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:34:11] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:34:11] Usuário encontrado: ID 5
+[2025-02-25 19:34:11] Senha de saque válida para usuário ID 5
+[2025-02-25 19:34:11] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:34:11] Iniciando saque. Valor: 10, bank_id: 3, pix: 13870676647
+[2025-02-25 19:34:11] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=2
+[2025-02-25 19:34:21] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:34:21] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:34:21] Usuário encontrado: ID 5
+[2025-02-25 19:34:21] Senha de saque válida para usuário ID 5
+[2025-02-25 19:34:21] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:34:21] Iniciando saque. Valor: 10, bank_id: 3, pix: 13870676647
+[2025-02-25 19:34:21] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=2
+[2025-02-25 19:34:41] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:34:41] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:34:41] Usuário encontrado: ID 5
+[2025-02-25 19:34:41] Senha de saque válida para usuário ID 5
+[2025-02-25 19:34:41] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:34:41] Iniciando saque. Valor: 10, bank_id: 3, pix: 13870676647
+[2025-02-25 19:34:41] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=2
+[2025-02-25 19:34:56] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:34:56] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:34:56] Usuário encontrado: ID 5
+[2025-02-25 19:34:56] Senha de saque válida para usuário ID 5
+[2025-02-25 19:34:56] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:34:56] Iniciando saque. Valor: 10, bank_id: 3, pix: 13870676647
+[2025-02-25 19:34:56] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=2
+[2025-02-25 19:38:54] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:38:54] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:38:54] Usuário encontrado: ID 5
+[2025-02-25 19:38:54] Senha de saque válida para usuário ID 5
+[2025-02-25 19:38:54] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:38:54] Iniciando saque. Valor: 10, bank_id: 3, pix: 13870676647
+[2025-02-25 19:38:54] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=2, restante=10
+[2025-02-25 19:40:10] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:40:10] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:40:10] Usuário encontrado: ID 5
+[2025-02-25 19:40:10] Senha de saque válida para usuário ID 5
+[2025-02-25 19:40:10] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:40:10] Iniciando saque. Valor: 8, bank_id: 3, pix: 13870676647
+[2025-02-25 19:40:10] Falha no rollover. valor_saque=8, total_depositos=10.00, rollover=2, restante=12
+[2025-02-25 19:40:41] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:40:41] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:40:41] Usuário encontrado: ID 5
+[2025-02-25 19:40:41] Senha de saque válida para usuário ID 5
+[2025-02-25 19:40:41] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:40:41] Iniciando saque. Valor: 7, bank_id: 3, pix: 13870676647
+[2025-02-25 19:40:41] Falha no rollover. valor_saque=7, total_depositos=10.00, rollover=2, restante=13
+[2025-02-25 19:40:47] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:40:47] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:40:47] Usuário encontrado: ID 5
+[2025-02-25 19:40:47] Senha de saque válida para usuário ID 5
+[2025-02-25 19:40:47] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:40:47] Iniciando saque. Valor: 7, bank_id: 3, pix: 13870676647
+[2025-02-25 19:40:47] Falha no rollover. valor_saque=7, total_depositos=10.00, rollover=2, restante=13
+[2025-02-25 19:41:20] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:41:20] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:41:20] Usuário encontrado: ID 5
+[2025-02-25 19:41:20] Senha de saque válida para usuário ID 5
+[2025-02-25 19:41:20] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:41:20] Iniciando saque. Valor: 7, bank_id: 3, pix: 13870676647
+[2025-02-25 19:41:20] Falha no rollover. valor_saque=7, total_depositos=10.00, rollover=2, restante=13
+[2025-02-25 19:51:41] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:51:41] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:51:41] Usuário encontrado: ID 5
+[2025-02-25 19:51:41] Senha de saque válida para usuário ID 5
+[2025-02-25 19:51:41] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:51:41] Iniciando saque. Valor: 7, bank_id: 3, pix: 13870676647
+[2025-02-25 19:51:41] Falha no rollover. valor_saque=7, total_depositos=10.00, rollover=2, necessario=20, sacado=0, restante=20
+[2025-02-25 19:52:23] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:52:23] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:52:23] Usuário encontrado: ID 5
+[2025-02-25 19:52:23] Senha de saque válida para usuário ID 5
+[2025-02-25 19:52:23] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:52:23] Iniciando saque. Valor: 6, bank_id: 3, pix: 13870676647
+[2025-02-25 19:52:23] Falha no rollover. valor_saque=6, total_depositos=10.00, rollover=2, necessario=20, sacado=0, restante=20
+[2025-02-25 19:52:59] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:52:59] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:52:59] Usuário encontrado: ID 5
+[2025-02-25 19:52:59] Senha de saque válida para usuário ID 5
+[2025-02-25 19:52:59] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:52:59] Iniciando saque. Valor: 6, bank_id: 3, pix: 13870676647
+[2025-02-25 19:52:59] Falha no rollover. valor_saque=6, total_depositos=10.00, rollover=1, necessario=10, sacado=0, restante=10
+[2025-02-25 19:54:02] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:54:02] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:54:02] Usuário encontrado: ID 5
+[2025-02-25 19:54:02] Senha de saque válida para usuário ID 5
+[2025-02-25 19:54:02] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:54:02] Iniciando saque. Valor: 2, bank_id: 3, pix: 13870676647
+[2025-02-25 19:54:02] Falha no rollover. valor_saque=2, total_depositos=10.00, rollover=1, necessario=10, sacado=0, restante=10
+[2025-02-25 19:54:38] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:54:38] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:54:38] Usuário encontrado: ID 5
+[2025-02-25 19:54:38] Senha de saque válida para usuário ID 5
+[2025-02-25 19:54:38] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:54:38] Iniciando saque. Valor: 2, bank_id: 3, pix: 13870676647
+[2025-02-25 19:54:38] Falha no rollover. valor_saque=2, total_depositos=10.00, rollover=1, necessario=10, sacado=0, restante=10
+[2025-02-25 19:56:00] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:56:00] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:56:00] Usuário encontrado: ID 5
+[2025-02-25 19:56:00] Senha de saque válida para usuário ID 5
+[2025-02-25 19:56:00] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:56:00] Iniciando saque. Valor: 2, bank_id: 3, pix: 13870676647
+[2025-02-25 19:56:00] Falha no rollover. valor_saque=2, total_depositos=10.00, rollover=1, necessario=10, sacado=0, restante=10
+[2025-02-25 19:56:05] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:56:05] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:56:05] Usuário encontrado: ID 5
+[2025-02-25 19:56:05] Senha de saque válida para usuário ID 5
+[2025-02-25 19:56:05] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:56:05] Iniciando saque. Valor: 2, bank_id: 3, pix: 13870676647
+[2025-02-25 19:56:05] Falha no rollover. valor_saque=2, total_depositos=10.00, rollover=1, necessario=10, sacado=0, restante=10
+[2025-02-25 19:59:42] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 19:59:42] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 19:59:42] Usuário encontrado: ID 5
+[2025-02-25 19:59:42] Senha de saque válida para usuário ID 5
+[2025-02-25 19:59:42] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 19:59:42] Iniciando saque. Valor: 2, bank_id: 3, pix: 13870676647
+[2025-02-25 19:59:42] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-25 19:59:42] Solicitação de saque inserida com sucesso (transacao_id=5a5270de05fbbd740e3737ffd9223888). Saldo do usuário atualizado.
+[2025-02-25 19:59:42] Valor acima do saque_automatico. Saque segue pendente para aprovação manual.
+[2025-02-25 20:00:39] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 20:00:39] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 20:00:39] Usuário encontrado: ID 5
+[2025-02-25 20:00:39] Senha de saque válida para usuário ID 5
+[2025-02-25 20:00:39] Saques hoje: 1, Total saque hoje: 2.00
+[2025-02-25 20:00:39] Iniciando saque. Valor: 10, bank_id: 3, pix: 13870676647
+[2025-02-25 20:00:39] Falha no rollover. valor_saque=10, total_depositos=20.00, rollover=1, necessario=20, apostado=12.40, restante=7.6
+[2025-02-25 20:00:43] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 20:00:43] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 20:00:43] Usuário encontrado: ID 5
+[2025-02-25 20:00:43] Senha de saque válida para usuário ID 5
+[2025-02-25 20:00:43] Saques hoje: 1, Total saque hoje: 2.00
+[2025-02-25 20:00:43] Iniciando saque. Valor: 10, bank_id: 3, pix: 13870676647
+[2025-02-25 20:00:43] Falha no rollover. valor_saque=10, total_depositos=20.00, rollover=1, necessario=20, apostado=12.40, restante=7.6
+[2025-02-25 20:00:47] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 20:00:47] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 20:00:47] Usuário encontrado: ID 5
+[2025-02-25 20:00:47] Senha de saque válida para usuário ID 5
+[2025-02-25 20:00:47] Saques hoje: 1, Total saque hoje: 2.00
+[2025-02-25 20:00:47] Iniciando saque. Valor: 10, bank_id: 3, pix: 13870676647
+[2025-02-25 20:00:47] Falha no rollover. valor_saque=10, total_depositos=20.00, rollover=1, necessario=20, apostado=12.40, restante=7.6
+[2025-02-25 20:03:05] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 20:03:05] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 20:03:05] Usuário encontrado: ID 5
+[2025-02-25 20:03:05] Senha de saque válida para usuário ID 5
+[2025-02-25 20:03:05] Saques hoje: 1, Total saque hoje: 2.00
+[2025-02-25 20:03:05] Iniciando saque. Valor: 10, bank_id: 3, pix: 13870676647
+[2025-02-25 20:03:05] Falha no rollover. valor_saque=10, total_depositos=20.00, rollover=1, necessario=20, apostado=12.40, restante=7.6
+[2025-02-25 20:03:30] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 20:03:30] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 20:03:30] Usuário encontrado: ID 5
+[2025-02-25 20:03:30] Senha de saque válida para usuário ID 5
+[2025-02-25 20:03:30] Saques hoje: 1, Total saque hoje: 2.00
+[2025-02-25 20:03:30] Iniciando saque. Valor: 10, bank_id: 3, pix: 13870676647
+[2025-02-25 20:03:30] Falha no rollover. valor_saque=10, total_depositos=20.00, rollover=1, necessario=20, apostado=12.80, restante=7.2
+[2025-02-25 20:05:51] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 20:05:51] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 20:05:51] Usuário encontrado: ID 5
+[2025-02-25 20:05:51] Senha de saque válida para usuário ID 5
+[2025-02-25 20:05:51] Saques hoje: 1, Total saque hoje: 2.00
+[2025-02-25 20:05:51] Iniciando saque. Valor: 10, bank_id: 3, pix: 13870676647
+[2025-02-25 20:05:51] Falha no rollover. valor_saque=10, total_depositos=20.00, rollover=2, necessario=40, apostado=12.80, restante=27.2
+[2025-02-25 20:05:55] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 20:05:55] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 20:05:55] Usuário encontrado: ID 5
+[2025-02-25 20:05:55] Senha de saque válida para usuário ID 5
+[2025-02-25 20:05:55] Saques hoje: 1, Total saque hoje: 2.00
+[2025-02-25 20:05:55] Iniciando saque. Valor: 10, bank_id: 3, pix: 13870676647
+[2025-02-25 20:05:55] Falha no rollover. valor_saque=10, total_depositos=20.00, rollover=2, necessario=40, apostado=12.80, restante=27.2
+[2025-02-25 20:05:58] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 20:05:58] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 20:05:58] Usuário encontrado: ID 5
+[2025-02-25 20:05:58] Senha de saque válida para usuário ID 5
+[2025-02-25 20:05:58] Saques hoje: 1, Total saque hoje: 2.00
+[2025-02-25 20:05:58] Iniciando saque. Valor: 10, bank_id: 3, pix: 13870676647
+[2025-02-25 20:05:58] Falha no rollover. valor_saque=10, total_depositos=20.00, rollover=2, necessario=40, apostado=12.80, restante=27.2
+[2025-02-25 20:06:13] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 20:06:13] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 20:06:13] Usuário encontrado: ID 5
+[2025-02-25 20:06:13] Senha de saque válida para usuário ID 5
+[2025-02-25 20:06:13] Saques hoje: 1, Total saque hoje: 2.00
+[2025-02-25 20:06:13] Iniciando saque. Valor: 10, bank_id: 3, pix: 13870676647
+[2025-02-25 20:06:13] Falha no rollover. valor_saque=10, total_depositos=20.00, rollover=4, necessario=80, apostado=12.80, restante=67.2
+[2025-02-25 20:06:25] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 20:06:25] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 20:06:25] Usuário encontrado: ID 5
+[2025-02-25 20:06:25] Senha de saque válida para usuário ID 5
+[2025-02-25 20:06:25] Saques hoje: 1, Total saque hoje: 2.00
+[2025-02-25 20:06:25] Iniciando saque. Valor: 10, bank_id: 3, pix: 13870676647
+[2025-02-25 20:06:25] Falha no rollover. valor_saque=10, total_depositos=20.00, rollover=2, necessario=40, apostado=12.80, restante=27.2
+[2025-02-25 20:06:50] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 20:06:50] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 20:06:50] Usuário encontrado: ID 5
+[2025-02-25 20:06:50] Senha de saque válida para usuário ID 5
+[2025-02-25 20:06:50] Saques hoje: 1, Total saque hoje: 2.00
+[2025-02-25 20:06:50] Iniciando saque. Valor: 10, bank_id: 3, pix: 13870676647
+[2025-02-25 20:06:50] Falha no rollover. valor_saque=10, total_depositos=20.00, rollover=1, necessario=20, apostado=12.80, restante=7.2
+[2025-02-25 20:07:44] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 20:07:44] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 20:07:44] Usuário encontrado: ID 5
+[2025-02-25 20:07:44] Senha de saque válida para usuário ID 5
+[2025-02-25 20:07:44] Saques hoje: 1, Total saque hoje: 2.00
+[2025-02-25 20:07:44] Iniciando saque. Valor: 4, bank_id: 3, pix: 13870676647
+[2025-02-25 20:07:44] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-25 20:07:44] Solicitação de saque inserida com sucesso (transacao_id=2ec4b381627c3218e448be39ea6d9624). Saldo do usuário atualizado.
+[2025-02-25 20:07:44] Valor <= saque_automatico (10). Chamando payment_auto.php...
+[2025-02-25 20:07:44] Resposta payment_auto.php: Saldo insuficiente para concluir o saque.
+[2025-02-25 20:07:44] Pagamento não aprovado automaticamente. Resposta: Saldo insuficiente para concluir o saque.
+[2025-02-25 20:12:30] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 20:12:30] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 20:12:30] Usuário encontrado: ID 5
+[2025-02-25 20:12:30] Senha de saque válida para usuário ID 5
+[2025-02-25 20:12:30] Saques hoje: 2, Total saque hoje: 6.00
+[2025-02-25 20:12:30] Iniciando saque. Valor: 5, bank_id: 3, pix: 13870676647
+[2025-02-25 20:12:30] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-25 20:12:30] Solicitação de saque inserida com sucesso (transacao_id=52483769dbd460e095ebc0004b2ccdcf). Saldo do usuário atualizado.
+[2025-02-25 20:12:30] Valor <= saque_automatico (10). Chamando payment_auto.php...
+[2025-02-25 20:12:33] Resposta payment_auto.php: Pagamento realizado com sucesso (ExpfyPay). ID: 76e0f1ceab27c941b968e79f10b6abff
+[2025-02-25 20:12:33] Retorno indica sucesso. Atualizando status=1.
+[2025-02-25 20:13:49] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 20:13:49] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 20:13:49] Usuário encontrado: ID 5
+[2025-02-25 20:13:49] Senha de saque válida para usuário ID 5
+[2025-02-25 20:13:49] Saques hoje: 3, Total saque hoje: 11.00
+[2025-02-25 20:13:49] Iniciando saque. Valor: 4, bank_id: 3, pix: 13870676647
+[2025-02-25 20:13:49] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-25 20:13:49] Solicitação de saque inserida com sucesso (transacao_id=2f75fd9de82cde08f25c1a9d728da0de). Saldo do usuário atualizado.
+[2025-02-25 20:13:49] Valor acima do saque_automatico. Saque segue pendente para aprovação manual.
+[2025-02-25 20:14:40] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 20:14:40] token_user encontrado: e80ed023efbe71180bb9247f79bda466
+[2025-02-25 20:14:40] Usuário encontrado: ID 5
+[2025-02-25 20:14:40] Senha de saque válida para usuário ID 5
+[2025-02-25 20:14:40] Saques hoje: 4, Total saque hoje: 15.00
+[2025-02-25 20:14:40] Iniciando saque. Valor: 2, bank_id: 3, pix: 13870676647
+[2025-02-25 20:14:40] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-25 20:14:40] Solicitação de saque inserida com sucesso (transacao_id=a1c453c11150a3aa7ac2eaa004b12cfa). Saldo do usuário atualizado.
+[2025-02-25 20:14:40] Valor acima do saque_automatico. Saque segue pendente para aprovação manual.
+[2025-02-25 20:16:27] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 20:16:27] token_user encontrado: 825c088ac58ac5f98aba7651ff2f8dd2
+[2025-02-25 20:16:27] Usuário encontrado: ID 6
+[2025-02-25 20:16:27] Senha de saque válida para usuário ID 6
+[2025-02-25 20:16:27] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 20:16:27] Iniciando saque. Valor: 5, bank_id: 4, pix: 13870676647
+[2025-02-25 20:16:27] Falha no rollover. valor_saque=5, total_depositos=10.00, rollover=1, necessario=10, apostado=0, restante=10
+[2025-02-25 20:16:30] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 20:16:30] token_user encontrado: 825c088ac58ac5f98aba7651ff2f8dd2
+[2025-02-25 20:16:30] Usuário encontrado: ID 6
+[2025-02-25 20:16:30] Senha de saque válida para usuário ID 6
+[2025-02-25 20:16:30] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 20:16:30] Iniciando saque. Valor: 5, bank_id: 4, pix: 13870676647
+[2025-02-25 20:16:30] Falha no rollover. valor_saque=5, total_depositos=10.00, rollover=1, necessario=10, apostado=0, restante=10
+[2025-02-25 20:17:07] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 20:17:07] token_user encontrado: 825c088ac58ac5f98aba7651ff2f8dd2
+[2025-02-25 20:17:07] Usuário encontrado: ID 6
+[2025-02-25 20:17:07] Senha de saque válida para usuário ID 6
+[2025-02-25 20:17:07] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 20:17:07] Iniciando saque. Valor: 6, bank_id: 4, pix: 13870676647
+[2025-02-25 20:17:07] Falha no rollover. valor_saque=6, total_depositos=10.00, rollover=1, necessario=10, apostado=5.20, restante=4.8
+[2025-02-25 20:17:37] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 20:17:37] token_user encontrado: 825c088ac58ac5f98aba7651ff2f8dd2
+[2025-02-25 20:17:37] Usuário encontrado: ID 6
+[2025-02-25 20:17:37] Senha de saque válida para usuário ID 6
+[2025-02-25 20:17:37] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 20:17:37] Iniciando saque. Valor: 5, bank_id: 4, pix: 13870676647
+[2025-02-25 20:17:37] Falha no rollover. valor_saque=5, total_depositos=10.00, rollover=1, necessario=10, apostado=9.20, restante=0.8
+[2025-02-25 20:17:59] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 20:17:59] token_user encontrado: 825c088ac58ac5f98aba7651ff2f8dd2
+[2025-02-25 20:17:59] Usuário encontrado: ID 6
+[2025-02-25 20:17:59] Senha de saque válida para usuário ID 6
+[2025-02-25 20:17:59] Saques hoje: 0, Total saque hoje: 0
+[2025-02-25 20:17:59] Iniciando saque. Valor: 5, bank_id: 4, pix: 13870676647
+[2025-02-25 20:17:59] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-25 20:17:59] Solicitação de saque inserida com sucesso (transacao_id=d69ac5ed546885e0f9a1dedce3d15a1c). Saldo do usuário atualizado.
+[2025-02-25 20:17:59] Valor acima do saque_automatico. Saque segue pendente para aprovação manual.
+[2025-02-25 20:18:06] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 20:18:06] token_user encontrado: 825c088ac58ac5f98aba7651ff2f8dd2
+[2025-02-25 20:18:06] Usuário encontrado: ID 6
+[2025-02-25 20:18:06] Senha de saque válida para usuário ID 6
+[2025-02-25 20:18:06] Saques hoje: 1, Total saque hoje: 5.00
+[2025-02-25 20:18:06] Iniciando saque. Valor: 11, bank_id: 4, pix: 13870676647
+[2025-02-25 20:18:06] Valor do saque fora do limite de saldo ou < minsaque. saldo=6.20, minsaque=1
+[2025-02-25 20:18:11] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 20:18:11] token_user encontrado: 825c088ac58ac5f98aba7651ff2f8dd2
+[2025-02-25 20:18:11] Usuário encontrado: ID 6
+[2025-02-25 20:18:11] Senha de saque válida para usuário ID 6
+[2025-02-25 20:18:11] Saques hoje: 1, Total saque hoje: 5.00
+[2025-02-25 20:18:11] Iniciando saque. Valor: 10, bank_id: 4, pix: 13870676647
+[2025-02-25 20:18:11] Valor do saque fora do limite de saldo ou < minsaque. saldo=6.20, minsaque=1
+[2025-02-25 20:18:35] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 20:18:35] token_user encontrado: 825c088ac58ac5f98aba7651ff2f8dd2
+[2025-02-25 20:18:35] Usuário encontrado: ID 6
+[2025-02-25 20:18:35] Senha de saque válida para usuário ID 6
+[2025-02-25 20:18:35] Saques hoje: 1, Total saque hoje: 5.00
+[2025-02-25 20:18:35] Iniciando saque. Valor: 10, bank_id: 4, pix: 13870676647
+[2025-02-25 20:18:35] Valor do saque fora do limite de saldo ou < minsaque. saldo=6.20, minsaque=10
+[2025-02-25 20:19:00] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-25 20:19:00] token_user encontrado: 825c088ac58ac5f98aba7651ff2f8dd2
+[2025-02-25 20:19:00] Usuário encontrado: ID 6
+[2025-02-25 20:19:00] Senha de saque válida para usuário ID 6
+[2025-02-25 20:19:00] Saques hoje: 1, Total saque hoje: 5.00
+[2025-02-25 20:19:00] Iniciando saque. Valor: 10, bank_id: 4, pix: 13870676647
+[2025-02-25 20:19:00] Valor do saque fora do limite de saldo ou < minsaque. saldo=6.20, minsaque=10
+[2025-02-26 16:02:27] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 16:02:27] token_user encontrado: 69a456cf31ebc1f871ab74e9560adc1f
+[2025-02-26 16:02:27] Usuário encontrado: ID 1
+[2025-02-26 16:02:27] Senha de saque válida para usuário ID 1
+[2025-02-26 16:02:27] Saques hoje: 0, Total saque hoje: 0
+[2025-02-26 16:02:27] Iniciando saque. Valor: 5, bank_id: 1, pix: 12332112321
+[2025-02-26 16:02:27] Falha no rollover. valor_saque=5, total_depositos=6.00, rollover=1, necessario=6, apostado=0, restante=6
+[2025-02-26 16:02:44] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 16:02:44] token_user encontrado: 69a456cf31ebc1f871ab74e9560adc1f
+[2025-02-26 16:02:44] Usuário encontrado: ID 1
+[2025-02-26 16:02:44] Senha de saque válida para usuário ID 1
+[2025-02-26 16:02:44] Saques hoje: 0, Total saque hoje: 0
+[2025-02-26 16:02:44] Iniciando saque. Valor: 5, bank_id: 1, pix: 12332112321
+[2025-02-26 16:02:44] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 16:02:44] Solicitação de saque inserida com sucesso (transacao_id=ef8a5139def97156909fa6ba2dad318a). Saldo do usuário atualizado.
+[2025-02-26 16:02:44] Valor <= saque_automatico (55). Chamando payment_auto.php...
+[2025-02-26 16:02:44] Resposta payment_auto.php: Erro ao processar o saque via ExpfyPay: (sem mensagem)
+[2025-02-26 16:02:44] Pagamento não aprovado automaticamente. Resposta: Erro ao processar o saque via ExpfyPay: (sem mensagem)
+[2025-02-26 16:03:44] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 16:03:44] token_user encontrado: 69a456cf31ebc1f871ab74e9560adc1f
+[2025-02-26 16:03:44] Usuário encontrado: ID 1
+[2025-02-26 16:03:44] Senha de saque válida para usuário ID 1
+[2025-02-26 16:03:44] Saques hoje: 1, Total saque hoje: 5.00
+[2025-02-26 16:03:44] Iniciando saque. Valor: 5, bank_id: 1, pix: 12332112321
+[2025-02-26 16:03:44] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 16:03:44] Solicitação de saque inserida com sucesso (transacao_id=d16ed7e5291a2c98aafc97a46b18d685). Saldo do usuário atualizado.
+[2025-02-26 16:03:44] Valor <= saque_automatico (55). Chamando payment_auto.php...
+[2025-02-26 16:03:44] Resposta payment_auto.php: Erro ao processar o saque via ExpfyPay: (sem mensagem)
+[2025-02-26 16:03:44] Pagamento não aprovado automaticamente. Resposta: Erro ao processar o saque via ExpfyPay: (sem mensagem)
+[2025-02-26 16:03:57] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 16:03:57] token_user encontrado: 69a456cf31ebc1f871ab74e9560adc1f
+[2025-02-26 16:03:57] Usuário encontrado: ID 1
+[2025-02-26 16:03:57] Senha de saque válida para usuário ID 1
+[2025-02-26 16:03:57] Saques hoje: 2, Total saque hoje: 10.00
+[2025-02-26 16:03:57] Iniciando saque. Valor: 5, bank_id: 1, pix: 12332112321
+[2025-02-26 16:03:57] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 16:03:58] Solicitação de saque inserida com sucesso (transacao_id=70af2f228ec05edd91dec2ca215cda05). Saldo do usuário atualizado.
+[2025-02-26 16:03:58] Valor <= saque_automatico (55). Chamando payment_auto.php...
+[2025-02-26 16:03:58] Resposta payment_auto.php: Erro ao processar o saque via ExpfyPay: (sem mensagem)
+[2025-02-26 16:03:58] Pagamento não aprovado automaticamente. Resposta: Erro ao processar o saque via ExpfyPay: (sem mensagem)
+[2025-02-26 16:17:23] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 16:17:23] token_user encontrado: 69a456cf31ebc1f871ab74e9560adc1f
+[2025-02-26 16:17:23] Usuário encontrado: ID 1
+[2025-02-26 16:17:23] Senha de saque válida para usuário ID 1
+[2025-02-26 16:17:23] Saques hoje: 3, Total saque hoje: 15.00
+[2025-02-26 16:17:23] Iniciando saque. Valor: 100, bank_id: 1, pix: 12332112321
+[2025-02-26 16:17:23] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 16:17:23] Solicitação de saque inserida com sucesso (transacao_id=21dc0311b69e160227d31a882ac3ed0e). Saldo do usuário atualizado.
+[2025-02-26 16:17:23] Valor acima do saque_automatico. Saque segue pendente para aprovação manual.
+[2025-02-26 18:47:58] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 18:47:58] token_user encontrado: 69a456cf31ebc1f871ab74e9560adc1f
+[2025-02-26 18:47:58] Usuário encontrado: ID 1
+[2025-02-26 18:47:58] Senha de saque válida para usuário ID 1
+[2025-02-26 18:47:58] Saques hoje: 4, Total saque hoje: 115.00
+[2025-02-26 18:47:58] Iniciando saque. Valor: 5, bank_id: 1, pix: 12332112321
+[2025-02-26 18:47:58] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 18:47:58] Solicitação de saque inserida com sucesso (transacao_id=9e4cf2471472478520cc208b59ad2edc). Saldo do usuário atualizado.
+[2025-02-26 18:47:58] Valor <= saque_automatico (55). Chamando payment_auto.php...
+[2025-02-26 18:47:58] Resposta payment_auto.php: Erro ao processar o saque via ExpfyPay: (sem mensagem)
+[2025-02-26 18:47:58] Pagamento não aprovado automaticamente. Resposta: Erro ao processar o saque via ExpfyPay: (sem mensagem)
+[2025-02-26 20:07:27] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 20:07:27] token_user encontrado: a2750d1dfbdd6952b6918d5709a99fad
+[2025-02-26 20:07:27] Usuário encontrado: ID 13
+[2025-02-26 20:07:27] Senha de saque válida para usuário ID 13
+[2025-02-26 20:07:27] Saques hoje: 0, Total saque hoje: 0
+[2025-02-26 20:07:27] Iniciando saque. Valor: 5, bank_id: 9, pix: 13870676647
+[2025-02-26 20:07:27] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 20:07:27] Solicitação de saque inserida com sucesso (transacao_id=1f1964f8c996aadd48d43907a0dd8d21). Saldo do usuário atualizado.
+[2025-02-26 20:07:27] Valor <= saque_automatico (55). Chamando payment_auto.php...
+[2025-02-26 20:07:27] Resposta payment_auto.php: Saldo insuficiente para concluir o saque.
+[2025-02-26 20:07:27] Pagamento não aprovado automaticamente. Resposta: Saldo insuficiente para concluir o saque.
+[2025-02-26 20:09:27] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 20:09:27] token_user encontrado: a2750d1dfbdd6952b6918d5709a99fad
+[2025-02-26 20:09:27] Usuário encontrado: ID 13
+[2025-02-26 20:09:27] Senha de saque válida para usuário ID 13
+[2025-02-26 20:09:27] Saques hoje: 1, Total saque hoje: 5.00
+[2025-02-26 20:09:27] Iniciando saque. Valor: 5, bank_id: 9, pix: 13870676647
+[2025-02-26 20:09:27] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 20:09:27] Solicitação de saque inserida com sucesso (transacao_id=0f08472d57c4c63ec9930aad31a07ab2). Saldo do usuário atualizado.
+[2025-02-26 20:09:27] Valor <= saque_automatico (55). Chamando payment_auto.php...
+[2025-02-26 20:09:27] Resposta payment_auto.php: Saldo insuficiente para concluir o saque.
+[2025-02-26 20:09:27] Pagamento não aprovado automaticamente. Resposta: Saldo insuficiente para concluir o saque.
+[2025-02-26 21:29:14] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 21:29:14] token_user encontrado: a2750d1dfbdd6952b6918d5709a99fad
+[2025-02-26 21:29:14] Usuário encontrado: ID 13
+[2025-02-26 21:29:14] Senha de saque válida para usuário ID 13
+[2025-02-26 21:29:14] Saques hoje: 2, Total saque hoje: 10.00
+[2025-02-26 21:29:14] Iniciando saque. Valor: 5, bank_id: 9, pix: 13870676647
+[2025-02-26 21:29:14] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 21:29:14] Solicitação de saque inserida com sucesso (transacao_id=3696c5d938e5dab7f78f65bb8506a162). Saldo do usuário atualizado.
+[2025-02-26 21:29:14] Valor <= saque_automatico (55). Chamando payment_auto.php...
+[2025-02-26 21:29:14] Resposta payment_auto.php: Saldo insuficiente para concluir o saque.
+[2025-02-26 21:29:14] Pagamento não aprovado automaticamente. Resposta: Saldo insuficiente para concluir o saque.
+[2025-02-26 21:30:09] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 21:30:09] token_user encontrado: a2750d1dfbdd6952b6918d5709a99fad
+[2025-02-26 21:30:09] Usuário encontrado: ID 13
+[2025-02-26 21:30:09] Senha de saque válida para usuário ID 13
+[2025-02-26 21:30:09] Saques hoje: 3, Total saque hoje: 15.00
+[2025-02-26 21:30:09] Iniciando saque. Valor: 3, bank_id: 9, pix: 13870676647
+[2025-02-26 21:30:09] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 21:30:09] Solicitação de saque inserida com sucesso (transacao_id=b315732e4999f2f5f93e329a71e436ce). Saldo do usuário atualizado.
+[2025-02-26 21:30:09] Valor <= saque_automatico (55). Chamando payment_auto.php...
+[2025-02-26 21:30:09] Resposta payment_auto.php: Saldo insuficiente para concluir o saque.
+[2025-02-26 21:30:09] Pagamento não aprovado automaticamente. Resposta: Saldo insuficiente para concluir o saque.
+[2025-02-26 22:12:24] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 22:12:24] token_user encontrado: a2750d1dfbdd6952b6918d5709a99fad
+[2025-02-26 22:12:24] Usuário encontrado: ID 13
+[2025-02-26 22:12:24] Senha de saque válida para usuário ID 13
+[2025-02-26 22:12:24] Saques hoje: 0, Total saque hoje: 0
+[2025-02-26 22:12:24] Iniciando saque. Valor: 5, bank_id: 9, pix: 13870676647
+[2025-02-26 22:12:24] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 22:12:24] Solicitação de saque inserida com sucesso (transacao_id=01aebe4670a00b1dd9f968ef18d7e0f6). Saldo do usuário atualizado.
+[2025-02-26 22:12:24] Valor <= saque_automatico (55). Chamando payment_auto.php...
+[2025-02-26 22:12:24] Resposta payment_auto.php: Saldo insuficiente para concluir o saque.
+[2025-02-26 22:12:24] Pagamento não aprovado automaticamente. Resposta: Saldo insuficiente para concluir o saque.
+[2025-02-26 22:15:42] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 22:15:42] token_user encontrado: a2750d1dfbdd6952b6918d5709a99fad
+[2025-02-26 22:15:42] Usuário encontrado: ID 13
+[2025-02-26 22:15:42] Senha de saque válida para usuário ID 13
+[2025-02-26 22:15:42] Saques hoje: 1, Total saque hoje: 5.00
+[2025-02-26 22:15:42] Iniciando saque. Valor: 5, bank_id: 9, pix: 13870676647
+[2025-02-26 22:15:42] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 22:15:42] Solicitação de saque inserida com sucesso (transacao_id=cc0fb2a1329efe230e4b9bf8c27f2811). Saldo do usuário atualizado.
+[2025-02-26 22:15:42] Valor <= saque_automatico (55). Chamando payment_auto.php...
+[2025-02-26 22:15:42] Resposta payment_auto.php: Saldo insuficiente para concluir o saque.
+[2025-02-26 22:15:42] Pagamento não aprovado automaticamente. Resposta: Saldo insuficiente para concluir o saque.
+[2025-02-26 22:19:45] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 22:19:45] token_user encontrado: a2750d1dfbdd6952b6918d5709a99fad
+[2025-02-26 22:19:45] Usuário encontrado: ID 13
+[2025-02-26 22:19:45] Senha de saque válida para usuário ID 13
+[2025-02-26 22:19:45] Saques hoje: 2, Total saque hoje: 10.00
+[2025-02-26 22:19:45] Iniciando saque. Valor: 5, bank_id: 9, pix: 13870676647
+[2025-02-26 22:19:45] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 22:19:45] Solicitação de saque inserida com sucesso (transacao_id=c8506d2e598beae9b4a811ddcd302e30). Saldo do usuário atualizado.
+[2025-02-26 22:19:45] Valor <= saque_automatico (55). Chamando payment_auto.php...
+[2025-02-26 22:19:45] Resposta payment_auto.php: Saldo insuficiente para concluir o saque.
+[2025-02-26 22:19:45] Pagamento não aprovado automaticamente. Resposta: Saldo insuficiente para concluir o saque.
+[2025-02-26 22:22:00] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 22:22:00] token_user encontrado: a2750d1dfbdd6952b6918d5709a99fad
+[2025-02-26 22:22:00] Usuário encontrado: ID 13
+[2025-02-26 22:22:00] Senha de saque válida para usuário ID 13
+[2025-02-26 22:22:00] Saques hoje: 3, Total saque hoje: 15.00
+[2025-02-26 22:22:00] Iniciando saque. Valor: 2, bank_id: 9, pix: 13870676647
+[2025-02-26 22:22:00] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 22:22:00] Solicitação de saque inserida com sucesso (transacao_id=029ae1a5bdfb00f54024060fbdbd8024). Saldo do usuário atualizado.
+[2025-02-26 22:22:00] Valor <= saque_automatico (55). Chamando payment_auto.php...
+[2025-02-26 22:22:02] Resposta payment_auto.php: Pagamento realizado com sucesso (ExpfyPay). ID: fdc4ed19745b121e10359dff703321a8
+[2025-02-26 22:22:02] Retorno indica sucesso. Atualizando status=1.
+[2025-02-26 22:26:16] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 22:26:16] token_user encontrado: a2750d1dfbdd6952b6918d5709a99fad
+[2025-02-26 22:26:16] Usuário encontrado: ID 13
+[2025-02-26 22:26:16] Senha de saque válida para usuário ID 13
+[2025-02-26 22:26:16] Saques hoje: 4, Total saque hoje: 17.00
+[2025-02-26 22:26:16] Iniciando saque. Valor: 3, bank_id: 9, pix: 13870676647
+[2025-02-26 22:26:16] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 22:26:16] Solicitação de saque inserida com sucesso (transacao_id=6b950729a265dcc1204882b5be354437). Saldo do usuário atualizado.
+[2025-02-26 22:26:16] Valor <= saque_automatico (55). Chamando payment_auto.php...
+[2025-02-26 22:26:16] Resposta payment_auto.php: Usuário não autenticado.
+[2025-02-26 22:26:16] Pagamento não aprovado automaticamente. Resposta: Usuário não autenticado.
+[2025-02-26 22:29:18] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 22:29:18] token_user encontrado: a2750d1dfbdd6952b6918d5709a99fad
+[2025-02-26 22:29:18] Usuário encontrado: ID 13
+[2025-02-26 22:29:18] Senha de saque válida para usuário ID 13
+[2025-02-26 22:29:18] Saques hoje: 5, Total saque hoje: 20.00
+[2025-02-26 22:29:18] Iniciando saque. Valor: 3, bank_id: 9, pix: 13870676647
+[2025-02-26 22:29:18] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 22:29:18] Solicitação de saque inserida com sucesso (transacao_id=573c537dcf911e4a86b705663ba4724f). Saldo do usuário atualizado.
+[2025-02-26 22:29:18] Valor <= saque_automatico (55). Chamando payment_auto.php...
+[2025-02-26 22:29:18] Resposta payment_auto.php: Usuário não autenticado.
+[2025-02-26 22:29:18] Pagamento não aprovado automaticamente. Resposta: Usuário não autenticado.
+[2025-02-26 22:30:42] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 22:30:42] token_user encontrado: a2750d1dfbdd6952b6918d5709a99fad
+[2025-02-26 22:30:42] Usuário encontrado: ID 13
+[2025-02-26 22:30:42] Senha de saque válida para usuário ID 13
+[2025-02-26 22:30:42] Saques hoje: 6, Total saque hoje: 23.00
+[2025-02-26 22:30:42] Iniciando saque. Valor: 4, bank_id: 9, pix: 13870676647
+[2025-02-26 22:30:42] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 22:30:42] Solicitação de saque inserida com sucesso (transacao_id=f496da9c1121036ec3429e11b8f52518). Saldo do usuário atualizado.
+[2025-02-26 22:30:42] Valor <= saque_automatico (55). Chamando payment_auto.php...
+[2025-02-26 22:30:42] Resposta payment_auto.php: Usuário não autenticado.
+[2025-02-26 22:30:42] Pagamento não aprovado automaticamente. Resposta: Usuário não autenticado.
+[2025-02-26 22:35:38] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 22:35:38] token_user encontrado: a2750d1dfbdd6952b6918d5709a99fad
+[2025-02-26 22:35:38] Usuário encontrado: ID 13, Mobile: bry222
+[2025-02-26 22:35:38] Senha de saque válida para usuário ID 13
+[2025-02-26 22:35:38] Saques hoje: 7, Total saque hoje: 27.00
+[2025-02-26 22:35:38] Iniciando saque. Valor: 5, bank_id: 9, pix: 13870676647
+[2025-02-26 22:35:38] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 22:35:38] Solicitação de saque inserida com sucesso (transacao_id=39d38e7bbbfec0830c7b07ef9859c51d). Saldo do usuário atualizado.
+[2025-02-26 22:35:38] Valor <= saque_automatico (55). Chamando payment_auto.php...
+[2025-02-26 22:35:40] Resposta payment_auto.php: Pagamento realizado com sucesso (ExpfyPay). ID: 9e7afcbacb91a61641d586b892ef6763
+[2025-02-26 22:35:40] Retorno indica sucesso. Atualizando status=1.
+[2025-02-26 22:36:22] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 22:36:22] token_user encontrado: a2750d1dfbdd6952b6918d5709a99fad
+[2025-02-26 22:36:22] Usuário encontrado: ID 13, Mobile: bry222
+[2025-02-26 22:36:22] Senha de saque válida para usuário ID 13
+[2025-02-26 22:36:22] Saques hoje: 8, Total saque hoje: 32.00
+[2025-02-26 22:36:22] Iniciando saque. Valor: 100, bank_id: 9, pix: 13870676647
+[2025-02-26 22:36:22] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 22:36:22] Solicitação de saque inserida com sucesso (transacao_id=62e085b781d3fc09c08a2dedd2fc4e7b). Saldo do usuário atualizado.
+[2025-02-26 22:36:22] Valor acima do saque_automatico. Saque segue pendente para aprovação manual.
+[2025-02-26 22:36:53] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 22:36:53] token_user encontrado: a2750d1dfbdd6952b6918d5709a99fad
+[2025-02-26 22:36:53] Usuário encontrado: ID 13, Mobile: bry222
+[2025-02-26 22:36:53] Senha de saque válida para usuário ID 13
+[2025-02-26 22:36:53] Saques hoje: 9, Total saque hoje: 132.00
+[2025-02-26 22:36:53] Iniciando saque. Valor: 2, bank_id: 9, pix: 13870676647
+[2025-02-26 22:36:53] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 22:36:53] Solicitação de saque inserida com sucesso (transacao_id=2d7ed8d184c9bbf9d432c74341447572). Saldo do usuário atualizado.
+[2025-02-26 22:36:53] Valor <= saque_automatico (55). Chamando payment_auto.php...
+[2025-02-26 22:36:55] Resposta payment_auto.php: Pagamento realizado com sucesso (ExpfyPay). ID: b0b1cf7b80bddd500f344afb6c250697
+[2025-02-26 22:36:55] Retorno indica sucesso. Atualizando status=1.
+[2025-02-26 22:40:42] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 22:40:42] token_user encontrado: a2750d1dfbdd6952b6918d5709a99fad
+[2025-02-26 22:40:42] Usuário encontrado: ID 13, Mobile: bry222
+[2025-02-26 22:40:42] Senha de saque válida para usuário ID 13
+[2025-02-26 22:40:42] Saques hoje: 10, Total saque hoje: 134.00
+[2025-02-26 22:40:42] Iniciando saque. Valor: 6, bank_id: 9, pix: 13870676647
+[2025-02-26 22:40:42] Limite diário atingido (saques_hoje=10, total_saque_hoje=134.00).
+[2025-02-26 22:41:01] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 22:41:01] token_user encontrado: a2750d1dfbdd6952b6918d5709a99fad
+[2025-02-26 22:41:01] Usuário encontrado: ID 13, Mobile: bry222
+[2025-02-26 22:41:01] Senha de saque válida para usuário ID 13
+[2025-02-26 22:41:01] Saques hoje: 0, Total saque hoje: 0
+[2025-02-26 22:41:01] Iniciando saque. Valor: 6, bank_id: 9, pix: 13870676647
+[2025-02-26 22:41:01] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 22:41:01] Solicitação de saque inserida com sucesso (transacao_id=9269b01e7b0ceadd1349c130dd65d286). Saldo do usuário atualizado.
+[2025-02-26 22:41:01] Valor <= saque_automatico (55). Chamando payment_auto.php...
+[2025-02-26 22:41:03] Resposta payment_auto.php: Pagamento realizado com sucesso (ExpfyPay). ID: 1f886795461909f12930ca27d167c185
+[2025-02-26 22:41:03] Retorno indica sucesso. Atualizando status=1.
+[2025-02-26 22:41:47] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 22:41:47] token_user encontrado: a2750d1dfbdd6952b6918d5709a99fad
+[2025-02-26 22:41:47] Usuário encontrado: ID 13, Mobile: bry222
+[2025-02-26 22:41:47] Senha de saque válida para usuário ID 13
+[2025-02-26 22:41:47] Saques hoje: 1, Total saque hoje: 6.00
+[2025-02-26 22:41:47] Iniciando saque. Valor: 60, bank_id: 9, pix: 13870676647
+[2025-02-26 22:41:47] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 22:41:47] Solicitação de saque inserida com sucesso (transacao_id=a355a11a1a4ef9624b56c8851e0b63f6). Saldo do usuário atualizado.
+[2025-02-26 22:41:47] Valor acima do saque_automatico. Saque segue pendente para aprovação manual.
+[2025-02-26 22:42:10] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 22:42:10] token_user encontrado: a2750d1dfbdd6952b6918d5709a99fad
+[2025-02-26 22:42:10] Usuário encontrado: ID 13, Mobile: bry222
+[2025-02-26 22:42:10] Senha de saque válida para usuário ID 13
+[2025-02-26 22:42:10] Saques hoje: 2, Total saque hoje: 66.00
+[2025-02-26 22:42:10] Iniciando saque. Valor: 2, bank_id: 9, pix: 13870676647
+[2025-02-26 22:42:10] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 22:42:10] Solicitação de saque inserida com sucesso (transacao_id=c418d84b20b59593bbfd9e06f203ae48). Saldo do usuário atualizado.
+[2025-02-26 22:42:10] Valor <= saque_automatico (55). Chamando payment_auto.php...
+[2025-02-26 22:42:12] Resposta payment_auto.php: Pagamento realizado com sucesso (ExpfyPay). ID: 0f33c4b35846e3f836632814fd7e9d41
+[2025-02-26 22:42:12] Retorno indica sucesso. Atualizando status=1.
+[2025-02-26 22:47:08] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 22:47:08] token_user encontrado: a2750d1dfbdd6952b6918d5709a99fad
+[2025-02-26 22:47:08] Usuário encontrado: ID 13, Mobile: bry222
+[2025-02-26 22:47:08] Senha de saque válida para usuário ID 13
+[2025-02-26 22:47:08] Saques hoje: 3, Total saque hoje: 68.00
+[2025-02-26 22:47:08] Iniciando saque. Valor: 3, bank_id: 9, pix: 13870676647
+[2025-02-26 22:47:08] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 22:47:08] Solicitação de saque inserida com sucesso (transacao_id=53c754afa830b5f79381b7ed5900f115). Saldo do usuário atualizado.
+[2025-02-26 22:47:08] Valor <= saque_automatico (55). Chamando payment_auto.php...
+[2025-02-26 22:47:10] Resposta payment_auto.php: Pagamento realizado com sucesso (ExpfyPay). ID: 52f8150226d614905b54c933f3f853b9
+[2025-02-26 22:47:10] Retorno indica sucesso. Atualizando status=1.
+[2025-02-26 22:47:40] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 22:47:40] token_user encontrado: a2750d1dfbdd6952b6918d5709a99fad
+[2025-02-26 22:47:40] Usuário encontrado: ID 13, Mobile: bry222
+[2025-02-26 22:47:40] Senha de saque válida para usuário ID 13
+[2025-02-26 22:47:40] Saques hoje: 4, Total saque hoje: 71.00
+[2025-02-26 22:47:40] Iniciando saque. Valor: 2, bank_id: 9, pix: 13870676647
+[2025-02-26 22:47:40] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 22:47:40] Solicitação de saque inserida com sucesso (transacao_id=76258de9d654f8b6af05f1e2cc6a33b2). Saldo do usuário atualizado.
+[2025-02-26 22:47:40] Valor acima do saque_automatico. Saque segue pendente para aprovação manual.
+[2025-02-26 23:09:16] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 23:09:16] token_user encontrado: a4db20cd9d7a74b942a0dd8304232136
+[2025-02-26 23:09:16] Usuário encontrado: ID 14, Mobile: exp2020
+[2025-02-26 23:09:16] Senha de saque válida para usuário ID 14
+[2025-02-26 23:09:16] Saques hoje: 0, Total saque hoje: 0
+[2025-02-26 23:09:16] Iniciando saque. Valor: 10, bank_id: 10, pix: 
+[2025-02-26 23:09:16] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=1, necessario=10, apostado=0, restante=10
+[2025-02-26 23:10:26] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 23:10:26] token_user encontrado: a4db20cd9d7a74b942a0dd8304232136
+[2025-02-26 23:10:26] Usuário encontrado: ID 14, Mobile: exp2020
+[2025-02-26 23:10:26] Senha de saque válida para usuário ID 14
+[2025-02-26 23:10:26] Saques hoje: 0, Total saque hoje: 0
+[2025-02-26 23:10:26] Iniciando saque. Valor: 6, bank_id: 10, pix: 
+[2025-02-26 23:10:26] Falha no rollover. valor_saque=6, total_depositos=10.00, rollover=1, necessario=10, apostado=4.00, restante=6
+[2025-02-26 23:11:47] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 23:11:47] token_user encontrado: a4db20cd9d7a74b942a0dd8304232136
+[2025-02-26 23:11:47] Usuário encontrado: ID 14, Mobile: exp2020
+[2025-02-26 23:11:47] Senha de saque válida para usuário ID 14
+[2025-02-26 23:11:47] Saques hoje: 0, Total saque hoje: 0
+[2025-02-26 23:11:47] Iniciando saque. Valor: 20, bank_id: 10, pix: 
+[2025-02-26 23:11:47] Falha no rollover. valor_saque=20, total_depositos=10.00, rollover=1, necessario=10, apostado=6.00, restante=4
+[2025-02-26 23:11:53] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 23:11:53] token_user encontrado: a4db20cd9d7a74b942a0dd8304232136
+[2025-02-26 23:11:53] Usuário encontrado: ID 14, Mobile: exp2020
+[2025-02-26 23:11:53] Senha de saque válida para usuário ID 14
+[2025-02-26 23:11:53] Saques hoje: 0, Total saque hoje: 0
+[2025-02-26 23:11:53] Iniciando saque. Valor: 20, bank_id: 10, pix: 
+[2025-02-26 23:11:53] Falha no rollover. valor_saque=20, total_depositos=10.00, rollover=1, necessario=10, apostado=6.00, restante=4
+[2025-02-26 23:14:06] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 23:14:06] token_user encontrado: a4db20cd9d7a74b942a0dd8304232136
+[2025-02-26 23:14:06] Usuário encontrado: ID 14, Mobile: exp2020
+[2025-02-26 23:14:06] Senha de saque válida para usuário ID 14
+[2025-02-26 23:14:06] Saques hoje: 0, Total saque hoje: 0
+[2025-02-26 23:14:06] Iniciando saque. Valor: 10, bank_id: 10, pix: 
+[2025-02-26 23:14:06] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=1, necessario=10, apostado=7.20, restante=2.8
+[2025-02-26 23:14:13] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 23:14:13] token_user encontrado: a4db20cd9d7a74b942a0dd8304232136
+[2025-02-26 23:14:13] Usuário encontrado: ID 14, Mobile: exp2020
+[2025-02-26 23:14:13] Senha de saque válida para usuário ID 14
+[2025-02-26 23:14:13] Saques hoje: 0, Total saque hoje: 0
+[2025-02-26 23:14:13] Iniciando saque. Valor: 10, bank_id: 10, pix: 
+[2025-02-26 23:14:13] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=1, necessario=10, apostado=7.20, restante=2.8
+[2025-02-26 23:14:28] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 23:14:28] token_user encontrado: a4db20cd9d7a74b942a0dd8304232136
+[2025-02-26 23:14:28] Usuário encontrado: ID 14, Mobile: exp2020
+[2025-02-26 23:14:28] Senha de saque válida para usuário ID 14
+[2025-02-26 23:14:28] Saques hoje: 0, Total saque hoje: 0
+[2025-02-26 23:14:28] Iniciando saque. Valor: 10, bank_id: 10, pix: 
+[2025-02-26 23:14:28] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=1, necessario=10, apostado=9.60, restante=0.4
+[2025-02-26 23:14:35] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 23:14:35] token_user encontrado: a4db20cd9d7a74b942a0dd8304232136
+[2025-02-26 23:14:35] Usuário encontrado: ID 14, Mobile: exp2020
+[2025-02-26 23:14:35] Senha de saque válida para usuário ID 14
+[2025-02-26 23:14:35] Saques hoje: 0, Total saque hoje: 0
+[2025-02-26 23:14:35] Iniciando saque. Valor: 10, bank_id: 10, pix: 
+[2025-02-26 23:14:35] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 23:14:35] Solicitação de saque inserida com sucesso (transacao_id=298bc5dafb46fafd8bf4050d545dfe6a). Saldo do usuário atualizado.
+[2025-02-26 23:14:35] Valor <= saque_automatico (100). Chamando payment_auto.php...
+[2025-02-26 23:14:35] Resposta payment_auto.php: Chave Pix ou valor inválidos.
+[2025-02-26 23:14:35] Pagamento não aprovado automaticamente. Resposta: Chave Pix ou valor inválidos.
+[2025-02-26 23:19:21] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 23:19:21] token_user encontrado: a4db20cd9d7a74b942a0dd8304232136
+[2025-02-26 23:19:21] Usuário encontrado: ID 14, Mobile: exp2020
+[2025-02-26 23:19:21] Usuário ID 14 não possui chave PIX cadastrada.
+[2025-02-26 23:19:25] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 23:19:25] token_user encontrado: a4db20cd9d7a74b942a0dd8304232136
+[2025-02-26 23:19:25] Usuário encontrado: ID 14, Mobile: exp2020
+[2025-02-26 23:19:25] Usuário ID 14 não possui chave PIX cadastrada.
+[2025-02-26 23:20:01] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 23:20:01] token_user encontrado: a4db20cd9d7a74b942a0dd8304232136
+[2025-02-26 23:20:01] Usuário encontrado: ID 14, Mobile: exp2020
+[2025-02-26 23:20:01] Usuário ID 14 não possui chave PIX cadastrada.
+[2025-02-26 23:22:06] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 23:22:06] token_user encontrado: a4db20cd9d7a74b942a0dd8304232136
+[2025-02-26 23:22:06] Usuário encontrado: ID 14, Mobile: exp2020
+[2025-02-26 23:22:06] Usuário ID 14 não possui chave PIX cadastrada.
+[2025-02-26 23:22:11] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 23:22:11] token_user encontrado: a4db20cd9d7a74b942a0dd8304232136
+[2025-02-26 23:22:11] Usuário encontrado: ID 14, Mobile: exp2020
+[2025-02-26 23:22:11] Usuário ID 14 não possui chave PIX cadastrada.
+[2025-02-26 23:22:54] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 23:22:54] token_user encontrado: a4db20cd9d7a74b942a0dd8304232136
+[2025-02-26 23:22:54] Usuário encontrado: ID 14, Mobile: exp2020
+[2025-02-26 23:22:54] Usuário ID 14 não possui documento/PIX cadastrado.
+[2025-02-26 23:25:07] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 23:25:07] token_user encontrado: a4db20cd9d7a74b942a0dd8304232136
+[2025-02-26 23:25:07] Usuário encontrado: ID 14, Mobile: exp2020
+[2025-02-26 23:25:07] Usuário ID 14 não possui documento/PIX cadastrado.
+[2025-02-26 23:27:54] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 23:27:54] token_user encontrado: a4db20cd9d7a74b942a0dd8304232136
+[2025-02-26 23:27:54] Usuário encontrado: ID 14, Mobile: exp2020
+[2025-02-26 23:27:54] Usuário ID 14 não possui chave PIX cadastrada.
+[2025-02-26 23:28:56] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 23:28:56] token_user encontrado: a4db20cd9d7a74b942a0dd8304232136
+[2025-02-26 23:28:56] Usuário encontrado: ID 14, Mobile: exp2020
+[2025-02-26 23:28:56] Usuário ID 14 não possui chave PIX cadastrada.
+[2025-02-26 23:29:17] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 23:29:17] token_user encontrado: a4db20cd9d7a74b942a0dd8304232136
+[2025-02-26 23:29:17] Usuário encontrado: ID 14, Mobile: exp2020
+[2025-02-26 23:29:17] Senha de saque válida para usuário ID 14
+[2025-02-26 23:29:17] Saques hoje: 1, Total saque hoje: 10.00
+[2025-02-26 23:29:17] Iniciando saque. Valor: 1, bank_id: 1, pix: 13870676647
+[2025-02-26 23:29:17] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 23:29:17] Solicitação de saque inserida com sucesso (transacao_id=d1ec9e44ac1107f3891fd4cbffe39b79). Saldo do usuário atualizado.
+[2025-02-26 23:29:17] Valor <= saque_automatico (100). Chamando payment_auto.php...
+[2025-02-26 23:29:19] Resposta payment_auto.php: Pagamento realizado com sucesso (ExpfyPay). ID: 821645af924ae7fafb07ddc6e1f5d360
+[2025-02-26 23:29:19] Retorno indica sucesso. Atualizando status=1.
+[2025-02-26 23:31:50] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 23:31:50] token_user encontrado: 69a456cf31ebc1f871ab74e9560adc1f
+[2025-02-26 23:31:50] Usuário encontrado: ID 1, Mobile: expfybr2025
+[2025-02-26 23:31:50] Senha de saque válida para usuário ID 1
+[2025-02-26 23:31:50] Saques hoje: 0, Total saque hoje: 0
+[2025-02-26 23:31:50] Iniciando saque. Valor: 5, bank_id: 3, pix: 13870676647
+[2025-02-26 23:31:50] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 23:31:50] Solicitação de saque inserida com sucesso (transacao_id=bbcaf000adeb82be3590c2809f58dab6). Saldo do usuário atualizado.
+[2025-02-26 23:31:50] Valor acima do saque_automatico. Saque segue pendente para aprovação manual.
+[2025-02-26 23:32:05] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-26 23:32:05] token_user encontrado: 69a456cf31ebc1f871ab74e9560adc1f
+[2025-02-26 23:32:05] Usuário encontrado: ID 1, Mobile: expfybr2025
+[2025-02-26 23:32:05] Senha de saque válida para usuário ID 1
+[2025-02-26 23:32:05] Saques hoje: 1, Total saque hoje: 5.00
+[2025-02-26 23:32:05] Iniciando saque. Valor: 1, bank_id: 3, pix: 13870676647
+[2025-02-26 23:32:05] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-26 23:32:05] Solicitação de saque inserida com sucesso (transacao_id=45b06bcb03cbc6f37fe9a492980416a8). Saldo do usuário atualizado.
+[2025-02-26 23:32:05] Valor <= saque_automatico (3). Chamando payment_auto.php...
+[2025-02-26 23:32:07] Resposta payment_auto.php: Pagamento realizado com sucesso (ExpfyPay). ID: 6b60da0d579fd08e68ac7407a60582fc
+[2025-02-26 23:32:07] Retorno indica sucesso. Atualizando status=1.
+[2025-02-27 04:09:09] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-27 04:09:09] token_user encontrado: d5ca4c1f457c64317b88e384c97ca994
+[2025-02-27 04:09:09] Usuário encontrado: ID 1, Mobile: expfybr2025
+[2025-02-27 04:09:09] Senha de saque válida para usuário ID 1
+[2025-02-27 04:09:09] Saques hoje: 0, Total saque hoje: 0
+[2025-02-27 04:09:09] Iniciando saque. Valor: 10, bank_id: 11, pix: 12332112321
+[2025-02-27 04:09:09] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-27 04:09:09] Solicitação de saque inserida com sucesso (transacao_id=d2fc111a9db8b0241cd532ff22e039db). Saldo do usuário atualizado.
+[2025-02-27 04:09:09] Valor acima do saque_automatico. Saque segue pendente para aprovação manual.
+[2025-02-27 12:55:59] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-27 12:55:59] token_user encontrado: d5ca4c1f457c64317b88e384c97ca994
+[2025-02-27 12:55:59] Usuário encontrado: ID 1, Mobile: expfybr2025
+[2025-02-27 12:55:59] Senha de saque válida para usuário ID 1
+[2025-02-27 12:55:59] Saques hoje: 1, Total saque hoje: 10.00
+[2025-02-27 12:55:59] Iniciando saque. Valor: 10, bank_id: 12, pix: 13870676647
+[2025-02-27 12:55:59] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-27 12:55:59] Solicitação de saque inserida com sucesso (transacao_id=877993c1028bcedd83612966256601e8). Saldo do usuário atualizado.
+[2025-02-27 12:55:59] Valor <= saque_automatico (100). Chamando payment_auto.php...
+[2025-02-27 12:56:01] Resposta payment_auto.php: Pagamento realizado com sucesso (ExpfyPay). ID: 92b749f041cae1e54dcb447bf54398c6
+[2025-02-27 12:56:01] Retorno indica sucesso. Atualizando status=1.
+[2025-02-27 12:56:15] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-27 12:56:15] token_user encontrado: d5ca4c1f457c64317b88e384c97ca994
+[2025-02-27 12:56:15] Usuário encontrado: ID 1, Mobile: expfybr2025
+[2025-02-27 12:56:15] Senha de saque válida para usuário ID 1
+[2025-02-27 12:56:15] Saques hoje: 2, Total saque hoje: 20.00
+[2025-02-27 12:56:15] Iniciando saque. Valor: 30, bank_id: 12, pix: 13870676647
+[2025-02-27 12:56:15] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-27 12:56:15] Solicitação de saque inserida com sucesso (transacao_id=bdf9e598dce4fc4d77dc99bbccf45d32). Saldo do usuário atualizado.
+[2025-02-27 12:56:15] Valor <= saque_automatico (100). Chamando payment_auto.php...
+[2025-02-27 12:56:17] Resposta payment_auto.php: Pagamento realizado com sucesso (ExpfyPay). ID: cf199208b0c713192cf9c5138a0e3667
+[2025-02-27 12:56:17] Retorno indica sucesso. Atualizando status=1.
+[2025-02-27 12:56:28] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-27 12:56:28] token_user encontrado: d5ca4c1f457c64317b88e384c97ca994
+[2025-02-27 12:56:28] Usuário encontrado: ID 1, Mobile: expfybr2025
+[2025-02-27 12:56:28] Senha de saque válida para usuário ID 1
+[2025-02-27 12:56:28] Saques hoje: 3, Total saque hoje: 50.00
+[2025-02-27 12:56:28] Iniciando saque. Valor: 50, bank_id: 12, pix: 13870676647
+[2025-02-27 12:56:28] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-27 12:56:28] Solicitação de saque inserida com sucesso (transacao_id=df2facd055f8a3d8f73267f26427224f). Saldo do usuário atualizado.
+[2025-02-27 12:56:28] Valor <= saque_automatico (100). Chamando payment_auto.php...
+[2025-02-27 12:56:28] Resposta payment_auto.php: Saldo insuficiente para concluir o saque.
+[2025-02-27 12:56:28] Pagamento não aprovado automaticamente. Resposta: Saldo insuficiente para concluir o saque.
+[2025-02-27 12:58:01] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-27 12:58:01] token_user encontrado: d5ca4c1f457c64317b88e384c97ca994
+[2025-02-27 12:58:01] Usuário encontrado: ID 1, Mobile: expfybr2025
+[2025-02-27 12:58:01] Senha de saque válida para usuário ID 1
+[2025-02-27 12:58:01] Saques hoje: 4, Total saque hoje: 100.00
+[2025-02-27 12:58:01] Iniciando saque. Valor: 10, bank_id: 12, pix: 13870676647
+[2025-02-27 12:58:01] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-27 12:58:01] Solicitação de saque inserida com sucesso (transacao_id=029fb30e6e31824c5cc19de2961de106). Saldo do usuário atualizado.
+[2025-02-27 12:58:01] Valor <= saque_automatico (100). Chamando payment_auto.php...
+[2025-02-27 12:58:03] Resposta payment_auto.php: Pagamento realizado com sucesso (ExpfyPay). ID: 937e218288ea652b568ac3d39332eda0
+[2025-02-27 12:58:03] Retorno indica sucesso. Atualizando status=1.
+[2025-02-27 12:58:11] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-27 12:58:11] token_user encontrado: d5ca4c1f457c64317b88e384c97ca994
+[2025-02-27 12:58:11] Usuário encontrado: ID 1, Mobile: expfybr2025
+[2025-02-27 12:58:11] Senha de saque válida para usuário ID 1
+[2025-02-27 12:58:11] Saques hoje: 5, Total saque hoje: 110.00
+[2025-02-27 12:58:11] Iniciando saque. Valor: 15, bank_id: 12, pix: 13870676647
+[2025-02-27 12:58:11] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-27 12:58:11] Solicitação de saque inserida com sucesso (transacao_id=8a00cca0450ae897c7d87b10442b357f). Saldo do usuário atualizado.
+[2025-02-27 12:58:11] Valor <= saque_automatico (100). Chamando payment_auto.php...
+[2025-02-27 12:58:13] Resposta payment_auto.php: Pagamento realizado com sucesso (ExpfyPay). ID: 68e6ef69b97c4fb72ca10705960df396
+[2025-02-27 12:58:13] Retorno indica sucesso. Atualizando status=1.
+[2025-02-27 12:58:20] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-27 12:58:20] token_user encontrado: d5ca4c1f457c64317b88e384c97ca994
+[2025-02-27 12:58:20] Usuário encontrado: ID 1, Mobile: expfybr2025
+[2025-02-27 12:58:20] Senha de saque válida para usuário ID 1
+[2025-02-27 12:58:20] Saques hoje: 6, Total saque hoje: 125.00
+[2025-02-27 12:58:20] Iniciando saque. Valor: 25, bank_id: 12, pix: 13870676647
+[2025-02-27 12:58:20] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-27 12:58:20] Solicitação de saque inserida com sucesso (transacao_id=e7b94ee9492e7879e33e3c498cecc56e). Saldo do usuário atualizado.
+[2025-02-27 12:58:20] Valor <= saque_automatico (100). Chamando payment_auto.php...
+[2025-02-27 12:58:20] Resposta payment_auto.php: Saldo insuficiente para concluir o saque.
+[2025-02-27 12:58:20] Pagamento não aprovado automaticamente. Resposta: Saldo insuficiente para concluir o saque.
+[2025-02-27 12:59:33] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-27 12:59:33] token_user encontrado: d5ca4c1f457c64317b88e384c97ca994
+[2025-02-27 12:59:33] Usuário encontrado: ID 1, Mobile: expfybr2025
+[2025-02-27 12:59:33] Senha de saque válida para usuário ID 1
+[2025-02-27 12:59:33] Saques hoje: 7, Total saque hoje: 150.00
+[2025-02-27 12:59:33] Iniciando saque. Valor: 25, bank_id: 12, pix: 13870676647
+[2025-02-27 12:59:33] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-27 12:59:33] Solicitação de saque inserida com sucesso (transacao_id=d2d4586d44885a2db8a8c01e0c82dc2e). Saldo do usuário atualizado.
+[2025-02-27 12:59:33] Valor <= saque_automatico (100). Chamando payment_auto.php...
+[2025-02-27 12:59:33] Resposta payment_auto.php: Saldo insuficiente para concluir o saque.
+[2025-02-27 12:59:33] Pagamento não aprovado automaticamente. Resposta: Saldo insuficiente para concluir o saque.
+[2025-02-27 13:03:03] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-27 13:03:03] token_user encontrado: d5ca4c1f457c64317b88e384c97ca994
+[2025-02-27 13:03:03] Usuário encontrado: ID 1, Mobile: expfybr2025
+[2025-02-27 13:03:03] Senha de saque válida para usuário ID 1
+[2025-02-27 13:03:03] Saques hoje: 8, Total saque hoje: 175.00
+[2025-02-27 13:03:03] Iniciando saque. Valor: 25, bank_id: 12, pix: 13870676647
+[2025-02-27 13:03:03] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-27 13:03:03] Solicitação de saque inserida com sucesso (transacao_id=ad6472d8c5ff5d8cc569bca9154aec46). Saldo do usuário atualizado.
+[2025-02-27 13:03:03] Valor <= saque_automatico (100). Chamando payment_auto.php...
+[2025-02-27 13:03:03] Resposta payment_auto.php: Saldo insuficiente para concluir o saque.
+[2025-02-27 13:03:03] Pagamento não aprovado automaticamente. Resposta: Saldo insuficiente para concluir o saque.
+[2025-02-27 13:03:14] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-27 13:03:14] token_user encontrado: d5ca4c1f457c64317b88e384c97ca994
+[2025-02-27 13:03:14] Usuário encontrado: ID 1, Mobile: expfybr2025
+[2025-02-27 13:03:14] Senha de saque válida para usuário ID 1
+[2025-02-27 13:03:14] Saques hoje: 9, Total saque hoje: 200.00
+[2025-02-27 13:03:14] Iniciando saque. Valor: 24, bank_id: 12, pix: 13870676647
+[2025-02-27 13:03:14] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-27 13:03:14] Solicitação de saque inserida com sucesso (transacao_id=bc4b5d573c4941d9ac80f956efad070e). Saldo do usuário atualizado.
+[2025-02-27 13:03:14] Valor <= saque_automatico (100). Chamando payment_auto.php...
+[2025-02-27 13:03:14] Resposta payment_auto.php: Saldo insuficiente para concluir o saque.
+[2025-02-27 13:03:14] Pagamento não aprovado automaticamente. Resposta: Saldo insuficiente para concluir o saque.
+[2025-02-27 13:11:52] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-27 13:11:52] token_user encontrado: d5ca4c1f457c64317b88e384c97ca994
+[2025-02-27 13:11:52] Usuário encontrado: ID 1, Mobile: expfybr2025
+[2025-02-27 13:11:52] Senha de saque válida para usuário ID 1
+[2025-02-27 13:11:52] Saques hoje: 10, Total saque hoje: 224.00
+[2025-02-27 13:11:52] Iniciando saque. Valor: 25, bank_id: 12, pix: 13870676647
+[2025-02-27 13:11:52] Limite diário atingido (saques_hoje=10, total_saque_hoje=224.00).
+[2025-02-27 13:12:13] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-02-27 13:12:13] token_user encontrado: d5ca4c1f457c64317b88e384c97ca994
+[2025-02-27 13:12:13] Usuário encontrado: ID 1, Mobile: expfybr2025
+[2025-02-27 13:12:13] Senha de saque válida para usuário ID 1
+[2025-02-27 13:12:13] Saques hoje: 0, Total saque hoje: 0
+[2025-02-27 13:12:13] Iniciando saque. Valor: 25, bank_id: 12, pix: 13870676647
+[2025-02-27 13:12:13] Valor dentro do limite. Prosseguindo com INSERT na solicitacao_saques.
+[2025-02-27 13:12:13] Solicitação de saque inserida com sucesso (transacao_id=d937ee73e930eff4e4599d423e6fd2f6). Saldo do usuário atualizado.
+[2025-02-27 13:12:13] Valor <= saque_automatico (100). Chamando payment_auto.php...
+[2025-02-27 13:12:15] Resposta payment_auto.php: Pagamento realizado com sucesso (ExpfyPay). ID: 93bbc4191aaad49ed1f6086b7124c865
+[2025-02-27 13:12:15] Retorno indica sucesso. Atualizando status=1.
+[2025-03-15 19:47:58] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-03-15 19:47:58] token_user encontrado: 9d068f01cabe5c76218ff526ac5f673f
+[2025-03-15 19:47:58] Usuário encontrado: ID 5, Mobile: expfybr2025
+[2025-03-15 19:47:58] Senha de saque incorreta para usuário ID 5.
+[2025-03-15 19:48:03] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-03-15 19:48:03] token_user encontrado: 9d068f01cabe5c76218ff526ac5f673f
+[2025-03-15 19:48:03] Usuário encontrado: ID 5, Mobile: expfybr2025
+[2025-03-15 19:48:03] Senha de saque incorreta para usuário ID 5.
+[2025-03-15 19:48:09] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-03-15 19:48:09] token_user encontrado: 9d068f01cabe5c76218ff526ac5f673f
+[2025-03-15 19:48:09] Usuário encontrado: ID 5, Mobile: expfybr2025
+[2025-03-15 19:48:09] Senha de saque incorreta para usuário ID 5.
+[2025-03-15 19:48:11] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-03-15 19:48:11] token_user encontrado: 9d068f01cabe5c76218ff526ac5f673f
+[2025-03-15 19:48:11] Usuário encontrado: ID 5, Mobile: expfybr2025
+[2025-03-15 19:48:11] Senha de saque incorreta para usuário ID 5.
+[2025-03-15 19:48:13] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-03-15 19:48:13] token_user encontrado: 9d068f01cabe5c76218ff526ac5f673f
+[2025-03-15 19:48:13] Usuário encontrado: ID 5, Mobile: expfybr2025
+[2025-03-15 19:48:13] Senha de saque incorreta para usuário ID 5.
+[2025-03-15 19:48:31] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-03-15 19:48:31] token_user encontrado: 9d068f01cabe5c76218ff526ac5f673f
+[2025-03-15 19:48:31] Usuário encontrado: ID 5, Mobile: expfybr2025
+[2025-03-15 19:48:31] Senha de saque incorreta para usuário ID 5.
+[2025-03-15 19:49:20] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-03-15 19:49:20] token_user encontrado: 9d068f01cabe5c76218ff526ac5f673f
+[2025-03-15 19:49:20] Usuário encontrado: ID 5, Mobile: expfybr2025
+[2025-03-15 19:49:20] Senha de saque incorreta para usuário ID 5.
+[2025-03-15 19:50:01] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-03-15 19:50:01] token_user encontrado: 9d068f01cabe5c76218ff526ac5f673f
+[2025-03-15 19:50:01] Usuário encontrado: ID 5, Mobile: expfybr2025
+[2025-03-15 19:50:01] Senha de saque incorreta para usuário ID 5.
+[2025-03-15 19:50:15] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-03-15 19:50:15] token_user encontrado: 9d068f01cabe5c76218ff526ac5f673f
+[2025-03-15 19:50:15] Usuário encontrado: ID 5, Mobile: expfybr2025
+[2025-03-15 19:50:15] Senha de saque incorreta para usuário ID 5.
+[2025-03-15 19:50:18] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-03-15 19:50:18] token_user encontrado: 9d068f01cabe5c76218ff526ac5f673f
+[2025-03-15 19:50:18] Usuário encontrado: ID 5, Mobile: expfybr2025
+[2025-03-15 19:50:18] Senha de saque incorreta para usuário ID 5.
+[2025-03-15 19:56:10] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-03-15 19:56:10] token_user encontrado: 66ba591400904fcba7b0946b8014cfd2
+[2025-03-15 19:56:10] Usuário encontrado: ID 49, Mobile: expfyb20
+[2025-03-15 19:56:10] Senha de saque válida para usuário ID 49
+[2025-03-15 19:56:10] Saques hoje: 0, Total saque hoje: 0
+[2025-03-15 19:56:10] Iniciando saque. Valor: 10, bank_id: 4, pix: 13870676647
+[2025-03-15 19:56:10] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=2, necessario=20, apostado=0, restante=20
+[2025-03-15 19:56:14] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-03-15 19:56:14] token_user encontrado: 66ba591400904fcba7b0946b8014cfd2
+[2025-03-15 19:56:14] Usuário encontrado: ID 49, Mobile: expfyb20
+[2025-03-15 19:56:14] Senha de saque válida para usuário ID 49
+[2025-03-15 19:56:14] Saques hoje: 0, Total saque hoje: 0
+[2025-03-15 19:56:14] Iniciando saque. Valor: 10, bank_id: 4, pix: 13870676647
+[2025-03-15 19:56:14] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=2, necessario=20, apostado=0, restante=20
+[2025-03-15 19:57:15] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-03-15 19:57:15] token_user encontrado: 66ba591400904fcba7b0946b8014cfd2
+[2025-03-15 19:57:15] Usuário encontrado: ID 49, Mobile: expfyb20
+[2025-03-15 19:57:15] Senha de saque válida para usuário ID 49
+[2025-03-15 19:57:15] Saques hoje: 0, Total saque hoje: 0
+[2025-03-15 19:57:15] Iniciando saque. Valor: 10, bank_id: 4, pix: 13870676647
+[2025-03-15 19:57:15] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=2, necessario=20, apostado=0, restante=20
+[2025-03-15 19:57:21] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-03-15 19:57:21] token_user encontrado: 66ba591400904fcba7b0946b8014cfd2
+[2025-03-15 19:57:21] Usuário encontrado: ID 49, Mobile: expfyb20
+[2025-03-15 19:57:21] Senha de saque válida para usuário ID 49
+[2025-03-15 19:57:21] Saques hoje: 0, Total saque hoje: 0
+[2025-03-15 19:57:21] Iniciando saque. Valor: 10, bank_id: 4, pix: 13870676647
+[2025-03-15 19:57:21] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=2, necessario=20, apostado=0, restante=20
+[2025-03-15 19:57:22] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-03-15 19:57:22] token_user encontrado: 66ba591400904fcba7b0946b8014cfd2
+[2025-03-15 19:57:22] Usuário encontrado: ID 49, Mobile: expfyb20
+[2025-03-15 19:57:22] Senha de saque válida para usuário ID 49
+[2025-03-15 19:57:22] Saques hoje: 0, Total saque hoje: 0
+[2025-03-15 19:57:22] Iniciando saque. Valor: 10, bank_id: 4, pix: 13870676647
+[2025-03-15 19:57:22] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=2, necessario=20, apostado=0, restante=20
+[2025-03-15 19:57:25] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-03-15 19:57:25] token_user encontrado: 66ba591400904fcba7b0946b8014cfd2
+[2025-03-15 19:57:25] Usuário encontrado: ID 49, Mobile: expfyb20
+[2025-03-15 19:57:25] Senha de saque válida para usuário ID 49
+[2025-03-15 19:57:25] Saques hoje: 0, Total saque hoje: 0
+[2025-03-15 19:57:25] Iniciando saque. Valor: 10, bank_id: 4, pix: 13870676647
+[2025-03-15 19:57:25] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=2, necessario=20, apostado=0, restante=20
+[2025-03-15 19:57:27] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-03-15 19:57:27] token_user encontrado: 66ba591400904fcba7b0946b8014cfd2
+[2025-03-15 19:57:27] Usuário encontrado: ID 49, Mobile: expfyb20
+[2025-03-15 19:57:27] Senha de saque válida para usuário ID 49
+[2025-03-15 19:57:27] Saques hoje: 0, Total saque hoje: 0
+[2025-03-15 19:57:27] Iniciando saque. Valor: 10, bank_id: 4, pix: 13870676647
+[2025-03-15 19:57:27] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=2, necessario=20, apostado=0, restante=20
+[2025-03-15 19:58:25] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-03-15 19:58:25] token_user encontrado: 66ba591400904fcba7b0946b8014cfd2
+[2025-03-15 19:58:25] Usuário encontrado: ID 49, Mobile: expfyb20
+[2025-03-15 19:58:25] Senha de saque válida para usuário ID 49
+[2025-03-15 19:58:25] Saques hoje: 0, Total saque hoje: 0
+[2025-03-15 19:58:25] Iniciando saque. Valor: 10, bank_id: 4, pix: 13870676647
+[2025-03-15 19:58:25] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=2, necessario=20, apostado=0, restante=20
+[2025-03-15 19:58:26] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-03-15 19:58:26] token_user encontrado: 66ba591400904fcba7b0946b8014cfd2
+[2025-03-15 19:58:26] Usuário encontrado: ID 49, Mobile: expfyb20
+[2025-03-15 19:58:26] Senha de saque válida para usuário ID 49
+[2025-03-15 19:58:26] Saques hoje: 0, Total saque hoje: 0
+[2025-03-15 19:58:26] Iniciando saque. Valor: 10, bank_id: 4, pix: 13870676647
+[2025-03-15 19:58:26] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=2, necessario=20, apostado=0, restante=20
+[2025-03-15 19:58:27] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-03-15 19:58:27] token_user encontrado: 66ba591400904fcba7b0946b8014cfd2
+[2025-03-15 19:58:27] Usuário encontrado: ID 49, Mobile: expfyb20
+[2025-03-15 19:58:27] Senha de saque válida para usuário ID 49
+[2025-03-15 19:58:27] Saques hoje: 0, Total saque hoje: 0
+[2025-03-15 19:58:27] Iniciando saque. Valor: 10, bank_id: 4, pix: 13870676647
+[2025-03-15 19:58:27] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=2, necessario=20, apostado=0, restante=20
+[2025-03-15 20:04:42] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-03-15 20:04:42] token_user encontrado: 66ba591400904fcba7b0946b8014cfd2
+[2025-03-15 20:04:42] Usuário encontrado: ID 49, Mobile: expfyb20
+[2025-03-15 20:04:42] Senha de saque válida para usuário ID 49
+[2025-03-15 20:04:42] Saques hoje: 0, Total saque hoje: 0
+[2025-03-15 20:04:42] Iniciando saque. Valor: 10, bank_id: 4, pix: 13870676647
+[2025-03-15 20:04:42] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=2, necessario=20, apostado=0, restante=20
+[2025-03-15 20:07:37] Iniciando rota finance/withdraw. Verificando cookie token_user.
+[2025-03-15 20:07:37] token_user encontrado: 66ba591400904fcba7b0946b8014cfd2
+[2025-03-15 20:07:37] Usuário encontrado: ID 49, Mobile: expfyb20
+[2025-03-15 20:07:37] Senha de saque válida para usuário ID 49
+[2025-03-15 20:07:37] Saques hoje: 0, Total saque hoje: 0
+[2025-03-15 20:07:37] Iniciando saque. Valor: 10, bank_id: 4, pix: 13870676647
+[2025-03-15 20:07:37] Falha no rollover. valor_saque=10, total_depositos=10.00, rollover=2, necessario=20, apostado=0, restante=20

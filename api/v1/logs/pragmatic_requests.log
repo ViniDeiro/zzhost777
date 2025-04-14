@@ -1,0 +1,216 @@
+==== PRAGMATIC REQUEST - 2025-01-05 11:09:18 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"86c04049d32b975a9a40360caf28dc3a","agent_code":"joelinux","user_code":"joelinux","game_code":"vs20doghouse","user_balance":"20.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":0,"msg":"GAME_NOT_FOUND"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-05 11:11:05 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"86c04049d32b975a9a40360caf28dc3a","agent_code":"joelinux","user_code":"joelinux","game_code":"g2a_vs20doghousemh\t","user_balance":"20.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":0,"msg":"GAME_NOT_FOUND"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-05 11:11:36 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"86c04049d32b975a9a40360caf28dc3a","agent_code":"joelinux","user_code":"joelinux","game_code":"g2a_vs20doghousemh","user_balance":"20.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https:\/\/igamewin.com\/gs2c\/html5Game.do?extGame=1&symbol=vs20doghousemh&gname=The%20Dog%20House%20Multihold&jurisdictionID=99&mgckey=stylename@generic~SESSION@038e172e-cb6f-11ef-9b8b-bc24114e84d0"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-05 11:12:30 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"86c04049d32b975a9a40360caf28dc3a","agent_code":"joelinux","user_code":"joelinux","game_code":"g2a_vs20doghousemh","user_balance":"20.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https:\/\/igamewin.com\/gs2c\/html5Game.do?extGame=1&symbol=vs20doghousemh&gname=The%20Dog%20House%20Multihold&jurisdictionID=99&mgckey=stylename@generic~SESSION@038e172e-cb6f-11ef-9b8b-bc24114e84d0"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-05 11:14:38 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"86c04049d32b975a9a40360caf28dc3a","agent_code":"joelinux","user_code":"joelinux","game_code":"fortune-tiger","user_balance":"20.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https:\/\/m.pg-soft-games.xyz\/play?gameid=126&user=victor-admin-test3da095b48b5db8d090bb04e584a433dc"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-05 11:16:22 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"86c04049d32b975a9a40360caf28dc3a","agent_code":"joelinux","user_code":"joelinux23","game_code":"fortune-tiger","user_balance":"100.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https:\/\/m.pg-soft-games.xyz\/play?gameid=126&user=victor-admin-test9b8f9573c629b6f54bf94e302d6ea631"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-05 11:23:11 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"86c04049d32b975a9a40360caf28dc3a","agent_code":"joelinux","user_code":"joelinux23","game_code":"g2a_vs20doghousemh","user_balance":"100.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https:\/\/igamewin.com\/gs2c\/html5Game.do?extGame=1&symbol=vs20doghousemh&gname=The%20Dog%20House%20Multihold&jurisdictionID=99&mgckey=stylename@generic~SESSION@a028e2f0-cb70-11ef-9b8b-bc24114e84d0"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-05 12:04:02 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"86c04049d32b975a9a40360caf28dc3a","agent_code":"joelinux","user_code":"joelinux23","game_code":"fortune-tiger","user_balance":"100.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https:\/\/m.pg-soft-games.xyz\/play?gameid=126&user=victor-admin-test9b8f9573c629b6f54bf94e302d6ea631"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-05 12:06:21 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"86c04049d32b975a9a40360caf28dc3a","agent_code":"joelinux","user_code":"joelinux23","game_code":"fortune-tiger","user_balance":"100.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https:\/\/m.pg-soft-games.xyz\/play?gameid=126&user=victor-admin-test9b8f9573c629b6f54bf94e302d6ea631"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-05 12:20:20 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"86c04049d32b975a9a40360caf28dc3a","agent_code":"joelinux","user_code":"joelinux23","game_code":"fortune-tiger","user_balance":"100.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https:\/\/m.pg-soft-games.xyz\/play?gameid=126&user=victor-admin-test9b8f9573c629b6f54bf94e302d6ea631"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-05 12:48:56 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"86c04049d32b975a9a40360caf28dc3a","agent_code":"joelinux","user_code":"joelinux23","game_code":"fortune-tiger","user_balance":"100.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https:\/\/m.pg-soft-games.xyz\/play?gameid=126&user=victor-admin-test9b8f9573c629b6f54bf94e302d6ea631"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-05 13:26:10 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"86c04049d32b975a9a40360caf28dc3a","agent_code":"joelinux","user_code":"joelinux23","game_code":"fortune-tiger","user_balance":"88.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https:\/\/m.pg-soft-games.xyz\/play?gameid=126&user=victor-admin-test9b8f9573c629b6f54bf94e302d6ea631"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-05 14:16:42 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"86c04049d32b975a9a40360caf28dc3a","agent_code":"joelinux","user_code":"joelinux23","game_code":"fortune-tiger","user_balance":"88.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https:\/\/m.pg-soft-games.xyz\/play?gameid=126&user=victor-admin-test9b8f9573c629b6f54bf94e302d6ea631"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-05 14:22:45 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"86c04049d32b975a9a40360caf28dc3a","agent_code":"joelinux","user_code":"joelinux23","game_code":"fortune-tiger","user_balance":"88.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https:\/\/m.pg-soft-games.xyz\/play?gameid=126&user=victor-admin-test9b8f9573c629b6f54bf94e302d6ea631"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-05 14:27:47 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"86c04049d32b975a9a40360caf28dc3a","agent_code":"joelinux","user_code":"joelinux23","game_code":"fortune-tiger","user_balance":"88.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https:\/\/m.pg-soft-games.xyz\/play?gameid=126&user=victor-admin-test9b8f9573c629b6f54bf94e302d6ea631"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-05 14:31:24 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"86c04049d32b975a9a40360caf28dc3a","agent_code":"joelinux","user_code":"joelinux23","game_code":"fortune-tiger","user_balance":"52.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https:\/\/m.pg-soft-games.xyz\/play?gameid=126&user=victor-admin-test9b8f9573c629b6f54bf94e302d6ea631"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-05 14:34:11 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"86c04049d32b975a9a40360caf28dc3a","agent_code":"joelinux","user_code":"joelinux23","game_code":"fortune-tiger","user_balance":"100.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https:\/\/m.pg-soft-games.xyz\/play?gameid=126&user=victor-admin-test9b8f9573c629b6f54bf94e302d6ea631"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-05 14:40:42 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"86c04049d32b975a9a40360caf28dc3a","agent_code":"joelinux","user_code":"joelinux23","game_code":"fortune-tiger","user_balance":"100.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https:\/\/m.pg-soft-games.xyz\/play?gameid=126&user=victor-admin-test9b8f9573c629b6f54bf94e302d6ea631"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-05 14:44:12 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"86c04049d32b975a9a40360caf28dc3a","agent_code":"joelinux","user_code":"joelinux23","game_code":"fortune-tiger","user_balance":"100.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https:\/\/m.pg-soft-games.xyz\/play?gameid=126&user=victor-admin-test9b8f9573c629b6f54bf94e302d6ea631"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-05 14:47:23 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"f2e678c417c9f5de60f06f37fad73588","agent_code":"china23","user_code":"joelinux23","game_code":"fortune-tiger","user_balance":"100.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https:\/\/m.pg-soft-games.xyz\/play?gameid=126&user=victor-admin-testa18e0dd2ef937bc615763df850c2cf9b"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-05 14:55:32 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"f2e678c417c9f5de60f06f37fad73588","agent_code":"china23","user_code":"joelinux23","game_code":"fortune-tiger","user_balance":"100.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https:\/\/m.pg-soft-games.xyz\/play?gameid=126&user=victor-admin-testa18e0dd2ef937bc615763df850c2cf9b"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-05 14:58:40 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"f2e678c417c9f5de60f06f37fad73588","agent_code":"china23","user_code":"joelinux23","game_code":"fortune-tiger","user_balance":"100.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https:\/\/m.pg-soft-games.xyz\/play?gameid=126&user=victor-admin-testa18e0dd2ef937bc615763df850c2cf9b"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-05 14:59:08 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"f2e678c417c9f5de60f06f37fad73588","agent_code":"china23","user_code":"joelinux23","game_code":"fortune-tiger","user_balance":"100.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https:\/\/m.pg-soft-games.xyz\/play?gameid=126&user=victor-admin-testa18e0dd2ef937bc615763df850c2cf9b"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-05 15:05:05 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"f2e678c417c9f5de60f06f37fad73588","agent_code":"china23","user_code":"joelinux23","game_code":"fortune-tiger","user_balance":"94.40","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https:\/\/m.pg-soft-games.xyz\/play?gameid=126&user=victor-admin-testa18e0dd2ef937bc615763df850c2cf9b"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-28 03:47:54 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"f2e678c417c9f5de60f06f37fad73588","agent_code":"china23","user_code":"pirata","game_code":"fortune-tiger","user_balance":"20.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":0,"msg":"O Agente é inválido"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-28 03:49:56 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"f2e678c417c9f5de60f06f37fad73588","agent_code":"china23","user_code":"pirata","game_code":"fortune-tiger","user_balance":"20.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":0,"msg":"O Agente é inválido"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-28 03:50:43 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"f2e678c417c9f5de60f06f37fad73588","agent_code":"china23","user_code":"pirata","game_code":"fortune-tiger","user_balance":"20.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":0,"msg":"O Agente é inválido"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-28 03:57:09 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"f2e678c417c9f5de60f06f37fad73588","agent_code":"china23","user_code":"pirata","game_code":"fortune-tiger","user_balance":"20.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":0,"msg":"O Agente é inválido"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-28 03:57:20 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"f2e678c417c9f5de60f06f37fad73588","agent_code":"china23","user_code":"pirata","game_code":"fortune-tiger","user_balance":"20.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":0,"msg":"O Agente é inválido"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-28 03:57:37 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"f2e678c417c9f5de60f06f37fad73588","agent_code":"china23","user_code":"pirata","game_code":"fortune-tiger","user_balance":"20.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":0,"msg":"O Agente é inválido"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-28 03:57:44 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"f2e678c417c9f5de60f06f37fad73588","agent_code":"china23","user_code":"pirata","game_code":"fortune-tiger","user_balance":"20.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":0,"msg":"O Agente é inválido"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-28 04:01:33 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"f2e678c417c9f5de60f06f37fad73588","agent_code":"china23","user_code":"pirata","game_code":"fortune-tiger","user_balance":"20.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":0,"msg":"O Agente é inválido"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-28 04:05:03 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"f2e678c417c9f5de60f06f37fad73588","agent_code":"china23","user_code":"pirata","game_code":"fortune-tiger","user_balance":"20.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":0,"msg":"O Agente é inválido"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-28 04:33:54 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"f2e678c417c9f5de60f06f37fad73588","agent_code":"china23","user_code":"pirata","game_code":"fortune-tiger","user_balance":"20.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":0,"msg":"O Agente é inválido"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-28 04:35:05 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"f2e678c417c9f5de60f06f37fad73588","agent_code":"china23","user_code":"pirata","game_code":"fortune-tiger","user_balance":"20.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":0,"msg":"O Agente é inválido"}
+================================
+
+==== PRAGMATIC REQUEST - 2025-01-28 12:57:59 ====
+URL: https://api.supremabet.online
+Dados Enviados: {"method":"game_launch","agent_token":"f2e678c417c9f5de60f06f37fad73588","agent_code":"china23","user_code":"pirata","game_code":"fortune-tiger","user_balance":"20.00","provider_code":"PGSOFT","lang":"pt"}
+Resposta Recebida: {"status":0,"msg":"O Agente é inválido"}
+================================
+

@@ -1,0 +1,2985 @@
+@charset "UTF-8";/*
+  设置通用字体
+  F_Regu 无法加粗
+  F_Bold 只有粗体
+*/
+@font-face {
+  font-family: 'Roboto';
+  src: url('https://dl-br-cf.sadslj88.com/yq-br-prod/web1/fonts/Roboto-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('https://dl-br-cf.sadslj88.com/yq-br-prod/web1/fonts/Roboto-Bold.ttf') format('truetype');
+  font-weight: 700;
+}
+* {
+  font-family: "Poppins", sans-serif;
+  padding: 0;
+  margin: 0;
+  -webkit-tap-highlight-color: transparent;
+  box-sizing: border-box;
+  font-size: 22rem;
+  scroll-behavior: smooth;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+html,
+body,
+#root {
+  width: 100vw;
+  height: 100dvh !important;
+  overflow-y: auto; /* Permite rolagem vertical */
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  scroll-behavior: smooth;
+}
+
+#fullScreen {
+  width: 100%;
+  height: 100%;
+}
+.ellipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.g-signin2 {
+  width: 100%;
+  height: 80rem;
+}
+.geetest_logo, .geetest_box_logo, .geetest_feedback {
+  display: none !important;
+}
+#root {
+  /* z-index: 10; */
+}
+
+/* 针对 Chrome、Safari、Edge、Opera */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* 针对 Firefox */
+input[type="number"] {
+    appearance: textfield;
+    -moz-appearance: textfield;
+}
+
+
+#logRegBlock {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  z-index: 1000000000;
+}
+img {
+  display: block;
+}
+input {
+  outline: none;
+  border: 0;
+  background-color: transparent !important;
+  background-clip: content-box;
+  padding: 1rem;
+}
+input:focus {
+  background: transparent;
+  background-clip: content-box;
+}
+input:-internal-autofill-selected {
+  background-image: none !important;
+  background-color: transparent !important;
+  -webkit-appearance: menulist-button;
+  appearance: menulist-button;
+}
+
+.button {
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+.button:active {
+  transform: scale(0.95);
+}
+
+/* 黑色主题配置修改 */
+html[theme='black'],
+html[theme='black'] body,
+html[theme='black'] #root {
+  background-color: #263040;
+  color: #a7b7d7;
+}
+html[theme='black'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #161D29 inset !important;
+  -webkit-text-fill-color: #fff;
+}
+html[theme='black'] input::placeholder {
+  color: rgba(167, 183, 215, 0.5);
+}
+
+/* 绿色主题配置修改 */
+html[theme='blue'],
+html[theme='blue'] body,
+html[theme='blue'] #root {
+  background-color: #5D98E2;
+  color: #B5E4FF;
+}
+html[theme='blue'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #015ed4 inset !important;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0.6);
+}
+html[theme='blue'] input::placeholder {
+  color: rgba(255, 255, 255, 0.60);
+}
+
+/* 白绿色主题配置修改 */
+html[theme='whiteGreen'],
+html[theme='whiteGreen'] body,
+html[theme='whiteGreen'] #root {
+  background-color: #E1E1E1;
+  color: #333333;
+}
+html[theme='whiteGreen'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #f5f5f5 inset !important;
+  -webkit-text-fill-color: #333333;
+}
+html[theme='whiteGreen'] input::placeholder {
+  color: #999999;
+}
+
+/* 紫色色主题配置修改 */
+html[theme='purple'],
+html[theme='purple'] body,
+html[theme='purple'] #root {
+  background-color: #89188A;
+  color: #fff;
+}
+html[theme='purple'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #5D085D inset !important;
+  -webkit-text-fill-color: #fff;
+}
+html[theme='purple'] input::placeholder {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+/* 白红主题配置修改 */
+html[theme='whiteRed'],
+html[theme='whiteRed'] body,
+html[theme='whiteRed'] #root {
+  background-color: #EBEBEB;
+  color: #CB3034;
+}
+html[theme='whiteRed'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #F6F6F6 inset !important;
+  -webkit-text-fill-color: #565656;
+}
+html[theme='whiteRed'] input::placeholder {
+  color: #9D9D9D;
+}
+
+/* 绿色主题配置修改 */
+html[theme='oilyGreen'],
+html[theme='oilyGreen'] body,
+html[theme='oilyGreen'] #root {
+  background-color: #3BAC65;
+  color: #C4FFD9;
+}
+html[theme='oilyGreen'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #067831 inset !important;
+  -webkit-text-fill-color: #fff;
+}
+html[theme='oilyGreen'] input::placeholder {
+  color: #87D1A2;
+}
+
+/* 范思哲黄色主题配置修改 */
+html[theme='versaceYellow'],
+html[theme='versaceYellow'] body,
+html[theme='versaceYellow'] #root {
+  background-color: #FFE08A;
+  color: #FFFFFF;
+}
+html[theme='versaceYellow'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #F5B90C inset !important;
+  -webkit-text-fill-color: #3F3F3F;
+}
+html[theme='versaceYellow'] input::placeholder {
+  color: rgba(255, 255, 255, 0.60);
+}
+
+
+/* 蜜桃色主题配置修改 */
+html[theme='lancomePeach'],
+
+html[theme='lancomePeach'] #root {
+
+  background-color: #FFCFBB;
+  color: #fff;
+}
+
+html[theme='lancomePeach'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #EE7879 inset !important;
+  -webkit-text-fill-color: #fff;
+}
+html[theme='lancomePeach'] input::placeholder {
+  color: #FEE0E0;
+}
+/* 橙色主题配置修改 */
+html[theme='hermesOrange'],
+html[theme='hermesOrange'] body,
+html[theme='hermesOrange'] #root {
+  background-color: #FFBD89;
+  color: #fff;
+}
+html[theme='hermesOrange'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #F26E0A inset !important;
+  -webkit-text-fill-color: #fff;
+}
+html[theme='hermesOrange'] input::placeholder {
+  color: #FFBE8B;
+}
+
+/* 白蓝色主题配置修改 */
+html[theme='whiteBlue'],
+html[theme='whiteBlue'] body,
+html[theme='whiteBlue'] #root {
+  background-color: #ACB8D3;
+  color: #565656;
+}
+html[theme='whiteBlue'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #F6F6F6 inset !important;
+  -webkit-text-fill-color: #333333;
+}
+html[theme='whiteBlue'] input::placeholder {
+  color: #9D9D9D;
+}
+
+/* sk2色主题配置修改 */
+html[theme='sk2'],
+html[theme='sk2'] body,
+html[theme='sk2'] #root {
+  background-color: #CC2B32;
+  color: #fff;
+}
+html[theme='sk2'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #c4242a inset !important;
+  -webkit-text-fill-color: #fff;
+}
+html[theme='sk2'] input::placeholder {
+  color: #FFC5C8;
+}
+
+/* 白黄色主题配置修改 */
+html[theme='whiteYellow'],
+html[theme='whiteYellow'] body,
+html[theme='whiteYellow'] #root {
+  background-color: #E7CF9D;
+  color: #565656;
+}
+html[theme='whiteYellow'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #F6F6F6 inset !important;
+  -webkit-text-fill-color: #565656;
+}
+html[theme='whiteYellow'] input::placeholder {
+  color: #9D9D9D;
+}
+
+/* 浅棕色主题配置修改 */
+html[theme='lightBrown'],
+html[theme='lightBrown'] body,
+html[theme='lightBrown'] #root {
+  background-color: #B7A697;
+  color: #fff;
+}
+html[theme='lightBrown'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #9B8977 inset !important;
+  -webkit-text-fill-color: #fff;
+}
+html[theme='lightBrown'] input::placeholder {
+  color: #E7D2C2;
+}
+
+
+/* 白橘色主题配置修改 */
+html[theme='whiteOrange'],
+html[theme='whiteOrange'] body,
+html[theme='whiteOrange'] #root {
+  background-color: #e5e4e5;
+  color: #363333;
+}
+html[theme='whiteOrange'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #F9F9F9 inset !important;
+  -webkit-text-fill-color: #363333;
+}
+html[theme='whiteOrange'] input::placeholder {
+  color: #9A9A9A;
+}
+
+/* furlaBlue主题配置修改 */
+html[theme='furlaBlue'],
+html[theme='furlaBlue'] body,
+html[theme='furlaBlue'] #root {
+  background-color: #ABBBE9;
+  color: #D4DDFE;
+}
+html[theme='furlaBlue'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #5375D1 inset !important;
+  -webkit-text-fill-color: #fff;
+}
+html[theme='furlaBlue'] input::placeholder {
+  color: #D4DDFE;
+}
+
+/* whitePink主题配置修改 */
+html[theme='whitePink'],
+html[theme='whitePink'] body,
+html[theme='whitePink'] #root {
+  background-color: #EAC7C9;
+  color: #565656;
+}
+html[theme='whitePink'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #F6F6F6 inset !important;
+  -webkit-text-fill-color: #565656;
+}
+html[theme='whitePink'] input::placeholder {
+  color: #9D9D9D;
+}
+
+
+/* bvGreen主题配置修改 */
+html[theme='bvGreen'],
+html[theme='bvGreen'] body,
+html[theme='bvGreen'] #root {
+  background-color: #9CBE1F;
+  color: #fff;
+}
+html[theme='bvGreen'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #7B9A1E inset !important;
+  -webkit-text-fill-color: #fff;
+}
+html[theme='bvGreen'] input::placeholder {
+  color: #D1E676;
+}
+/* whiteBrown主题配置修改 */
+html[theme='whiteBrown'],
+html[theme='whiteBrown'] body,
+html[theme='whiteBrown'] #root {
+  background-color: #B6AA9C;
+  color: #565656;
+}
+html[theme='whiteBrown'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #F6F6F6 inset !important;
+  -webkit-text-fill-color: #565656;
+}
+html[theme='whiteBrown'] input::placeholder {
+  color: #9D9D9D;
+}
+/* AnnaSuiPurple主题配置修改 */
+html[theme='AnnaSuiPurple'],
+html[theme='AnnaSuiPurple'] body,
+html[theme='AnnaSuiPurple'] #root {
+  background-color: #A592C9;
+  color: #fff;
+}
+html[theme='AnnaSuiPurple'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #6B53A2 inset !important;
+  -webkit-text-fill-color: #fff;
+}
+html[theme='AnnaSuiPurple'] input::placeholder {
+  color: #BFA9CC;
+}
+
+/* whitePurple 主题配置修改 */
+html[theme='whitePurple'],
+html[theme='whitePurple'] body,
+html[theme='whitePurple'] #root {
+  background-color: #C197C1;
+  color: #565656;
+}
+html[theme='whitePurple'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #F6F6F6 inset !important;
+  -webkit-text-fill-color: #565656;
+}
+html[theme='whitePurple'] input::placeholder {
+  color: #9D9D9D;
+}
+
+/* burgundyRed 主题配置修改 */
+html[theme='burgundyRed'],
+html[theme='burgundyRed'] body,
+html[theme='burgundyRed'] #root {
+  background-color: #8F2B40;
+  color: #fff;
+}
+html[theme='burgundyRed'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #630B20 inset !important;
+  -webkit-text-fill-color: #fff;
+}
+html[theme='burgundyRed'] input::placeholder {
+  color: #E08EA3;
+}
+/* whiteDarkGreen 主题配置修改 */
+html[theme='whiteDarkGreen'],
+html[theme='whiteDarkGreen'] body,
+html[theme='whiteDarkGreen'] #root {
+  background-color: #4A6365;
+  color: #323133;
+}
+html[theme='whiteDarkGreen'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #F6F6F6 inset !important;
+  -webkit-text-fill-color: #565656;
+}
+html[theme='whiteDarkGreen'] input::placeholder {
+  color: #9D9D9D;
+}
+
+
+/* greenGold 主题配置修改 */
+html[theme='greenGold'],
+html[theme='greenGold'] body,
+html[theme='greenGold'] #root {
+  background-color: #05584F;
+  color: #fff;
+}
+html[theme='greenGold'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #003E37 inset !important;
+  -webkit-text-fill-color: #fff;
+}
+html[theme='greenGold'] input::placeholder {
+  color: #039685;
+}
+
+/* whiteBrownLauren 主题配置修改 */
+html[theme='whiteBrownLauren'],
+html[theme='whiteBrownLauren'] body,
+html[theme='whiteBrownLauren'] #root {
+  background-color: #CDCECF;
+  color: #323133;
+}
+html[theme='whiteBrownLauren'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #F9F9F9 inset !important;
+  -webkit-text-fill-color: #323133;
+}
+html[theme='whiteBrownLauren'] input::placeholder {
+  color: #9A9A9B;
+}
+
+/* whiteRedGucci 主题配置修改 */
+html[theme='whiteRedGucci'],
+html[theme='whiteRedGucci'] body,
+html[theme='whiteRedGucci'] #root {
+  background-color: #7D6067;
+  color: #565656;
+}
+html[theme='whiteRedGucci'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #F6F6F6 inset !important;
+  -webkit-text-fill-color: #565656;
+}
+html[theme='whiteRedGucci'] input::placeholder {
+  color: #9D9D9D;
+}
+
+/* embraerBlue 主题配置修改 */
+html[theme='embraerBlue'],
+html[theme='embraerBlue'] body,
+html[theme='embraerBlue'] #root {
+  background-color: #214A9C;
+  color: #fff;
+}
+html[theme='embraerBlue'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #082C71 inset !important;
+  -webkit-text-fill-color: #fff;
+}
+html[theme='embraerBlue'] input::placeholder {
+  color: #6F97EB;
+}
+
+/* elsaPink 主题配置修改 */
+html[theme='elsaPink'],
+html[theme='elsaPink'] body,
+html[theme='elsaPink'] #root {
+  background-color: #ED89A5;
+  color: #FFFFFF;
+}
+html[theme='elsaPink'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #C3607C inset !important;
+  -webkit-text-fill-color: #fff;
+}
+html[theme='elsaPink'] input::placeholder {
+  color: rgba(255, 255, 255, 0.6)
+}
+
+/* bvlgariBrown 主题配置修改 */
+html[theme='bvlgariBrown'],
+html[theme='bvlgariBrown'] body,
+html[theme='bvlgariBrown'] #root {
+  background-color: #836658;
+  color: #FFFFFF;
+}
+html[theme='bvlgariBrown'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #634C42 inset !important;
+  -webkit-text-fill-color: #fff;
+}
+html[theme='bvlgariBrown'] input::placeholder {
+  color: rgba(255, 255, 255, 0.60)
+}
+
+/* whiteBlack 主题配置修改 */
+html[theme='whiteBlack'],
+html[theme='whiteBlack'] body,
+html[theme='whiteBlack'] #root {
+  background-color: #898788;
+  color: #565656;
+}
+html[theme='whiteBlack'] input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 100vw #F6F6F6 inset !important;
+  -webkit-text-fill-color: #565656;
+}
+html[theme='whiteBlack'] input::placeholder {
+  color: #9D9D9D;
+}@keyframes skeleton-loading {
+  0% {
+      background-position: 100% 50%
+  }
+
+  100% {
+      background-position: 0 50%
+  }
+}
+@-moz-keyframes skeleton-loading {
+  0% {
+      background-position: 100% 50%
+  }
+
+  100% {
+      background-position: 0 50%
+  }
+}
+@-webkit-keyframes skeleton-loading {
+  0% {
+      background-position: 100% 50%
+  }
+
+  100% {
+      background-position: 0 50%
+  }
+}
+@-o-keyframes skeleton-loading {
+  0% {
+      background-position: 100% 50%
+  }
+
+  100% {
+      background-position: 0 50%
+  }
+}
+/* 黑色主题 */
+html[theme='black'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(31, 40, 55, 0) 25%, rgba(43, 56, 76, 1) 37%, rgba(31, 40, 55, 1) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+/* --------- 整体页面背景色 -------------- */
+html[theme='black'] .skeletonPageBg {
+  background-color:  #0D141C;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='black'] .skeletonBoxLightBg {
+  background-color:  #18212F;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='black'] .skeletonBoxLightBg2 {
+  background-color:  #161D29;
+}
+
+/* --------- 流光块底色 -------------- */
+html[theme='black'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #1F2938;
+}
+
+/* 蓝色 */
+html[theme='blue'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(43, 125, 228, 0) 25%, rgba(68, 151, 255, 1) 37%, rgba(43, 125, 228, 0) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+/* --------- 整体页面背景色 -------------- */
+html[theme='blue'] .skeletonPageBg {
+  background-color:  #3187F0;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='blue'] .skeletonBoxLightBg {
+  background-color:  #186CD5;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='blue'] .skeletonBoxLightBg2 {
+  background-color:  #186CD5;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='blue'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #2B7DE4;
+}
+
+
+/* 白绿 */
+html[theme='whiteGreen'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(245, 245, 245, 0) 25%, rgba(225, 225, 225, 1) 37%, rgba(245, 245, 245, 0) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+/* --------- 整体页面背景色 -------------- */
+html[theme='whiteGreen'] .skeletonPageBg {
+  background-color:  #FFFFFF;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='whiteGreen'] .skeletonBoxLightBg {
+  background-color:  #0A6137;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='whiteGreen'] .skeletonBoxLightBg2 {
+  background-color:  #F5F5F5;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='whiteGreen'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #FFFFFF;
+}
+
+/* 紫色 */
+html[theme='purple'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(125, 27, 126, 0) 25%, rgba(173, 38, 175, 1) 37%, rgba(125, 27, 126, 0) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+/* --------- 整体页面背景色 -------------- */
+html[theme='purple'] .skeletonPageBg {
+  background-color:  #791078;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='purple'] .skeletonBoxLightBg {
+  background-color:  #4E024F;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='purple'] .skeletonBoxLightBg2 {
+  background-color:  #5C085D;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='purple'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #7D1B7E;
+}
+
+/* 白红 */
+html[theme='whiteRed'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(245, 245, 245, 0) 25%, rgba(225, 225, 225, 1) 37%, rgba(245, 245, 245, 0) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+/* --------- 整体页面背景色 -------------- */
+html[theme='whiteRed'] .skeletonPageBg {
+  background-color:  #FFFFFF;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='whiteRed'] .skeletonBoxLightBg {
+  background-color:  #D23A3E;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='whiteRed'] .skeletonBoxLightBg2 {
+  background-color:  #F5F5F5;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='whiteRed'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #FFFFFF;
+}
+
+/* 油绿 */
+html[theme='oilyGreen'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(12, 145, 63, 0) 25%, rgba(26, 185, 87, 1) 37%, rgba(12, 145, 63, 0) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+/* --------- 整体页面背景色 -------------- */
+html[theme='oilyGreen'] .skeletonPageBg {
+  background-color:  #0B913F;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='oilyGreen'] .skeletonBoxLightBg {
+  background-color:  #0D5E2B;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='oilyGreen'] .skeletonBoxLightBg2 {
+  background-color:  #067831;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='oilyGreen'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #0B913F;
+}
+
+/* 范思哲黄色 */
+html[theme='versaceYellow'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(255, 224, 138, 0) 25%, rgba(255, 247, 224, 1) 37%, rgba(255, 224, 138, 0) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+/* --------- 整体页面背景色 -------------- */
+html[theme='versaceYellow'] .skeletonPageBg {
+  background-color:  #FDD155;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='versaceYellow'] .skeletonBoxLightBg {
+  background-color:  #F4B303;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='versaceYellow'] .skeletonBoxLightBg2 {
+  background-color:  #F5B90C;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='versaceYellow'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #FEC627;
+}
+
+/* 蜜桃色 */
+html[theme='lancomePeach'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(252, 156, 157, 0) 25%, rgba(254, 224, 224, 1) 37%, rgba(252, 156, 157, 0) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+/* --------- 整体页面背景色 -------------- */
+html[theme='lancomePeach'] .skeletonPageBg {
+  background-color:  #F59E8F;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='lancomePeach'] .skeletonBoxLightBg {
+  background-color:  #DF6061;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='lancomePeach'] .skeletonBoxLightBg2 {
+  background-color:  #EE7879;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='lancomePeach'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #FC9C9D;
+}
+
+/* 橙色 */
+/* --------- 整体页面背景色 -------------- */
+html[theme='hermesOrange'] .skeletonPageBg {
+  background-color:  #F48E39;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='hermesOrange'] .skeletonBoxLightBg {
+  background-color:  #F26305;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='hermesOrange'] .skeletonBoxLightBg2 {
+  background-color:  #F26E0A;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='hermesOrange'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #F48E39;
+}
+html[theme='hermesOrange'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(252, 156, 157, 0) 25%, rgba(254, 224, 224, 1) 37%, rgba(252, 156, 157, 0) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+
+/* 白蓝 */
+/* --------- 整体页面背景色 -------------- */
+html[theme='whiteBlue'] .skeletonPageBg {
+  background-color:  #F6F6F6;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='whiteBlue'] .skeletonBoxLightBg {
+  background-color:  #5674CC;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='whiteBlue'] .skeletonBoxLightBg2 {
+  background-color:  #F6F6F6;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='whiteBlue'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #E9E9E9;
+}
+html[theme='whiteBlue'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(252, 156, 157, 0) 25%, rgba(225, 225, 225, 1) 37%, rgba(252, 156, 157, 0) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+
+/* sk2 */
+/* --------- 整体页面背景色 -------------- */
+html[theme='sk2'] .skeletonPageBg {
+  background-color:  #C4242A;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='sk2'] .skeletonBoxLightBg {
+  background-color:  #9D1D22;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='sk2'] .skeletonBoxLightBg2 {
+  background-color:  #C4242A;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='sk2'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #D73138;
+}
+html[theme='sk2'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(252, 156, 157, 0) 25%, rgba(254, 224, 224, 1) 37%, rgba(252, 156, 157, 0) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+
+/* 白黄 */
+/* --------- 整体页面背景色 -------------- */
+html[theme='whiteYellow'] .skeletonPageBg {
+  background-color:  #DF9A1C;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='whiteYellow'] .skeletonBoxLightBg {
+  background-color:  #DF9A1C;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='whiteYellow'] .skeletonBoxLightBg2 {
+  background-color:  #EFEFEF;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='whiteYellow'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #E9E9E9;
+}
+html[theme='whiteYellow'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(233, 233, 233, 0) 25%, rgba(203, 203, 203, 1) 37%, rgba(233, 233, 233, 0) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+
+/* 浅棕色 */
+/* --------- 整体页面背景色 -------------- */
+html[theme='lightBrown'] .skeletonPageBg {
+  background-color:  #8C7A66;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='lightBrown'] .skeletonBoxLightBg {
+  background-color:  #8C7A66;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='lightBrown'] .skeletonBoxLightBg2 {
+  background-color:  #AD9986;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='lightBrown'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #9B8977;
+}
+html[theme='lightBrown'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(155, 137, 119, 0) 25%, rgba(253, 231, 209, 1) 37%, rgba(155, 137, 119, 0) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+
+/* 橘白色 */
+/* --------- 整体页面背景色 -------------- */
+html[theme='whiteOrange'] .skeletonPageBg {
+  background-color:  #EFEFEF;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='whiteOrange'] .skeletonBoxLightBg {
+  background-color:  #F37509;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='whiteOrange'] .skeletonBoxLightBg2 {
+  background-color:  #EFEFEF;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='whiteOrange'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #E9E9E9;
+}
+html[theme='whiteOrange'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(233, 233, 233, 0) 25%, rgba(203, 203, 203, 1) 37%, rgba(233, 233, 233, 0) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+
+/* furlaBlue */
+/* --------- 整体页面背景色 -------------- */
+html[theme='furlaBlue'] .skeletonPageBg {
+  background-color:  #5375D1;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='furlaBlue'] .skeletonBoxLightBg {
+  background-color:  #4969C2;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='furlaBlue'] .skeletonBoxLightBg2 {
+  background-color:  #5375D1;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='furlaBlue'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #7996E3;
+}
+html[theme='furlaBlue'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(83, 117, 209, 0) 25%, rgba(162, 182, 254, 1) 37%, rgba(83, 117, 209, 0) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+
+
+
+/* whitePink */
+/* --------- 整体页面背景色 -------------- */
+html[theme='whitePink'] .skeletonPageBg {
+  background-color:  #F6F6F6;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='whitePink'] .skeletonBoxLightBg {
+  background-color:  #EE777D;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='whitePink'] .skeletonBoxLightBg2 {
+  background-color:  #F6F6F6;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='whitePink'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #E9E9E9;
+}
+html[theme='whitePink'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(233, 233, 233, 0) 25%, rgba(203, 203, 203, 1) 37%, rgba(233, 233, 233, 0) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+
+/* bvGreen */
+/* --------- 整体页面背景色 -------------- */
+html[theme='bvGreen'] .skeletonPageBg {
+  background-color:  #9CBA43;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='bvGreen'] .skeletonBoxLightBg {
+  background-color:  #5C780B;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='bvGreen'] .skeletonBoxLightBg2 {
+  background-color:  #9CBA43;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='bvGreen'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #7B9A1E;
+}
+html[theme='bvGreen'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(156, 186, 67, 0) 25%, rgba(194, 218, 122, 1) 37%, rgba(156, 186, 67, 0) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+
+/* whiteBrown */
+/* --------- 整体页面背景色 -------------- */
+html[theme='whiteBrown'] .skeletonPageBg {
+  background-color:  #EFEFEF;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='whiteBrown'] .skeletonBoxLightBg {
+  background-color:  #8C7A66;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='whiteBrown'] .skeletonBoxLightBg2 {
+  background-color:  #EFEFEF;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='whiteBrown'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #E9E9E9;
+}
+html[theme='whiteBrown'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(233, 233, 233, 0) 25%, rgba(203, 203, 203, 1) 37%, rgba(233, 233, 233, 0) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+
+/* AnnaSuiPurple */
+/* --------- 整体页面背景色 -------------- */
+html[theme='AnnaSuiPurple'] .skeletonPageBg {
+  background-color:  #8870B8;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='AnnaSuiPurple'] .skeletonBoxLightBg {
+  background-color:  #58418C;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='AnnaSuiPurple'] .skeletonBoxLightBg2 {
+  background-color:  #8870B8;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='AnnaSuiPurple'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #6B53A2;
+}
+html[theme='AnnaSuiPurple'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(136, 112, 184, 0) 25%, rgba(191, 169, 204, 1) 37%, rgba(136, 112, 184, 0) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+
+/* whitePurple */
+/* --------- 整体页面背景色 -------------- */
+html[theme='whitePurple'] .skeletonPageBg {
+  background-color:  #EFEFEF;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='whitePurple'] .skeletonBoxLightBg {
+  background-color:  #610C61;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='whitePurple'] .skeletonBoxLightBg2 {
+  background-color:  #EFEFEF;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='whitePurple'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #E9E9E9;
+}
+html[theme='whitePurple'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(233, 233, 233, 0) 25%, rgba(203, 203, 203, 1) 37%, rgba(233, 233, 233, 0) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+
+
+/* burgundyRed */
+/* --------- 整体页面背景色 -------------- */
+html[theme='burgundyRed'] .skeletonPageBg {
+  background-color:  #630B20;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='burgundyRed'] .skeletonBoxLightBg {
+  background-color:  #630B20;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='burgundyRed'] .skeletonBoxLightBg2 {
+  background-color:  #630B20;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='burgundyRed'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #811E35;
+}
+html[theme='burgundyRed'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(143, 43, 64, 0) 25%, rgba(224, 142, 163, 1) 37%, rgba(143, 43, 64, 0) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+
+/* whiteDarkGreen */
+/* --------- 整体页面背景色 -------------- */
+html[theme='whiteDarkGreen'] .skeletonPageBg {
+  background-color:  #EFEFEF;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='whiteDarkGreen'] .skeletonBoxLightBg {
+  background-color:  #054146;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='whiteDarkGreen'] .skeletonBoxLightBg2 {
+  background-color:  #EFEFEF;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='whiteDarkGreen'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #E9E9E9;
+}
+html[theme='whiteDarkGreen'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(233, 233, 233, 0) 25%, rgba(203, 203, 203, 1) 37%, rgba(233, 233, 233, 0) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+
+/* greenGold */
+/* --------- 整体页面背景色 -------------- */
+html[theme='greenGold'] .skeletonPageBg {
+  background-color:  #003E37;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='greenGold'] .skeletonBoxLightBg {
+  background-color:  #00352F;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='greenGold'] .skeletonBoxLightBg2 {
+  background-color:  #003E37;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='greenGold'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #08655B;
+}
+html[theme='greenGold'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(8, 101, 91, 0) 25%, rgba(79, 202, 188, 1) 37%, rgba(8, 101, 91, 0) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+
+/* whiteBrownLauren */
+/* --------- 整体页面背景色 -------------- */
+html[theme='whiteBrownLauren'] .skeletonPageBg {
+  background-color:  #F9F9F9;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='whiteBrownLauren'] .skeletonBoxLightBg {
+  background-color:  #A95E34;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='whiteBrownLauren'] .skeletonBoxLightBg2 {
+  background-color:  #F9F9F9;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='whiteBrownLauren'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #E9E9E9;
+}
+html[theme='whiteBrownLauren'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(246, 246, 246, 0) 25%, rgba(255, 255, 255, 1) 37%, rgba(246, 246, 246, 0) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+
+/* whiteRedGucci */
+/* --------- 整体页面背景色 -------------- */
+html[theme='whiteRedGucci'] .skeletonPageBg {
+  background-color:  #EFEFEF;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='whiteRedGucci'] .skeletonBoxLightBg {
+  background-color:  #650C22;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='whiteRedGucci'] .skeletonBoxLightBg2 {
+  background-color:  #EFEFEF;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='whiteRedGucci'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #E9E9E9;
+}
+html[theme='whiteRedGucci'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(233, 233, 233, 0) 25%, rgba(203, 203, 203, 1) 37%, rgba(233, 233, 233, 0) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+
+/* embraerBlue */
+/* --------- 整体页面背景色 -------------- */
+html[theme='embraerBlue'] .skeletonPageBg {
+  background-color:  #082C71;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='embraerBlue'] .skeletonBoxLightBg {
+  background-color:  #082C71;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='embraerBlue'] .skeletonBoxLightBg2 {
+  background-color:  #082C71;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='embraerBlue'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #174196;
+}
+html[theme='embraerBlue'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(8, 44, 113, 0) 25%, rgba(111, 151, 235, 1) 37%, rgba(8, 44, 113, 0));
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+
+
+/* elsaPink */
+/* --------- 整体页面背景色 -------------- */
+html[theme='elsaPink'] .skeletonPageBg {
+  background-color:  #C3607C;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='elsaPink'] .skeletonBoxLightBg {
+  background-color:  #B94B6B;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='elsaPink'] .skeletonBoxLightBg2 {
+  background-color:  #C3607C;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='elsaPink'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #D36684;
+}
+html[theme='elsaPink'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(195, 96, 124, 0) 25%, rgba(225, 109, 141, 1) 37%, rgba(195, 96, 124, 0));
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+
+
+/* whiteBlack */
+/* --------- 整体页面背景色 -------------- */
+html[theme='whiteBlack'] .skeletonPageBg {
+  background-color:  #EFEFEF;
+}
+/* --------- 部分整体高亮背景色 1 -------------- */
+html[theme='whiteBlack'] .skeletonBoxLightBg {
+  background-color:  #000;
+}
+/* --------- 部分整体高亮背景色 2 -------------- */
+html[theme='whiteBlack'] .skeletonBoxLightBg2 {
+  background-color:  #EFEFEF;
+}
+/* --------- 流光块底色 -------------- */
+html[theme='whiteBlack'] .skeletonBg {
+  overflow: hidden;
+  background-color:  #E9E9E9;
+}
+html[theme='whiteBlack'] .skeleton-paragraph {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(233, 233, 233, 0) 25%, rgba(203, 203, 203, 1) 37%, rgba(233, 233, 233, 0));
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.2s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+/* 兼容笔记本设备显示 */
+html[theme=blue] ._svg_theme_fill_color_1rmjt_3 * {
+  fill: #EAB700;
+}
+html[theme=purple] ._svg_theme_fill_color_1rmjt_3 * {
+  fill: #ffdc82;
+}
+html[theme=oilyGreen] ._svg_theme_fill_color_1rmjt_3 * {
+  fill: #fee004;
+}
+html[theme=whiteGreen] ._svg_theme_fill_color_1rmjt_3 * {
+  fill: #1e8c58;
+}
+html[theme=versaceYellow] ._svg_theme_fill_color_1rmjt_3 * {
+  fill: #ffffff;
+}
+html[theme=whiteRed] ._svg_theme_fill_color_1rmjt_3 * {
+  fill: #CB3034;
+}
+html[theme=hermesOrange] ._svg_theme_fill_color_1rmjt_3 * {
+  fill: #551f0e;
+}
+html[theme=sk2] ._svg_theme_fill_color_1rmjt_3 * {
+  fill: #f5d470;
+}
+html[theme=whiteYellow] ._svg_theme_fill_color_1rmjt_3 * {
+  fill: #DF9A1C;
+}
+html[theme=furlaBlue] ._svg_theme_fill_color_1rmjt_3 * {
+  fill: #FFFCD2;
+}
+html[theme=whitePink] ._svg_theme_fill_color_1rmjt_3 * {
+  fill: #EF7A7B;
+}
+html[theme=bvGreen] ._svg_theme_fill_color_1rmjt_3 * {
+  fill: #FFF45D;
+}
+html[theme=whiteBrown] ._svg_theme_fill_color_1rmjt_3 * {
+  fill: #927D6A;
+}
+html[theme=AnnaSuiPurple] ._svg_theme_fill_color_1rmjt_3 * {
+  fill: #fff;
+}
+html[theme=whitePurple] ._svg_theme_fill_color_1rmjt_3 * {
+  fill: #610862;
+}
+html[theme=burgundyRed] ._svg_theme_fill_color_1rmjt_3 * {
+  fill: #FE3856;
+}
+html[theme=whiteDarkGreen] ._svg_theme_fill_color_1rmjt_3 * {
+  fill: #054146;
+}
+
+._inViewPoint_1rmjt_55 {
+  width: 0rem !important;
+  height: 0rem !important;
+}.loader {
+  background: rgba(0, 0, 0, 0.2);
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 999;
+}
+
+.loader_inner {
+  bottom: 0;
+  height: 60rem;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100rem;
+}
+
+.loader_line_wrap {
+  animation: spin 2000ms cubic-bezier(.175, .885, .32, 1.275) infinite;
+  box-sizing: border-box;
+  height: 50rem;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  transform-origin: 50% 100%;
+  width: 100rem;
+}
+.loader_line {
+  border: 4rem solid transparent;
+  border-radius: 100%;
+  box-sizing: border-box;
+  height: 100rem;
+  left: 0;
+  margin: 0 auto;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100rem;
+}
+.loader_line_wrap:nth-child(1) { animation-delay: -50ms; }
+.loader_line_wrap:nth-child(2) { animation-delay: -100ms; }
+.loader_line_wrap:nth-child(3) { animation-delay: -150ms; }
+.loader_line_wrap:nth-child(4) { animation-delay: -200ms; }
+.loader_line_wrap:nth-child(5) { animation-delay: -250ms; }
+
+.loader_line_wrap:nth-child(1) .loader_line {
+  border-color: hsl(0, 80%, 60%);
+  height: 90rem;
+  width: 90rem;
+  top: 7rem;
+}
+.loader_line_wrap:nth-child(2) .loader_line {
+  border-color: hsl(60, 80%, 60%);
+  height: 76rem;
+  width: 76rem;
+  top: 14rem;
+}
+.loader_line_wrap:nth-child(3) .loader_line {
+  border-color: hsl(120, 80%, 60%);
+  height: 62rem;
+  width: 62rem;
+  top: 21rem;
+}
+.loader_line_wrap:nth-child(4) .loader_line {
+  border-color: hsl(180, 80%, 60%);
+  height: 48rem;
+  width: 48rem;
+  top: 28rem;
+}
+.loader_line_wrap:nth-child(5) .loader_line {
+  border-color: hsl(240, 80%, 60%);
+  height: 34rem;
+  width: 34rem;
+  top: 35rem;
+}
+
+@keyframes spin {
+  0%, 15% {
+  transform: rotate(0);
+}
+100% {
+  transform: rotate(360deg);
+}
+}
+/* 兼容笔记本设备显示 */
+html[theme=blue] ._svg_theme_fill_color_1vj4v_3 * {
+  fill: #EAB700;
+}
+html[theme=purple] ._svg_theme_fill_color_1vj4v_3 * {
+  fill: #ffdc82;
+}
+html[theme=oilyGreen] ._svg_theme_fill_color_1vj4v_3 * {
+  fill: #fee004;
+}
+html[theme=whiteGreen] ._svg_theme_fill_color_1vj4v_3 * {
+  fill: #1e8c58;
+}
+html[theme=versaceYellow] ._svg_theme_fill_color_1vj4v_3 * {
+  fill: #ffffff;
+}
+html[theme=whiteRed] ._svg_theme_fill_color_1vj4v_3 * {
+  fill: #CB3034;
+}
+html[theme=hermesOrange] ._svg_theme_fill_color_1vj4v_3 * {
+  fill: #551f0e;
+}
+html[theme=sk2] ._svg_theme_fill_color_1vj4v_3 * {
+  fill: #f5d470;
+}
+html[theme=whiteYellow] ._svg_theme_fill_color_1vj4v_3 * {
+  fill: #DF9A1C;
+}
+html[theme=furlaBlue] ._svg_theme_fill_color_1vj4v_3 * {
+  fill: #FFFCD2;
+}
+html[theme=whitePink] ._svg_theme_fill_color_1vj4v_3 * {
+  fill: #EF7A7B;
+}
+html[theme=bvGreen] ._svg_theme_fill_color_1vj4v_3 * {
+  fill: #FFF45D;
+}
+html[theme=whiteBrown] ._svg_theme_fill_color_1vj4v_3 * {
+  fill: #927D6A;
+}
+html[theme=AnnaSuiPurple] ._svg_theme_fill_color_1vj4v_3 * {
+  fill: #fff;
+}
+html[theme=whitePurple] ._svg_theme_fill_color_1vj4v_3 * {
+  fill: #610862;
+}
+html[theme=burgundyRed] ._svg_theme_fill_color_1vj4v_3 * {
+  fill: #FE3856;
+}
+html[theme=whiteDarkGreen] ._svg_theme_fill_color_1vj4v_3 * {
+  fill: #054146;
+}
+
+._modalBox_1vj4v_55 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: auto;
+}
+._modalBox_1vj4v_55 ._inBox_1vj4v_68 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* 兼容笔记本设备显示 */
+html[theme=blue] ._svg_theme_fill_color_1fuhn_3 * {
+  fill: #EAB700;
+}
+html[theme=purple] ._svg_theme_fill_color_1fuhn_3 * {
+  fill: #ffdc82;
+}
+html[theme=oilyGreen] ._svg_theme_fill_color_1fuhn_3 * {
+  fill: #fee004;
+}
+html[theme=whiteGreen] ._svg_theme_fill_color_1fuhn_3 * {
+  fill: #1e8c58;
+}
+html[theme=versaceYellow] ._svg_theme_fill_color_1fuhn_3 * {
+  fill: #ffffff;
+}
+html[theme=whiteRed] ._svg_theme_fill_color_1fuhn_3 * {
+  fill: #CB3034;
+}
+html[theme=hermesOrange] ._svg_theme_fill_color_1fuhn_3 * {
+  fill: #551f0e;
+}
+html[theme=sk2] ._svg_theme_fill_color_1fuhn_3 * {
+  fill: #f5d470;
+}
+html[theme=whiteYellow] ._svg_theme_fill_color_1fuhn_3 * {
+  fill: #DF9A1C;
+}
+html[theme=furlaBlue] ._svg_theme_fill_color_1fuhn_3 * {
+  fill: #FFFCD2;
+}
+html[theme=whitePink] ._svg_theme_fill_color_1fuhn_3 * {
+  fill: #EF7A7B;
+}
+html[theme=bvGreen] ._svg_theme_fill_color_1fuhn_3 * {
+  fill: #FFF45D;
+}
+html[theme=whiteBrown] ._svg_theme_fill_color_1fuhn_3 * {
+  fill: #927D6A;
+}
+html[theme=AnnaSuiPurple] ._svg_theme_fill_color_1fuhn_3 * {
+  fill: #fff;
+}
+html[theme=whitePurple] ._svg_theme_fill_color_1fuhn_3 * {
+  fill: #610862;
+}
+html[theme=burgundyRed] ._svg_theme_fill_color_1fuhn_3 * {
+  fill: #FE3856;
+}
+html[theme=whiteDarkGreen] ._svg_theme_fill_color_1fuhn_3 * {
+  fill: #054146;
+}
+
+._messageBox_1fuhn_55 {
+  position: fixed;
+  bottom: 0rem;
+  height: 0rem;
+  width: 0rem;
+  top: 5%;
+  left: 50%;
+  z-index: 1000;
+}
+
+._messagePc_1fuhn_65 {
+  width: max-content;
+  background: white;
+  margin: 15rem auto;
+  padding: 12rem;
+  border-radius: 12rem;
+  max-width: 478rem;
+  opacity: 0;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  transform: translateX(-50%);
+  z-index: 1001;
+  cursor: pointer;
+}
+._messagePc_1fuhn_65:active {
+  opacity: 0.8;
+}
+._messagePc_1fuhn_65 p {
+  color: #000;
+  text-align: center;
+  font-size: 20rem;
+  font-weight: 700;
+}
+._messagePc_1fuhn_65 img {
+  width: 24rem;
+  height: 24rem;
+  margin-right: 12rem;
+}
+._messagePc_1fuhn_65._visible_1fuhn_96 {
+  opacity: 0;
+  animation: _visible_1fuhn_96 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s 1 forwards;
+}
+._messagePc_1fuhn_65._hidden_1fuhn_100 {
+  opacity: 1;
+  animation: _hidden_1fuhn_100 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s 1 forwards;
+}
+
+._message_1fuhn_55 {
+  width: max-content;
+  background: white;
+  margin: 15rem auto;
+  padding: 12rem 24rem;
+  border-radius: 12rem;
+  max-width: 478rem;
+  opacity: 0;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  transform: translateX(-50%);
+  z-index: 1001;
+  cursor: pointer;
+}
+._message_1fuhn_55:active {
+  opacity: 0.8;
+}
+._message_1fuhn_55 p {
+  color: #000;
+  text-align: center;
+  font-size: 24rem;
+  font-weight: 700;
+}
+._message_1fuhn_55 img {
+  width: 40rem;
+  height: 40rem;
+  margin-right: 12rem;
+}
+._message_1fuhn_55._visible_1fuhn_96 {
+  opacity: 0;
+  animation: _visible_1fuhn_96 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s 1 forwards;
+}
+._message_1fuhn_55._hidden_1fuhn_100 {
+  opacity: 1;
+  animation: _hidden_1fuhn_100 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s 1 forwards;
+}
+
+@keyframes _visible_1fuhn_96 {
+  from {
+    opacity: 0;
+    top: -30rem;
+  }
+  to {
+    opacity: 1;
+    top: 0;
+  }
+}
+@keyframes _hidden_1fuhn_100 {
+  from {
+    opacity: 1;
+    top: 0;
+  }
+  to {
+    opacity: 0;
+    top: -30rem;
+  }
+}
+/* 兼容笔记本设备显示 */
+html[theme=blue] ._svg_theme_fill_color_xyz6t_3 * {
+  fill: #EAB700;
+}
+html[theme=purple] ._svg_theme_fill_color_xyz6t_3 * {
+  fill: #ffdc82;
+}
+html[theme=oilyGreen] ._svg_theme_fill_color_xyz6t_3 * {
+  fill: #fee004;
+}
+html[theme=whiteGreen] ._svg_theme_fill_color_xyz6t_3 * {
+  fill: #1e8c58;
+}
+html[theme=versaceYellow] ._svg_theme_fill_color_xyz6t_3 * {
+  fill: #ffffff;
+}
+html[theme=whiteRed] ._svg_theme_fill_color_xyz6t_3 * {
+  fill: #CB3034;
+}
+html[theme=hermesOrange] ._svg_theme_fill_color_xyz6t_3 * {
+  fill: #551f0e;
+}
+html[theme=sk2] ._svg_theme_fill_color_xyz6t_3 * {
+  fill: #f5d470;
+}
+html[theme=whiteYellow] ._svg_theme_fill_color_xyz6t_3 * {
+  fill: #DF9A1C;
+}
+html[theme=furlaBlue] ._svg_theme_fill_color_xyz6t_3 * {
+  fill: #FFFCD2;
+}
+html[theme=whitePink] ._svg_theme_fill_color_xyz6t_3 * {
+  fill: #EF7A7B;
+}
+html[theme=bvGreen] ._svg_theme_fill_color_xyz6t_3 * {
+  fill: #FFF45D;
+}
+html[theme=whiteBrown] ._svg_theme_fill_color_xyz6t_3 * {
+  fill: #927D6A;
+}
+html[theme=AnnaSuiPurple] ._svg_theme_fill_color_xyz6t_3 * {
+  fill: #fff;
+}
+html[theme=whitePurple] ._svg_theme_fill_color_xyz6t_3 * {
+  fill: #610862;
+}
+html[theme=burgundyRed] ._svg_theme_fill_color_xyz6t_3 * {
+  fill: #FE3856;
+}
+html[theme=whiteDarkGreen] ._svg_theme_fill_color_xyz6t_3 * {
+  fill: #054146;
+}
+
+._defaultCss_xyz6t_55 {
+  fill: #717E97;
+}
+html[theme=blue] ._defaultCss_xyz6t_55 {
+  fill: white;
+}
+html[theme=whiteGreen] ._defaultCss_xyz6t_55 {
+  fill: rgb(91, 188, 144);
+}
+html[theme=oilyGreen] ._defaultCss_xyz6t_55 {
+  fill: #c4ffd9;
+}
+html[theme=versaceYellow] ._defaultCss_xyz6t_55 {
+  fill: #fff7e0;
+}
+html[theme=lancomePeach] ._defaultCss_xyz6t_55 {
+  fill: rgba(255, 255, 255, 0.8);
+}
+html[theme=hermesOrange] ._defaultCss_xyz6t_55 {
+  fill: #ffbe8b;
+}
+html[theme=whiteBlue] ._defaultCss_xyz6t_55 {
+  fill: #9d9d9d;
+}
+html[theme=sk2] ._defaultCss_xyz6t_55 {
+  fill: #ffc5c8;
+}
+html[theme=lightBrown] ._defaultCss_xyz6t_55 {
+  fill: #e7d2c2;
+}
+html[theme=whiteOrange] ._defaultCss_xyz6t_55 {
+  fill: #9a9a9a;
+}
+html[theme=furlaBlue] ._defaultCss_xyz6t_55 {
+  fill: #d4ddfe;
+}
+html[theme=whitePink] ._defaultCss_xyz6t_55 {
+  fill: #9d9d9d;
+}
+html[theme=bvGreen] ._defaultCss_xyz6t_55 {
+  fill: #d1e676;
+}
+html[theme=whiteBrown] ._defaultCss_xyz6t_55 {
+  fill: #9d9d9d;
+}
+html[theme=AnnaSuiPurple] ._defaultCss_xyz6t_55 {
+  fill: #cca9aa;
+}
+html[theme=whitePurple] ._defaultCss_xyz6t_55 {
+  fill: #9d9d9d;
+}
+html[theme=burgundyRed] ._defaultCss_xyz6t_55 {
+  fill: #E08EA3;
+}
+html[theme=whiteDarkGreen] ._defaultCss_xyz6t_55 {
+  fill: #9D9D9D;
+}
+html[theme=whiteBrownLauren] ._defaultCss_xyz6t_55 {
+  fill: #9A9A9B;
+}
+html[theme=whiteRedGucci] ._defaultCss_xyz6t_55 {
+  fill: #520E23;
+}
+html[theme=embraerBlue] ._defaultCss_xyz6t_55 {
+  fill: #00AC3F;
+}
+html[theme=elsaPink] ._defaultCss_xyz6t_55 {
+  fill: rgba(255, 255, 255, 0.6);
+}
+html[theme=bvlgariBrown] ._defaultCss_xyz6t_55 {
+  fill: rgba(255, 255, 255, 0.6);
+}
+html[theme=whiteBlack] ._defaultCss_xyz6t_55 {
+  fill: #D8D8D8;
+}
+._defaultCss_xyz6t_55 * {
+  fill: #717E97;
+}
+html[theme=blue] ._defaultCss_xyz6t_55 * {
+  fill: #b5e4ff;
+}
+html[theme=whiteGreen] ._defaultCss_xyz6t_55 * {
+  fill: #1e8c58;
+}
+html[theme=purple] ._defaultCss_xyz6t_55 * {
+  fill: rgba(255, 255, 255, 0.6);
+}
+html[theme=whiteRed] ._defaultCss_xyz6t_55 * {
+  fill: #cb3034;
+}
+html[theme=oilyGreen] ._defaultCss_xyz6t_55 * {
+  fill: #87D1A2;
+}
+html[theme=whiteRed] ._defaultCss_xyz6t_55 * {
+  fill: #9d9d9d;
+}
+html[theme=versaceYellow] ._defaultCss_xyz6t_55 * {
+  fill: #fff7e0;
+}
+html[theme=lancomePeach] ._defaultCss_xyz6t_55 * {
+  fill: rgba(255, 255, 255, 0.8);
+}
+html[theme=hermesOrange] ._defaultCss_xyz6t_55 * {
+  fill: #ffbe8b;
+}
+html[theme=whiteBlue] ._defaultCss_xyz6t_55 * {
+  fill: #9d9d9d;
+}
+html[theme=whiteBlue] ._defaultCss_xyz6t_55 * * {
+  fill: #9d9d9d;
+}
+html[theme=sk2] ._defaultCss_xyz6t_55 * {
+  fill: #ffc5c8;
+}
+html[theme=sk2] ._defaultCss_xyz6t_55 * * {
+  fill: #ffc5c8;
+}
+html[theme=whiteYellow] ._defaultCss_xyz6t_55 * {
+  fill: #9d9d9d;
+}
+html[theme=whiteYellow] ._defaultCss_xyz6t_55 * * {
+  fill: #9d9d9d;
+}
+html[theme=lightBrown] ._defaultCss_xyz6t_55 * {
+  fill: #e7d2c2;
+}
+html[theme=lightBrown] ._defaultCss_xyz6t_55 * * {
+  fill: #e7d2c2;
+}
+html[theme=whiteOrange] ._defaultCss_xyz6t_55 * {
+  fill: #9a9a9a;
+}
+html[theme=whiteOrange] ._defaultCss_xyz6t_55 * * {
+  fill: #9a9a9a;
+}
+html[theme=furlaBlue] ._defaultCss_xyz6t_55 * {
+  fill: #d4ddfe;
+}
+html[theme=furlaBlue] ._defaultCss_xyz6t_55 * * {
+  fill: #d4ddfe;
+}
+html[theme=whitePink] ._defaultCss_xyz6t_55 * {
+  fill: #9d9d9d;
+}
+html[theme=whitePink] ._defaultCss_xyz6t_55 * * {
+  fill: #9d9d9d;
+}
+html[theme=bvGreen] ._defaultCss_xyz6t_55 * {
+  fill: #d1e676;
+}
+html[theme=bvGreen] ._defaultCss_xyz6t_55 * * {
+  fill: #d1e676;
+}
+html[theme=whiteBrown] ._defaultCss_xyz6t_55 * {
+  fill: #9d9d9d;
+}
+html[theme=whiteBrown] ._defaultCss_xyz6t_55 * * {
+  fill: #9d9d9d;
+}
+html[theme=AnnaSuiPurple] ._defaultCss_xyz6t_55 * {
+  fill: #bfa9cc;
+}
+html[theme=AnnaSuiPurple] ._defaultCss_xyz6t_55 * * {
+  fill: #bfa9cc;
+}
+html[theme=whitePurple] ._defaultCss_xyz6t_55 * {
+  fill: #9d9d9d;
+}
+html[theme=whitePurple] ._defaultCss_xyz6t_55 * * {
+  fill: #9d9d9d;
+}
+html[theme=whitePurple] ._defaultCss_xyz6t_55 * {
+  fill: #9D9D9D;
+}
+html[theme=whitePurple] ._defaultCss_xyz6t_55 * * {
+  fill: #9D9D9D;
+}
+html[theme=burgundyRed] ._defaultCss_xyz6t_55 * {
+  fill: #E08EA3;
+}
+html[theme=burgundyRed] ._defaultCss_xyz6t_55 * * {
+  fill: #E08EA3;
+}
+html[theme=whiteRedGucci] ._defaultCss_xyz6t_55 * {
+  fill: #9D9D9D;
+}
+html[theme=whiteRedGucci] ._defaultCss_xyz6t_55 * * {
+  fill: #9D9D9D;
+}
+html[theme=whiteDarkGreen] ._defaultCss_xyz6t_55 * {
+  fill: #9D9D9D;
+}
+html[theme=whiteDarkGreen] ._defaultCss_xyz6t_55 * * {
+  fill: #9D9D9D;
+}
+html[theme=greenGold] ._defaultCss_xyz6t_55 * {
+  fill: #039685;
+}
+html[theme=greenGold] ._defaultCss_xyz6t_55 * * {
+  fill: #039685;
+}
+html[theme=whiteBrownLauren] ._defaultCss_xyz6t_55 * {
+  fill: #9A9A9B;
+}
+html[theme=whiteBrownLauren] ._defaultCss_xyz6t_55 * * {
+  fill: #9A9A9B;
+}
+html[theme=embraerBlue] ._defaultCss_xyz6t_55 * {
+  fill: #214A9C;
+}
+html[theme=embraerBlue] ._defaultCss_xyz6t_55 * * {
+  fill: #214A9C;
+}
+html[theme=elsaPink] ._defaultCss_xyz6t_55 * {
+  fill: rgba(255, 255, 255, 0.6);
+}
+html[theme=elsaPink] ._defaultCss_xyz6t_55 * * {
+  fill: rgba(255, 255, 255, 0.6);
+}
+html[theme=bvlgariBrown] ._defaultCss_xyz6t_55 * {
+  fill: rgba(255, 255, 255, 0.6);
+}
+html[theme=bvlgariBrown] ._defaultCss_xyz6t_55 * * {
+  fill: rgba(255, 255, 255, 0.6);
+}
+html[theme=whiteBlack] ._defaultCss_xyz6t_55 * {
+  fill: #9D9D9D;
+}
+html[theme=whiteBlack] ._defaultCss_xyz6t_55 * * {
+  fill: #9D9D9D;
+}
+html[theme=whiteBlue] ._defaultCss_xyz6t_55._SecColor_xyz6t_286 {
+  fill: #5378bf;
+}
+html[theme=whiteBlue] ._defaultCss_xyz6t_55._SecColor_xyz6t_286 * {
+  fill: #5378bf;
+}
+html[theme=sk2] ._defaultCss_xyz6t_55._SecColor_xyz6t_286 {
+  fill: #f5d470;
+}
+html[theme=sk2] ._defaultCss_xyz6t_55._SecColor_xyz6t_286 * {
+  fill: #f5d470;
+}
+html[theme=whiteYellow] ._defaultCss_xyz6t_55._SecColor_xyz6t_286 {
+  fill: #df9a1c;
+}
+html[theme=whiteYellow] ._defaultCss_xyz6t_55._SecColor_xyz6t_286 * {
+  fill: #df9a1c;
+}
+html[theme=bvGreen] ._defaultCss_xyz6t_55._SecColor_xyz6t_286 {
+  fill: #fff45d;
+}
+html[theme=bvGreen] ._defaultCss_xyz6t_55._SecColor_xyz6t_286 * {
+  fill: #fff45d;
+}
+
+html[theme=versaceYellow] ._FAQIcon_xyz6t_311 * {
+  fill: #ea4e3d;
+}
+
+._lineStrong_xyz6t_315 {
+  color: #000;
+}
+._lineStrong_xyz6t_315 ._line_xyz6t_315 path:nth-child(n+2) {
+  stroke: #2BDF44;
+}
+._lineStrong_xyz6t_315 ._tool_line_t_xyz6t_321 {
+  color: #2BDF44;
+}
+
+._lineMiddle_xyz6t_325 ._line_xyz6t_315 path:nth-child(2), ._lineMiddle_xyz6t_325 ._line_xyz6t_315 path:nth-child(3) {
+  stroke: #EAB700;
+}
+
+._lineWeak_xyz6t_329 ._line_xyz6t_315 path:nth-child(2) {
+  stroke: #ED463F;
+}
+._lineWeak_xyz6t_329 ._tool_line_t_xyz6t_321 {
+  color: #ED463F;
+}
+
+html[theme=whiteRed] ._lineCyIcon_xyz6t_336 {
+  fill: #CB3034;
+}
+html[theme=whiteRed] ._lineCyIcon_xyz6t_336 circle {
+  stroke: #CB3034;
+}
+html[theme=blue] ._lineCyIcon_xyz6t_336 {
+  fill: #EAB700;
+}
+html[theme=whiteGreen] ._lineCyIcon_xyz6t_336 {
+  fill: #5BBC90;
+}
+html[theme=purple] ._lineCyIcon_xyz6t_336 {
+  fill: #FFDC82;
+}
+html[theme=purple] ._lineCyIcon_xyz6t_336 ._lineIconG_xyz6t_351 {
+  stroke: #7D1B7E;
+}
+html[theme=purple] ._lineCyIcon_xyz6t_336 ._lineIconCy_xyz6t_354 {
+  fill: #FFDC82;
+}
+html[theme=oilyGreen] ._lineCyIcon_xyz6t_336 ._lineIconG_xyz6t_351 {
+  stroke: #067831;
+}
+html[theme=versaceYellow] ._lineCyIcon_xyz6t_336 {
+  fill: #373638;
+}
+html[theme=lancomePeach] ._lineCyIcon_xyz6t_336 * {
+  fill: #FFE2C9;
+  stroke: #FFE2C9;
+}
+html[theme=lancomePeach] ._lineCyIcon_xyz6t_336 ._lineIconG_xyz6t_351 {
+  stroke: #DF6061;
+}
+html[theme=hermesOrange] ._lineCyIcon_xyz6t_336 * {
+  fill: #551F0E;
+  stroke: rgba(255, 255, 255, 0.3);
+}
+html[theme=hermesOrange] ._lineCyIcon_xyz6t_336 ._lineIconG_xyz6t_351 {
+  stroke: white;
+}
+html[theme=whiteBlue] ._lineCyIcon_xyz6t_336 * {
+  fill: #5378BF;
+  stroke: rgba(255, 255, 255, 0.3);
+}
+html[theme=whiteBlue] ._lineCyIcon_xyz6t_336 ._lineIconG_xyz6t_351 {
+  stroke: white;
+}
+html[theme=whiteYellow] ._lineCyIcon_xyz6t_336 * {
+  fill: #DF9A1C;
+  stroke: rgba(255, 255, 255, 0.3);
+}
+html[theme=whiteYellow] ._lineCyIcon_xyz6t_336 ._lineIconG_xyz6t_351 {
+  stroke: white;
+}
+html[theme=sk2] ._lineCyIcon_xyz6t_336 * {
+  fill: #F5D470;
+  stroke: rgba(255, 255, 255, 0.3);
+}
+html[theme=sk2] ._lineCyIcon_xyz6t_336 ._lineIconG_xyz6t_351 {
+  stroke: #C4242A;
+}
+html[theme=lightBrown] ._lineCyIcon_xyz6t_336 * {
+  fill: #FED39D;
+  stroke: rgba(255, 255, 255, 0.3);
+}
+html[theme=lightBrown] ._lineCyIcon_xyz6t_336 ._lineIconG_xyz6t_351 {
+  stroke: #9B8977;
+}
+html[theme=whiteOrange] ._lineCyIcon_xyz6t_336 * {
+  fill: #FA9447;
+  stroke: rgba(255, 255, 255, 0.3);
+}
+html[theme=whiteOrange] ._lineCyIcon_xyz6t_336 ._lineIconG_xyz6t_351 {
+  stroke: #FFF;
+}
+html[theme=furlaBlue] ._lineCyIcon_xyz6t_336 * {
+  fill: #4969C2;
+  stroke: rgba(255, 252, 210, 0.3);
+}
+html[theme=furlaBlue] ._lineCyIcon_xyz6t_336 ._lineIconG_xyz6t_351 {
+  stroke: #FFFCD2;
+}
+html[theme=whitePink] ._lineCyIcon_xyz6t_336 * {
+  fill: #EF7A7B;
+  stroke: rgba(255, 255, 255, 0.3);
+}
+html[theme=whitePink] ._lineCyIcon_xyz6t_336 ._lineIconG_xyz6t_351 {
+  stroke: #FFF;
+}
+html[theme=bvGreen] ._lineCyIcon_xyz6t_336 * {
+  fill: #FEE004;
+  stroke: rgba(6, 120, 49, 0.3);
+}
+html[theme=bvGreen] ._lineCyIcon_xyz6t_336 ._lineIconG_xyz6t_351 {
+  stroke: #067831;
+}
+html[theme=oilyGreen] ._lineCyIcon_xyz6t_336 * {
+  fill: #FFF45D;
+  stroke: rgba(123, 154, 30, 0.3);
+}
+html[theme=oilyGreen] ._lineCyIcon_xyz6t_336 ._lineIconG_xyz6t_351 {
+  stroke: #7B9A1E;
+}
+html[theme=whiteBrown] ._lineCyIcon_xyz6t_336 * {
+  fill: #927D6A;
+  stroke: rgba(255, 255, 255, 0.3);
+}
+html[theme=whiteBrown] ._lineCyIcon_xyz6t_336 ._lineIconG_xyz6t_351 {
+  stroke: #FFF;
+}
+html[theme=AnnaSuiPurple] ._lineCyIcon_xyz6t_336 * {
+  fill: #FFF;
+  stroke: rgba(136, 112, 184, 0.24);
+}
+html[theme=AnnaSuiPurple] ._lineCyIcon_xyz6t_336 ._lineIconG_xyz6t_351 {
+  stroke: #8870B8;
+}
+html[theme=whitePurple] ._lineCyIcon_xyz6t_336 * {
+  fill: #610862;
+  stroke: rgba(255, 255, 255, 0.3);
+}
+html[theme=whitePurple] ._lineCyIcon_xyz6t_336 ._lineIconG_xyz6t_351 {
+  stroke: #FFF;
+}
+html[theme=burgundyRed] ._lineCyIcon_xyz6t_336 * {
+  fill: #FE3856;
+  stroke: rgba(255, 255, 255, 0.3);
+}
+html[theme=burgundyRed] ._lineCyIcon_xyz6t_336 ._lineIconG_xyz6t_351 {
+  stroke: #FFF;
+}
+html[theme=whiteDarkGreen] ._lineCyIcon_xyz6t_336 * {
+  fill: #054146;
+  stroke: rgba(255, 255, 255, 0.3);
+}
+html[theme=whiteDarkGreen] ._lineCyIcon_xyz6t_336 ._lineIconG_xyz6t_351 {
+  stroke: #FFF;
+}
+html[theme=whiteRedGucci] ._lineCyIcon_xyz6t_336 * {
+  fill: #054146;
+  stroke: rgba(255, 255, 255, 0.3);
+}
+html[theme=whiteRedGucci] ._lineCyIcon_xyz6t_336 ._lineIconG_xyz6t_351 {
+  stroke: #FFF;
+}
+
+._downDefault_xyz6t_483 {
+  stroke: #717E97;
+}
+html[theme=blue] ._downDefault_xyz6t_483 {
+  stroke: white;
+}
+html[theme=whiteGreen] ._downDefault_xyz6t_483 {
+  stroke: rgb(91, 188, 144);
+}
+html[theme=oilyGreen] ._downDefault_xyz6t_483 {
+  stroke: #c4ffd9;
+}
+html[theme=versaceYellow] ._downDefault_xyz6t_483 {
+  stroke: #fff7e0;
+}
+html[theme=lancomePeach] ._downDefault_xyz6t_483 {
+  stroke: rgba(255, 255, 255, 0.8);
+}
+html[theme=hermesOrange] ._downDefault_xyz6t_483 {
+  stroke: #ffbe8b;
+}
+html[theme=whiteBlue] ._downDefault_xyz6t_483 {
+  stroke: #9d9d9d;
+}
+html[theme=sk2] ._downDefault_xyz6t_483 {
+  stroke: #ffc5c8;
+}
+html[theme=lightBrown] ._downDefault_xyz6t_483 {
+  stroke: #e7d2c2;
+}
+html[theme=whiteOrange] ._downDefault_xyz6t_483 {
+  stroke: #9a9a9a;
+}
+html[theme=furlaBlue] ._downDefault_xyz6t_483 {
+  stroke: #d4ddfe;
+}
+html[theme=whitePink] ._downDefault_xyz6t_483 {
+  stroke: #9d9d9d;
+}
+html[theme=bvGreen] ._downDefault_xyz6t_483 {
+  stroke: #d1e676;
+}
+html[theme=whiteBrown] ._downDefault_xyz6t_483 {
+  stroke: #9d9d9d;
+}
+html[theme=AnnaSuiPurple] ._downDefault_xyz6t_483 {
+  stroke: #cca9aa;
+}
+html[theme=whitePurple] ._downDefault_xyz6t_483 {
+  stroke: #9d9d9d;
+}
+html[theme=burgundyRed] ._downDefault_xyz6t_483 {
+  stroke: #fff;
+}
+html[theme=whiteRedGucci] ._downDefault_xyz6t_483 {
+  stroke: #9D9D9D;
+}
+html[theme=whiteDarkGreen] ._downDefault_xyz6t_483 {
+  stroke: #9D9D9D;
+}
+html[theme=whiteBrownLauren] ._downDefault_xyz6t_483 {
+  stroke: #9A9A9B;
+}
+/* 兼容笔记本设备显示 */
+html[theme=blue] ._svg_theme_fill_color_mwbir_3 * {
+  fill: #EAB700;
+}
+html[theme=purple] ._svg_theme_fill_color_mwbir_3 * {
+  fill: #ffdc82;
+}
+html[theme=oilyGreen] ._svg_theme_fill_color_mwbir_3 * {
+  fill: #fee004;
+}
+html[theme=whiteGreen] ._svg_theme_fill_color_mwbir_3 * {
+  fill: #1e8c58;
+}
+html[theme=versaceYellow] ._svg_theme_fill_color_mwbir_3 * {
+  fill: #ffffff;
+}
+html[theme=whiteRed] ._svg_theme_fill_color_mwbir_3 * {
+  fill: #CB3034;
+}
+html[theme=hermesOrange] ._svg_theme_fill_color_mwbir_3 * {
+  fill: #551f0e;
+}
+html[theme=sk2] ._svg_theme_fill_color_mwbir_3 * {
+  fill: #f5d470;
+}
+html[theme=whiteYellow] ._svg_theme_fill_color_mwbir_3 * {
+  fill: #DF9A1C;
+}
+html[theme=furlaBlue] ._svg_theme_fill_color_mwbir_3 * {
+  fill: #FFFCD2;
+}
+html[theme=whitePink] ._svg_theme_fill_color_mwbir_3 * {
+  fill: #EF7A7B;
+}
+html[theme=bvGreen] ._svg_theme_fill_color_mwbir_3 * {
+  fill: #FFF45D;
+}
+html[theme=whiteBrown] ._svg_theme_fill_color_mwbir_3 * {
+  fill: #927D6A;
+}
+html[theme=AnnaSuiPurple] ._svg_theme_fill_color_mwbir_3 * {
+  fill: #fff;
+}
+html[theme=whitePurple] ._svg_theme_fill_color_mwbir_3 * {
+  fill: #610862;
+}
+html[theme=burgundyRed] ._svg_theme_fill_color_mwbir_3 * {
+  fill: #FE3856;
+}
+html[theme=whiteDarkGreen] ._svg_theme_fill_color_mwbir_3 * {
+  fill: #054146;
+}
+._theme_mwbir_55 {
+  --title-color: #565656;
+  --light-color: #EAB700;
+  --icon-color: #9A9A9B;
+  --color1: #3F3F3F;
+  --color2: #323133;
+  --color3: #9D9D9D;
+  --color4: #FFFFFF;
+}
+html[theme=blue] ._theme_mwbir_55 {
+  --title-color: #565656;
+  --light-color: #EAB700;
+  --icon-color: #9A9A9B;
+  --color1: #3F3F3F;
+  --color2: #323133;
+  --color3: #9D9D9D;
+  --color4: #FFFFFF;
+}
+html[theme=whiteGreen] ._theme_mwbir_55 {
+  --title-color: #565656;
+  --light-color: #1E8C58;
+  --icon-color: #9A9A9B;
+  --color1: #3F3F3F;
+  --color2: #323133;
+  --color3: #9D9D9D;
+  --color4: #FFFFFF;
+}
+html[theme=purple] ._theme_mwbir_55 {
+  --title-color: #565656;
+  --light-color: #FFDC82;
+  --icon-color: #9A9A9B;
+  --color1: #3F3F3F;
+  --color2: #323133;
+  --color3: #9D9D9D;
+  --color4: #FFFFFF;
+}
+html[theme=whiteRed] ._theme_mwbir_55 {
+  --title-color: #565656;
+  --light-color: #CB3034;
+  --icon-color: #9A9A9B;
+  --color1: #3F3F3F;
+  --color2: #323133;
+  --color3: #9D9D9D;
+  --color4: #FFFFFF;
+}
+html[theme=oilyGreen] ._theme_mwbir_55 {
+  --title-color: #565656;
+  --light-color: #FEE004;
+  --icon-color: #9A9A9B;
+  --color1: #3F3F3F;
+  --color2: #323133;
+  --color3: #9D9D9D;
+  --color4: #FFFFFF;
+}
+html[theme=versaceYellow] ._theme_mwbir_55 {
+  --title-color: #565656;
+  --light-color: #f2a200;
+  --icon-color: #9A9A9B;
+  --color1: #3F3F3F;
+  --color2: #323133;
+  --color3: #9D9D9D;
+  --color4: #FFFFFF;
+}
+html[theme=lancomePeach] ._theme_mwbir_55 {
+  --title-color: #565656;
+  --light-color: #F4DA80;
+  --icon-color: #9A9A9B;
+  --color1: #3F3F3F;
+  --color2: #323133;
+  --color3: #9D9D9D;
+  --color4: #FFFFFF;
+}
+html[theme=hermesOrange] ._theme_mwbir_55 {
+  --title-color: #565656;
+  --light-color: #F26305;
+  --icon-color: #9A9A9B;
+  --color1: #3F3F3F;
+  --color2: #323133;
+  --color3: #9D9D9D;
+  --color4: #FFFFFF;
+}
+html[theme=whiteBlue] ._theme_mwbir_55 {
+  --title-color: #565656;
+  --light-color: #5378BF;
+  --icon-color: #9A9A9B;
+  --color1: #3F3F3F;
+  --color2: #323133;
+  --color3: #9D9D9D;
+  --color4: #FFFFFF;
+}
+html[theme=sk2] ._theme_mwbir_55 {
+  --title-color: #565656;
+  --light-color: #F5D470;
+  --icon-color: #9A9A9B;
+  --color1: #3F3F3F;
+  --color2: #323133;
+  --color3: #9D9D9D;
+  --color4: #FFFFFF;
+}
+html[theme=whiteYellow] ._theme_mwbir_55 {
+  --title-color: #565656;
+  --light-color: #DF9A1C;
+  --icon-color: #9A9A9B;
+  --color1: #3F3F3F;
+  --color2: #323133;
+  --color3: #9D9D9D;
+  --color4: #FFFFFF;
+}
+html[theme=lightBrown] ._theme_mwbir_55 {
+  --title-color: #565656;
+  --light-color: #927D6A;
+  --icon-color: #9A9A9B;
+  --color1: #3F3F3F;
+  --color2: #323133;
+  --color3: #9D9D9D;
+  --color4: #FFFFFF;
+}
+html[theme=whiteOrange] ._theme_mwbir_55 {
+  --title-color: #565656;
+  --light-color: #FA9447;
+  --icon-color: #9A9A9B;
+  --color1: #3F3F3F;
+  --color2: #323133;
+  --color3: #9D9D9D;
+  --color4: #FFFFFF;
+}
+html[theme=furlaBlue] ._theme_mwbir_55 {
+  --title-color: #565656;
+  --light-color: #F9B205;
+  --icon-color: #9A9A9B;
+  --color1: #3F3F3F;
+  --color2: #323133;
+  --color3: #9D9D9D;
+  --color4: #FFFFFF;
+}
+html[theme=whitePink] ._theme_mwbir_55 {
+  --title-color: #565656;
+  --light-color: #EF7A7B;
+  --icon-color: #9A9A9B;
+  --color1: #3F3F3F;
+  --color2: #323133;
+  --color3: #9D9D9D;
+  --color4: #FFFFFF;
+}
+html[theme=bvGreen] ._theme_mwbir_55 {
+  --title-color: #565656;
+  --light-color: #5C780B;
+  --icon-color: #9A9A9B;
+  --color1: #3F3F3F;
+  --color2: #323133;
+  --color3: #9D9D9D;
+  --color4: #FFFFFF;
+}
+html[theme=AnnaSuiPurple] ._theme_mwbir_55 {
+  --title-color: #010000;
+  --light-color: #FFDC82;
+  --icon-color: #9A9A9B;
+  --color1: #3F3F3F;
+  --color2: #323133;
+  --color3: #9D9D9D;
+  --color4: #FFFFFF;
+}
+html[theme=whitePurple] ._theme_mwbir_55 {
+  --title-color: #010000;
+  --light-color: #610862;
+  --icon-color: #9A9A9B;
+  --color1: #3F3F3F;
+  --color2: #323133;
+  --color3: #9D9D9D;
+  --color4: #FFFFFF;
+}
+html[theme=whiteBrown] ._theme_mwbir_55 {
+  --title-color: #010000;
+  --light-color: #927D6A;
+  --icon-color: #9A9A9B;
+  --color1: #3F3F3F;
+  --color2: #323133;
+  --color3: #9D9D9D;
+  --color4: #FFFFFF;
+}
+html[theme=black] ._theme_mwbir_55 {
+  --title-color: #565656;
+  --light-color: #2FA33F;
+  --icon-color: #9A9A9B;
+  --color1: #3F3F3F;
+  --color2: #323133;
+  --color3: #9A9A9B;
+  --color4: #FFFFFF;
+}
+html[theme=burgundyRed] ._theme_mwbir_55 {
+  --title-color: #565656;
+  --light-color: #FE3856;
+  --icon-color: #9A9A9B;
+  --color1: #3F3F3F;
+  --color2: #323133;
+  --color3: #9A9A9B;
+  --color4: #FFFFFF;
+}
+html[theme=elsaPink] ._theme_mwbir_55 {
+  --title-color: #565656;
+  --light-color: #FFF0BC;
+  --icon-color: #9A9A9B;
+  --color1: #3F3F3F;
+  --color2: #030200;
+  --color3: #969696;
+  --color4: #B94B6B;
+}
+html[theme=whiteRedGucci] ._theme_mwbir_55 {
+  --title-color: #565656;
+  --light-color: #520E23;
+  --icon-color: #9A9A9B;
+  --color1: #3F3F3F;
+  --color2: #323133;
+  --color3: #969696;
+  --color4: #FFFFFF;
+}
+._pickDateModalBox_mwbir_272 {
+  width: 375rem;
+  height: 400rem;
+  color: var(--color1);
+}
+._pickDateModalBox_mwbir_272 ._topTitleBox_mwbir_277 {
+  width: 100%;
+  height: 25rem;
+  margin-top: 18rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+._pickDateModalBox_mwbir_272 ._topTitleBox_mwbir_277 ._signInSpan_mwbir_286 {
+  font-weight: bold;
+  font-size: 18rem;
+  color: var(--title-color);
+}
+._pickDateModalBox_mwbir_272 ._topTitleBox_mwbir_277 ._closeBtn_mwbir_291 {
+  height: 25rem;
+  width: 25rem;
+  right: 14rem;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+._pickDateModalBox_mwbir_272 ._topTitleBox_mwbir_277 ._closeBtn_mwbir_291 ._closeBtnIcon_mwbir_301 {
+  width: 12rem;
+  height: 12rem;
+  fill: var(--icon-color);
+}
+._pickDateModalBox_mwbir_272 ._topTitleBox_mwbir_277 ._closeBtn_mwbir_291 ._closeBtnIcon_mwbir_301 * {
+  fill: var(--icon-color);
+}
+._pickDateModalBox_mwbir_272 ._titleBtnBox_mwbir_309 {
+  width: 300rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 10rem;
+  margin-top: 25rem;
+}
+._pickDateModalBox_mwbir_272 ._titleBtnBox_mwbir_309 span {
+  font-size: 18rem;
+  font-weight: 500;
+  color: var(--light-color);
+}
+._pickDateModalBox_mwbir_272 ._titleBtnBox_mwbir_309 svg * {
+  fill: var(--icon-color) !important;
+}
+._pickDateModalBox_mwbir_272 ._titleBtnBox_mwbir_309 ._btnBox_mwbir_327 {
+  width: 25rem;
+  height: 25rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+._pickDateModalBox_mwbir_272 ._titleBtnBox_mwbir_309 ._btnBox_mwbir_327 ._icon_mwbir_334 {
+  width: 24rem;
+  height: 13.5rem;
+}
+._pickDateModalBox_mwbir_272 ._titleBtnBox_mwbir_309 ._btnBox_mwbir_327 ._icon_mwbir_334 * {
+  fill: #494D5A;
+}
+._pickDateModalBox_mwbir_272 ._titleBtnBox_mwbir_309 ._btnBox_mwbir_327 ._icon_mwbir_334._left_mwbir_341 {
+  transform: rotate(180deg);
+}
+._pickDateModalBox_mwbir_272 ._titleBtnBox_mwbir_309 ._choBtn_mwbir_344 {
+  height: 25rem;
+  border: 0.5rem solid var(--light-color);
+  padding: 0rem 7rem;
+  padding-top: 2.5rem;
+  border-radius: 5rem;
+  text-align: center;
+}
+html[theme=elsaPink] ._pickDateModalBox_mwbir_272 ._titleBtnBox_mwbir_309 ._choBtn_mwbir_344 {
+  background-color: #FFFFFF;
+  border: 1px solid #B94B6B;
+  color: #B94B6B;
+}
+html[theme=whiteRedGucci] ._pickDateModalBox_mwbir_272 ._titleBtnBox_mwbir_309 ._choBtn_mwbir_344 {
+  background-color: #FFFFFF;
+  border: 1px solid #520E23;
+  color: #520E23;
+}
+._pickDateModalBox_mwbir_272 ._conetntBox_mwbir_362 {
+  width: 300rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-right: auto;
+  margin-left: auto;
+}
+._pickDateModalBox_mwbir_272 ._conetntBox_mwbir_362 ._itemBox_mwbir_371 {
+  width: 40rem;
+  height: 40rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+._pickDateModalBox_mwbir_272 ._conetntBox_mwbir_362 ._itemBox_mwbir_371 ._inBox_mwbir_378 {
+  width: 30rem;
+  height: 30rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--color2);
+}
+._pickDateModalBox_mwbir_272 ._conetntBox_mwbir_362 ._itemBox_mwbir_371 ._inBox_mwbir_378._wekTxt_mwbir_386 {
+  color: white;
+  font-size: 12rem;
+  margin-bottom: 5rem;
+}
+._pickDateModalBox_mwbir_272 ._conetntBox_mwbir_362 ._itemBox_mwbir_371 ._inBox_mwbir_378._today_mwbir_391 {
+  border-radius: 100%;
+  background-color: var(--light-color);
+  color: var(--color4) !important;
+  font-size: 14rem;
+  font-weight: 700;
+}
+html[theme=elsaPink] ._pickDateModalBox_mwbir_272 ._conetntBox_mwbir_362 ._itemBox_mwbir_371 ._inBox_mwbir_378._today_mwbir_391 {
+  background-color: #B94B6B;
+  color: #FFFFFF !important;
+}
+html[theme=whiteRedGucci] ._pickDateModalBox_mwbir_272 ._conetntBox_mwbir_362 ._itemBox_mwbir_371 ._inBox_mwbir_378._today_mwbir_391 {
+  background-color: #520E23;
+  color: #FFFFFF !important;
+}
+._pickDateModalBox_mwbir_272 ._conetntBox_mwbir_362 ._itemBox_mwbir_371 ._inBox_mwbir_378._disabled_mwbir_406 {
+  color: var(--color3);
+  cursor: not-allowed;
+}
+._selectYearBox_mwbir_411 {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  width: 690rem;
+  height: 673rem;
+  bottom: 30rem;
+  border-radius: 10rem;
+  background: white;
+  filter: drop-shadow(2px 6px 10px rgba(0, 0, 0, 0.85));
+}
+._selectYearBox_mwbir_411 ._topTitleBox_mwbir_277 {
+  width: 100%;
+  height: 50rem;
+  margin-top: 36rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+._selectYearBox_mwbir_411 ._topTitleBox_mwbir_277 ._signInSpan_mwbir_286 {
+  font-weight: bold;
+  font-size: 36rem;
+  color: var(--title-color);
+}
+._selectYearBox_mwbir_411 ._topTitleBox_mwbir_277 ._closeBtn_mwbir_291 {
+  height: 50rem;
+  width: 50rem;
+  right: 28rem;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+._selectYearBox_mwbir_411 ._topTitleBox_mwbir_277 ._closeBtn_mwbir_291 ._closeBtnIcon_mwbir_301 {
+  width: 24rem;
+  height: 24rem;
+}
+._selectYearBox_mwbir_411 ._topTitleBox_mwbir_277 ._closeBtn_mwbir_291 ._closeBtnIcon_mwbir_301 * {
+  fill: var(--icon-color);
+}
+._selectYearBox_mwbir_411 ._contentBox_mwbir_453 {
+  width: 600rem;
+  height: 520rem;
+  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+._selectYearBox_mwbir_411 ._contentBox_mwbir_453 ._itemBox_mwbir_371 {
+  flex-shrink: 0;
+  width: 110rem;
+  height: 50rem;
+  margin-right: 50rem;
+  border: 1rem solid var(--light-color);
+  color: var(--color2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10rem;
+  margin-bottom: 20rem;
+}
+._selectYearBox_mwbir_411 ._contentBox_mwbir_453 ._itemBox_mwbir_371:nth-child(4n+4) {
+  margin-right: 0rem;
+}
+._selectYearBox_mwbir_411 ._contentBox_mwbir_453 ._itemBox_mwbir_371._active_mwbir_483 {
+  border: 0rem;
+  background-color: var(--light-color);
+  color: var(--color4);
+}
+/* 兼容笔记本设备显示 */
+html[theme=blue] ._svg_theme_fill_color_t5y6x_3 * {
+  fill: #EAB700;
+}
+html[theme=purple] ._svg_theme_fill_color_t5y6x_3 * {
+  fill: #ffdc82;
+}
+html[theme=oilyGreen] ._svg_theme_fill_color_t5y6x_3 * {
+  fill: #fee004;
+}
+html[theme=whiteGreen] ._svg_theme_fill_color_t5y6x_3 * {
+  fill: #1e8c58;
+}
+html[theme=versaceYellow] ._svg_theme_fill_color_t5y6x_3 * {
+  fill: #ffffff;
+}
+html[theme=whiteRed] ._svg_theme_fill_color_t5y6x_3 * {
+  fill: #CB3034;
+}
+html[theme=hermesOrange] ._svg_theme_fill_color_t5y6x_3 * {
+  fill: #551f0e;
+}
+html[theme=sk2] ._svg_theme_fill_color_t5y6x_3 * {
+  fill: #f5d470;
+}
+html[theme=whiteYellow] ._svg_theme_fill_color_t5y6x_3 * {
+  fill: #DF9A1C;
+}
+html[theme=furlaBlue] ._svg_theme_fill_color_t5y6x_3 * {
+  fill: #FFFCD2;
+}
+html[theme=whitePink] ._svg_theme_fill_color_t5y6x_3 * {
+  fill: #EF7A7B;
+}
+html[theme=bvGreen] ._svg_theme_fill_color_t5y6x_3 * {
+  fill: #FFF45D;
+}
+html[theme=whiteBrown] ._svg_theme_fill_color_t5y6x_3 * {
+  fill: #927D6A;
+}
+html[theme=AnnaSuiPurple] ._svg_theme_fill_color_t5y6x_3 * {
+  fill: #fff;
+}
+html[theme=whitePurple] ._svg_theme_fill_color_t5y6x_3 * {
+  fill: #610862;
+}
+html[theme=burgundyRed] ._svg_theme_fill_color_t5y6x_3 * {
+  fill: #FE3856;
+}
+html[theme=whiteDarkGreen] ._svg_theme_fill_color_t5y6x_3 * {
+  fill: #054146;
+}
+
+._h5_skeleton_t5y6x_55 {
+  width: 100%;
+  height: 100%;
+}
+._h5_skeleton_t5y6x_55 ._headerBox_t5y6x_59 {
+  width: 100%;
+  height: 90rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+html[nested="1"] ._h5_skeleton_t5y6x_55 ._headerBox_t5y6x_59 {
+  width: 750rem;
+  margin: auto;
+}
+._h5_skeleton_t5y6x_55 ._headerBox_t5y6x_59 ._leftIcon_t5y6x_71 {
+  width: 40rem;
+  height: 40rem;
+  border-radius: 20rem;
+  margin-left: 20rem;
+}
+._h5_skeleton_t5y6x_55 ._headerBox_t5y6x_59 ._rightBox_t5y6x_77 {
+  display: flex;
+  flex-direction: row;
+}
+._h5_skeleton_t5y6x_55 ._headerBox_t5y6x_59 ._rightItemBox1_t5y6x_81 {
+  width: 100rem;
+  height: 54rem;
+  margin-right: 30rem;
+  border-radius: 12rem;
+}
+._h5_skeleton_t5y6x_55 ._headerBox_t5y6x_59 ._rightItemBox2_t5y6x_87 {
+  width: 54rem;
+  height: 54rem;
+  margin-right: 20rem;
+  border-radius: 30rem;
+}
+._h5_skeleton_t5y6x_55 ._carouselBox_t5y6x_93 {
+  width: 710rem;
+  height: 210rem;
+  margin-top: 20rem;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20rem;
+}
+._h5_skeleton_t5y6x_55 ._noticeBox_t5y6x_101 {
+  margin-top: 40rem;
+  width: 710rem;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+._h5_skeleton_t5y6x_55 ._noticeBox_t5y6x_101 ._noticeItemBox1_t5y6x_111 {
+  width: 40rem;
+  height: 40rem;
+  border-radius: 40rem;
+}
+._h5_skeleton_t5y6x_55 ._noticeBox_t5y6x_101 ._noticeItemBox2_t5y6x_116 {
+  width: 655rem;
+  height: 20rem;
+  border-radius: 10rem;
+}
+._h5_skeleton_t5y6x_55 ._typeSelectBox_t5y6x_121 {
+  margin-top: 40rem;
+  width: 710rem;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+._h5_skeleton_t5y6x_55 ._typeSelectBox_t5y6x_121 ._typeSelectItemBox_t5y6x_131 {
+  width: 120rem;
+  height: 60rem;
+  border-radius: 12rem;
+}
+._h5_skeleton_t5y6x_55 ._gameLogoBox_t5y6x_136 {
+  margin-top: 20rem;
+  width: 710rem;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+._h5_skeleton_t5y6x_55 ._gameLogoBox_t5y6x_136 ._gameLogoItem1_t5y6x_146 {
+  width: 40rem;
+  height: 40rem;
+  border-radius: 40rem;
+}
+._h5_skeleton_t5y6x_55 ._gameLogoBox_t5y6x_136 ._gameLogoItem2_t5y6x_151 {
+  width: 100rem;
+  height: 20rem;
+  border-radius: 10rem;
+  margin-left: 10rem;
+}
+._h5_skeleton_t5y6x_55 ._gameListBox_t5y6x_157 {
+  margin-top: 20rem;
+  width: 710rem;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+._h5_skeleton_t5y6x_55 ._gameListBox_t5y6x_157 ._gameListItemBox_t5y6x_168 {
+  width: 218rem;
+  height: 290rem;
+  margin-bottom: 20rem;
+  border-radius: 20rem;
+}

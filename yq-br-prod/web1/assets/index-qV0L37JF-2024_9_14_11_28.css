@@ -1,0 +1,180 @@
+@charset "UTF-8";
+/* 兼容笔记本设备显示 */
+html[theme=blue] ._svg_theme_fill_color_yrnb1_3 * {
+  fill: #EAB700;
+}
+html[theme=purple] ._svg_theme_fill_color_yrnb1_3 * {
+  fill: #ffdc82;
+}
+html[theme=oilyGreen] ._svg_theme_fill_color_yrnb1_3 * {
+  fill: #fee004;
+}
+html[theme=whiteGreen] ._svg_theme_fill_color_yrnb1_3 * {
+  fill: #1e8c58;
+}
+html[theme=versaceYellow] ._svg_theme_fill_color_yrnb1_3 * {
+  fill: #ffffff;
+}
+html[theme=whiteRed] ._svg_theme_fill_color_yrnb1_3 * {
+  fill: #CB3034;
+}
+html[theme=hermesOrange] ._svg_theme_fill_color_yrnb1_3 * {
+  fill: #551f0e;
+}
+html[theme=sk2] ._svg_theme_fill_color_yrnb1_3 * {
+  fill: #f5d470;
+}
+html[theme=whiteYellow] ._svg_theme_fill_color_yrnb1_3 * {
+  fill: #DF9A1C;
+}
+html[theme=furlaBlue] ._svg_theme_fill_color_yrnb1_3 * {
+  fill: #FFFCD2;
+}
+html[theme=whitePink] ._svg_theme_fill_color_yrnb1_3 * {
+  fill: #EF7A7B;
+}
+html[theme=bvGreen] ._svg_theme_fill_color_yrnb1_3 * {
+  fill: #FFF45D;
+}
+html[theme=whiteBrown] ._svg_theme_fill_color_yrnb1_3 * {
+  fill: #927D6A;
+}
+html[theme=AnnaSuiPurple] ._svg_theme_fill_color_yrnb1_3 * {
+  fill: #fff;
+}
+html[theme=whitePurple] ._svg_theme_fill_color_yrnb1_3 * {
+  fill: #610862;
+}
+html[theme=burgundyRed] ._svg_theme_fill_color_yrnb1_3 * {
+  fill: #FE3856;
+}
+html[theme=whiteDarkGreen] ._svg_theme_fill_color_yrnb1_3 * {
+  fill: #054146;
+}
+
+._activity_yrnb1_55 {
+  padding: 0 20rem;
+  height: 100%;
+  overflow: scroll;
+  display: flex;
+  justify-content: space-between;
+}
+._activity_yrnb1_55 ._left_nav_yrnb1_62 {
+  height: 100%;
+  overflow-y: scroll;
+  width: 150rem;
+  padding: 24rem 0;
+}
+._activity_yrnb1_55 ._left_nav_yrnb1_62 .leftItem {
+  width: 150rem;
+  height: 105rem;
+  margin-bottom: 20rem;
+}
+._activity_yrnb1_55 .activity_list {
+  height: 100%;
+  overflow: scroll;
+  width: 540rem;
+  padding-top: 24rem;
+}
+._activity_yrnb1_55 .activity_list_item {
+  border-radius: 12rem;
+  overflow: hidden;
+  background-color: #161D29;
+  min-height: 200rem;
+  padding: 10rem;
+  width: 540rem;
+  margin-bottom: 20rem;
+}
+._activity_yrnb1_55 .activity_list_item img {
+  margin: 0 auto;
+  width: 100%;
+  border-radius: 24rem;
+  max-height: 250rem;
+}
+html[theme=blue] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #186CD5;
+}
+html[theme=whiteGreen] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #f5f5f5;
+}
+html[theme=purple] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #5D085D;
+}
+html[theme=whiteRed] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #F6F6F6;
+}
+html[theme=oilyGreen] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #067831;
+}
+html[theme=versaceYellow] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #F5B90B;
+}
+html[theme=lancomePeach] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #ee7879;
+}
+html[theme=hermesOrange] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #F26E0A;
+}
+html[theme=whiteBlue] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #F6F6F6;
+}
+html[theme=sk2] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #c4242a;
+}
+html[theme=lightBrown] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #222A38;
+}
+html[theme=whiteYellow] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #E9E9E9;
+}
+html[theme=whiteOrange] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #E9E9E9;
+}
+html[theme=furlaBlue] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #5375D1;
+}
+html[theme=whitePink] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #E9E9E9;
+}
+html[theme=lightBrown] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #9B8977;
+}
+html[theme=bvGreen] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #7B9A1E;
+}
+html[theme=whiteBrown] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #E9E9E9;
+}
+html[theme=AnnaSuiPurple] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #755CAD;
+}
+html[theme=whitePurple] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #E9E9E9;
+}
+html[theme=burgundyRed] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #630B20;
+}
+html[theme=whiteDarkGreen] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #F6F6F6;
+}
+html[theme=greenGold] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #003E37;
+}
+html[theme=whiteBrownLauren] ._activity_yrnb1_55 .activity_list_item {
+  background-color: inherit;
+}
+html[theme=whiteRedGucci] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #F6F6F6;
+}
+html[theme=embraerBlue] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #174196;
+}
+html[theme=elsaPink] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #C3607C;
+}
+html[theme=bvlgariBrown] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #634C42;
+}
+html[theme=whiteBlack] ._activity_yrnb1_55 .activity_list_item {
+  background-color: #F6F6F6;
+}

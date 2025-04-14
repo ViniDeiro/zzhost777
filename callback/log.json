@@ -1,0 +1,26 @@
+{
+    "method": "transaction",
+    "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+    "user_code": "bry222",
+    "user_balance": 40,
+    "user_total_credit": 0,
+    "user_total_debit": 0,
+    "game_type": "slot",
+    "slot": {
+        "provider_code": "PGSOFT",
+        "game_code": "fortune-tiger",
+        "round_id": "2f978a5d99b4fc03",
+        "type": "BASE",
+        "bet": 0.4,
+        "win": 0,
+        "txn_id": "7c318d0b-809e-41c9-b186-2ce98a741fb7",
+        "txn_type": "debit_credit",
+        "is_buy": false,
+        "is_call": false,
+        "user_before_balance": 40,
+        "user_after_balance": 39.6,
+        "agent_before_balance": 100,
+        "agent_after_balance": 100,
+        "created_at": "2025-02-26T23:39:13.670Z"
+    }
+}

@@ -1,0 +1,4412 @@
+[
+    {
+        "timestamp": "2025-02-20 17:54:43",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 159.52,
+                "user_total_credit": 14.08,
+                "user_total_debit": 16.9,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "4f48a5a48edb0180",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "10d7b861-c5d5-46bb-b737-dbcf1b5b5029",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 159.52,
+                    "user_after_balance": 159.12,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:54:43.866Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:54:43",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 159.12,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 159.12
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:54:46",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 159.12,
+                "user_total_credit": 14.08,
+                "user_total_debit": 17.3,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "46e2930f65cbc736",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "8176f5cd-3e54-4bcb-97e9-ae6183efb7a2",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 159.12,
+                    "user_after_balance": 158.72,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:54:46.164Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:54:46",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 158.72,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 158.72
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:54:47",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 158.72,
+                "user_total_credit": 14.08,
+                "user_total_debit": 17.7,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "22231b54948fb132",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "e8a6fda3-917f-41ec-8e60-5e36bccbbcfb",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 158.72,
+                    "user_after_balance": 158.32,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:54:47.502Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:54:47",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 158.32,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 158.32
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:54:54",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 158.32,
+                "user_total_credit": 14.08,
+                "user_total_debit": 18.1,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "94f82acb4557f56e",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "df242cbc-6f6e-45f5-9577-dca7260dd062",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 158.32,
+                    "user_after_balance": 157.92,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:54:54.753Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:54:54",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 157.92,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 157.92
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:54:55",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 157.92,
+                "user_total_credit": 14.08,
+                "user_total_debit": 18.5,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "d5b845c0850742cc",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "6cad696f-a884-4cab-a301-8f304d981359",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 157.92,
+                    "user_after_balance": 157.51999999999998,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:54:55.745Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:54:55",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 157.51999999999998,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 157.51999999999998
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:54:57",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 157.52,
+                "user_total_credit": 14.08,
+                "user_total_debit": 18.9,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "7966818ae31a719f",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "70d9e90c-70d4-4cc5-bf20-696e7a2db779",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 157.52,
+                    "user_after_balance": 157.12,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:54:57.160Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:54:57",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 157.12,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 157.12
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:54:58",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 157.12,
+                "user_total_credit": 14.08,
+                "user_total_debit": 19.3,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "4442814c7d3dfb36",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "7ae1fc36-0662-47cd-b6b7-005d5c3a4c39",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 157.12,
+                    "user_after_balance": 156.72,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:54:58.031Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:54:58",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 156.72,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 156.72
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:54:58",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 156.72,
+                "user_total_credit": 14.08,
+                "user_total_debit": 19.7,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "ef4dd9a1116c4f1b",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "6c9c5413-e141-4ab2-a5ad-3bdff307d357",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 156.72,
+                    "user_after_balance": 156.32,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:54:58.768Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:54:58",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 156.32,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 156.32
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:54:59",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 156.32,
+                "user_total_credit": 14.08,
+                "user_total_debit": 20.1,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "578c7d121797c8ee",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "12a4de45-52a3-4735-8c52-c4f45735f30b",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 156.32,
+                    "user_after_balance": 155.92,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:54:59.466Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:54:59",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 155.92,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 155.92
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:55:04",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 155.92,
+                "user_total_credit": 14.08,
+                "user_total_debit": 20.5,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "f888c9e6b8309010",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "27509a32-77f6-4df5-ae96-28a84e46bdd6",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 155.92,
+                    "user_after_balance": 155.51999999999998,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:55:04.531Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:55:04",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 155.51999999999998,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 155.51999999999998
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:55:06",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 155.52,
+                "user_total_credit": 14.08,
+                "user_total_debit": 20.9,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "b5255635af8bf659",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "ce7cae11-d361-4b0b-8604-8ab39aa40c6e",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 155.52,
+                    "user_after_balance": 155.12,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:55:06.149Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:55:06",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 155.12,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 155.12
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:55:11",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 155.12,
+                "user_total_credit": 14.08,
+                "user_total_debit": 21.3,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "9392724d2e7d50c8",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "a5c987fb-2854-4999-8ca0-f8723786b507",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 155.12,
+                    "user_after_balance": 154.72,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:55:11.381Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:55:11",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 154.72,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 154.72
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:55:12",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 154.72,
+                "user_total_credit": 14.08,
+                "user_total_debit": 21.7,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "187f492b8a27fce1",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "3448ed70-2891-4fc5-9d57-680fc6414451",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 154.72,
+                    "user_after_balance": 154.32,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:55:12.680Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:55:12",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 154.32,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 154.32
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:55:13",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 154.32,
+                "user_total_credit": 14.08,
+                "user_total_debit": 22.1,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "f1aa9d7a78d1c901",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "d7d3d17f-225f-4399-9bcf-cb01d84b36bf",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 154.32,
+                    "user_after_balance": 153.92,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:55:13.198Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:55:13",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 153.92,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 153.92
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:55:13",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 153.92,
+                "user_total_credit": 14.08,
+                "user_total_debit": 22.5,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "203b571d7c54451c",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "f5aefd0b-1516-4bef-9125-5a1f3fea1aac",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 153.92,
+                    "user_after_balance": 153.51999999999998,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:55:13.700Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:55:13",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 153.51999999999998,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 153.51999999999998
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:55:14",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 153.52,
+                "user_total_credit": 14.08,
+                "user_total_debit": 22.9,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "5fd37139d649a7e2",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "2804ef38-8bd3-45f2-9814-ec202394583d",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 153.52,
+                    "user_after_balance": 153.12,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:55:14.537Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:55:14",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 153.12,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 153.12
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:55:15",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 153.12,
+                "user_total_credit": 14.08,
+                "user_total_debit": 23.3,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "16c53135b36f51dd",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "b59750a2-405f-469e-b190-5a34c5c38455",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 153.12,
+                    "user_after_balance": 152.72,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:55:15.005Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:55:15",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 152.72,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 152.72
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:55:15",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 152.72,
+                "user_total_credit": 14.08,
+                "user_total_debit": 23.7,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "e0d98432a2d8a4f2",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "637029d8-d697-4f29-b974-3bbb46f7745d",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 152.72,
+                    "user_after_balance": 152.32,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:55:15.972Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:55:15",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 152.32,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 152.32
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:55:20",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 152.32,
+                "user_total_credit": 14.08,
+                "user_total_debit": 24.1,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "8ef9348a9d26a7c6",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "03a460db-e05d-4900-93fa-4011e16b7e7a",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 152.32,
+                    "user_after_balance": 151.92,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:55:20.865Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:55:20",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 151.92,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 151.92
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:55:21",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 151.92,
+                "user_total_credit": 14.08,
+                "user_total_debit": 24.5,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "e167894782b5201e",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "63a1d5af-ec28-41a7-8e31-0275fa622b6d",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 151.92,
+                    "user_after_balance": 151.51999999999998,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:55:21.752Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:55:21",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 151.51999999999998,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 151.51999999999998
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:55:22",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 151.52,
+                "user_total_credit": 14.08,
+                "user_total_debit": 24.9,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "69fdf400e0ea094e",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "aec19ea9-abbe-4dc0-9255-bc02e891ba61",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 151.52,
+                    "user_after_balance": 151.12,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:55:22.673Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:55:22",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 151.12,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 151.12
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:55:23",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 151.12,
+                "user_total_credit": 14.08,
+                "user_total_debit": 25.3,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "c04c8376ae592046",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "199e2635-a4e3-44e1-9de2-b9614e57ea12",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 151.12,
+                    "user_after_balance": 150.72,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:55:23.017Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:55:23",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 150.72,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 150.72
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:55:24",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 150.72,
+                "user_total_credit": 14.08,
+                "user_total_debit": 25.7,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "853464aff3075ad2",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "c834fca4-95ca-4e2a-943a-646a2fd90346",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 150.72,
+                    "user_after_balance": 150.32,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:55:24.010Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:55:24",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 150.32,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 150.32
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:55:24",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 150.32,
+                "user_total_credit": 14.08,
+                "user_total_debit": 26.1,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "6f5eac6164f13876",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "83a9a787-a008-4360-8334-405789b736d7",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 150.32,
+                    "user_after_balance": 149.92,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:55:24.526Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:55:24",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 149.92,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 149.92
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:55:25",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 149.92,
+                "user_total_credit": 14.08,
+                "user_total_debit": 26.5,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "df7fe1f0190344d2",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "800f1a14-98f9-42e3-bb7d-81588c18a515",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 149.92,
+                    "user_after_balance": 149.51999999999998,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:55:25.219Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:55:25",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 149.51999999999998,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 149.51999999999998
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:55:26",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 149.52,
+                "user_total_credit": 14.08,
+                "user_total_debit": 26.9,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "a9d81c19f4fc1b1e",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "407922c9-d46f-4b42-84da-12f2f181cfb7",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 149.52,
+                    "user_after_balance": 149.12,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:55:26.298Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:55:26",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 149.12,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 149.12
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:55:26",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 149.12,
+                "user_total_credit": 14.08,
+                "user_total_debit": 27.3,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "f0d5c454c170aad3",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "b3c29cfe-93f8-4e4c-a23f-489587c5e4c3",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 149.12,
+                    "user_after_balance": 148.72,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:55:26.543Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:55:26",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 148.72,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 148.72
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:55:27",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 148.72,
+                "user_total_credit": 14.08,
+                "user_total_debit": 27.7,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "6364a707cd72cfda",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "0a957154-4a7a-4ff8-a2b1-49694384f4e2",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 148.72,
+                    "user_after_balance": 148.32,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:55:27.484Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:55:27",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 148.32,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 148.32
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:55:27",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 148.32,
+                "user_total_credit": 14.08,
+                "user_total_debit": 28.1,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "9775fb6b75d6be20",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "014fec3e-85b2-4eb8-9203-9a547f636a48",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 148.32,
+                    "user_after_balance": 147.92,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:55:27.850Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:55:27",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 147.92,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 147.92
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:55:28",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 147.92,
+                "user_total_credit": 14.08,
+                "user_total_debit": 28.5,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "84187997348b0164",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "1fcc316e-2223-477b-9934-32b19f25d50c",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 147.92,
+                    "user_after_balance": 147.51999999999998,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:55:28.131Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:55:28",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 147.51999999999998,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 147.51999999999998
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:55:29",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 147.52,
+                "user_total_credit": 14.08,
+                "user_total_debit": 28.9,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "a3e3a14b3c7cc849",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "afc68cbc-400a-41c2-83c3-ff3f906a6833",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 147.52,
+                    "user_after_balance": 147.12,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:55:28.991Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:55:29",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 147.12,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 147.12
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:55:29",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 147.12,
+                "user_total_credit": 14.08,
+                "user_total_debit": 29.3,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "f5e8e3f8beef5185",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "4a2bd4ba-88ba-4ecc-8ae7-d43c16c93203",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 147.12,
+                    "user_after_balance": 146.72,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:55:29.316Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:55:29",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 146.72,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 146.72
+        }
+    },
+    {
+        "timestamp": "2025-02-20 17:55:30",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 146.72,
+                "user_total_credit": 14.08,
+                "user_total_debit": 29.7,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-rabbit",
+                    "round_id": "3ea8c33cee54e248",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "56eed2bd-888f-4bfd-94a4-e1d77e121dde",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 146.72,
+                    "user_after_balance": 146.32,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-20T20:55:30.301Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-20 17:55:30",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 146.32,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 146.32
+        }
+    },
+    {
+        "timestamp": "2025-02-22 02:10:20",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 142.29,
+                "user_total_credit": 14.08,
+                "user_total_debit": 30.1,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-mouse",
+                    "round_id": "7310bf93a8b393e0",
+                    "type": "BASE",
+                    "bet": 0.5,
+                    "win": 0,
+                    "txn_id": "5ad389b7-4645-49d7-9a74-d35ef6fe1f7e",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 142.29,
+                    "user_after_balance": 141.79,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-22T05:10:20.109Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-22 02:10:20",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 141.79,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 141.79
+        }
+    },
+    {
+        "timestamp": "2025-02-22 02:10:24",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 141.79,
+                "user_total_credit": 14.08,
+                "user_total_debit": 30.6,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-mouse",
+                    "round_id": "f9537c3d91b3b1af",
+                    "type": "BASE",
+                    "bet": 0.5,
+                    "win": 15.3,
+                    "txn_id": "867673d9-4cd0-42fc-9e2b-5d728977a302",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 141.79,
+                    "user_after_balance": 156.59,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-22T05:10:24.841Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-22 02:10:24",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 156.59,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 156.59
+        }
+    },
+    {
+        "timestamp": "2025-02-22 02:10:36",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 156.59,
+                "user_total_credit": 29.38,
+                "user_total_debit": 31.1,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-mouse",
+                    "round_id": "cce52c984490fa5a",
+                    "type": "BASE",
+                    "bet": 0.5,
+                    "win": 0,
+                    "txn_id": "ce30c344-60d0-49c0-806f-799495f01133",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 156.59,
+                    "user_after_balance": 156.09,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-22T05:10:36.803Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-22 02:10:36",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 156.09,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 156.09
+        }
+    },
+    {
+        "timestamp": "2025-02-22 02:10:37",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 156.09,
+                "user_total_credit": 29.38,
+                "user_total_debit": 31.6,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-mouse",
+                    "round_id": "50759b3ee53c3daf",
+                    "type": "BASE",
+                    "bet": 0.5,
+                    "win": 0,
+                    "txn_id": "1dc44a14-3bc8-4a0b-8b92-49e61cde923a",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 156.09,
+                    "user_after_balance": 155.59,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-22T05:10:37.921Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-22 02:10:37",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 155.59,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 155.59
+        }
+    },
+    {
+        "timestamp": "2025-02-22 02:10:38",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 155.59,
+                "user_total_credit": 29.38,
+                "user_total_debit": 32.1,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-mouse",
+                    "round_id": "688b8967e76bca4f",
+                    "type": "BASE",
+                    "bet": 0.5,
+                    "win": 0,
+                    "txn_id": "65996390-78fd-4c67-908e-fd8c6c99ca7b",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 155.59,
+                    "user_after_balance": 155.09,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-22T05:10:38.417Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-22 02:10:38",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 155.09,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 155.09
+        }
+    },
+    {
+        "timestamp": "2025-02-22 02:10:38",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 155.09,
+                "user_total_credit": 29.38,
+                "user_total_debit": 32.6,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-mouse",
+                    "round_id": "9bc8f816b35c8217",
+                    "type": "BASE",
+                    "bet": 0.5,
+                    "win": 0,
+                    "txn_id": "d546451b-1f4a-44f9-bfbd-49c3f3a0faf9",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 155.09,
+                    "user_after_balance": 154.59,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-22T05:10:38.804Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-22 02:10:38",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 154.59,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 154.59
+        }
+    },
+    {
+        "timestamp": "2025-02-22 02:10:39",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 154.59,
+                "user_total_credit": 29.38,
+                "user_total_debit": 33.1,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-mouse",
+                    "round_id": "feea47b88f5de0e2",
+                    "type": "BASE",
+                    "bet": 0.5,
+                    "win": 0,
+                    "txn_id": "6e7ebfa7-3c21-47c5-98f0-377e6b906daa",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 154.59,
+                    "user_after_balance": 154.09,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-22T05:10:39.176Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-22 02:10:39",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 154.09,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 154.09
+        }
+    },
+    {
+        "timestamp": "2025-02-22 02:10:39",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 154.09,
+                "user_total_credit": 29.38,
+                "user_total_debit": 33.6,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-mouse",
+                    "round_id": "bde535122caeb28c",
+                    "type": "BASE",
+                    "bet": 0.5,
+                    "win": 0,
+                    "txn_id": "2c6f895d-b606-4c04-a3cb-acaa4346f64f",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 154.09,
+                    "user_after_balance": 153.59,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-22T05:10:39.508Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-22 02:10:39",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 153.59,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 153.59
+        }
+    },
+    {
+        "timestamp": "2025-02-22 02:10:39",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 153.59,
+                "user_total_credit": 29.38,
+                "user_total_debit": 34.1,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-mouse",
+                    "round_id": "000c08e925b803c5",
+                    "type": "BASE",
+                    "bet": 0.5,
+                    "win": 0,
+                    "txn_id": "e59a77e4-1a4f-4013-987c-9eaf67355c0a",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 153.59,
+                    "user_after_balance": 153.09,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-22T05:10:39.861Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-22 02:10:39",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 153.09,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 153.09
+        }
+    },
+    {
+        "timestamp": "2025-02-22 02:10:40",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 153.09,
+                "user_total_credit": 29.38,
+                "user_total_debit": 34.6,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-mouse",
+                    "round_id": "00a2f3577a27dbbf",
+                    "type": "BASE",
+                    "bet": 0.5,
+                    "win": 0,
+                    "txn_id": "fa37d1ce-5cdc-4e88-9da4-6bf0e28c8328",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 153.09,
+                    "user_after_balance": 152.59,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-22T05:10:40.224Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-22 02:10:40",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 152.59,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 152.59
+        }
+    },
+    {
+        "timestamp": "2025-02-22 02:10:42",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 152.59,
+                "user_total_credit": 29.38,
+                "user_total_debit": 35.1,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-mouse",
+                    "round_id": "3fd4ca9dd300e6af",
+                    "type": "BASE",
+                    "bet": 5,
+                    "win": 0,
+                    "txn_id": "93f0344e-f2a0-474b-b268-905de2957b4c",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 152.59,
+                    "user_after_balance": 147.59,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-22T05:10:42.816Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-22 02:10:42",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 147.59,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 147.59
+        }
+    },
+    {
+        "timestamp": "2025-02-22 02:10:43",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 147.59,
+                "user_total_credit": 29.38,
+                "user_total_debit": 40.1,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-mouse",
+                    "round_id": "5f2d28316b6617e8",
+                    "type": "BASE",
+                    "bet": 5,
+                    "win": 0,
+                    "txn_id": "b99d3bd3-8e61-4c22-8da0-2d555e32c7e3",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 147.59,
+                    "user_after_balance": 142.59,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-22T05:10:43.298Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-22 02:10:43",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 142.59,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 142.59
+        }
+    },
+    {
+        "timestamp": "2025-02-22 02:10:44",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 142.59,
+                "user_total_credit": 29.38,
+                "user_total_debit": 45.1,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-mouse",
+                    "round_id": "52a5fc7d58c18fe4",
+                    "type": "BASE",
+                    "bet": 5,
+                    "win": 0,
+                    "txn_id": "b0a64141-a6a5-4570-88c6-3bbd0ccb6d11",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 142.59,
+                    "user_after_balance": 137.59,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-22T05:10:44.158Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-22 02:10:44",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 137.59,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 137.59
+        }
+    },
+    {
+        "timestamp": "2025-02-22 02:10:45",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "expfybr2025",
+                "user_balance": 137.59,
+                "user_total_credit": 29.38,
+                "user_total_debit": 50.1,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-mouse",
+                    "round_id": "19ab4b42652c72ae",
+                    "type": "BASE",
+                    "bet": 5,
+                    "win": 0,
+                    "txn_id": "bbdee755-53e5-41fb-9d29-ad1954ef0af3",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 137.59,
+                    "user_after_balance": 132.59,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-22T05:10:45.130Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-22 02:10:45",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 132.59,
+            "user_id": 483922225
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 132.59
+        }
+    },
+    {
+        "timestamp": "2025-02-26 20:43:05",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 40,
+                "user_total_credit": 0,
+                "user_total_debit": 0.4,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-tiger",
+                    "round_id": "58fb653c91ef10aa",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "52d13125-d72e-4534-825c-f43da0424074",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 40,
+                    "user_after_balance": 39.6,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-26T23:43:05.929Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 20:43:05",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 39.6,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 39.6
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:01:54",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 39.6,
+                "user_total_credit": 0,
+                "user_total_debit": 0.8,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-tiger",
+                    "round_id": "a4f5ee48fcd48e15",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "bc916454-fce9-40bf-9f4b-2296937da593",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 39.6,
+                    "user_after_balance": 39.2,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:01:54.408Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:01:54",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 39.2,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 39.2
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:01:57",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 39.2,
+                "user_total_credit": 0,
+                "user_total_debit": 1.2,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-tiger",
+                    "round_id": "19700f186fcc5d88",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "fc95f615-1b41-4f6b-9700-1d3e02cdaaa2",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 39.2,
+                    "user_after_balance": 38.800000000000004,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:01:57.351Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:01:57",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 38.800000000000004,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 38.800000000000004
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:01:57",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 38.8,
+                "user_total_credit": 0,
+                "user_total_debit": 1.6,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-tiger",
+                    "round_id": "76efe864b2b6d8c6",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "f928496d-b1a7-401d-9f05-2f0ecf098692",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 38.8,
+                    "user_after_balance": 38.4,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:01:57.914Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:01:57",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 38.4,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 38.4
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:01:58",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 38.4,
+                "user_total_credit": 0,
+                "user_total_debit": 2,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-tiger",
+                    "round_id": "b16719dc1a40248f",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "3c242d58-7e4e-40db-a187-eeccfc959a6f",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 38.4,
+                    "user_after_balance": 38,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:01:58.492Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:01:58",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 38,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 38
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:01:59",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 38,
+                "user_total_credit": 0,
+                "user_total_debit": 2.4,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-tiger",
+                    "round_id": "0153bad73b4aeceb",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "385b55d6-47cb-401d-86e9-c0a1628f69ea",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 38,
+                    "user_after_balance": 37.6,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:01:59.510Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:01:59",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 37.6,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 37.6
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:02:00",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 37.6,
+                "user_total_credit": 0,
+                "user_total_debit": 2.8,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-tiger",
+                    "round_id": "3771d396b3cd0d20",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0.8,
+                    "txn_id": "4f485e32-d80d-4e47-9450-b5e93015b2a7",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 37.6,
+                    "user_after_balance": 38,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:02:00.178Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:02:00",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 38,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 38
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:10",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 38,
+                "user_total_credit": 0.8,
+                "user_total_debit": 3.2,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "a7c06c8e63ae8c5b",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "8998c7ed-859a-4bce-b74c-b8407b58851f",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 38,
+                    "user_after_balance": 37.6,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:10.404Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:10",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 37.6,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 37.6
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:12",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 37.6,
+                "user_total_credit": 0.8,
+                "user_total_debit": 3.6,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "f3ba705119718474",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "63d7f468-dc91-4fde-9cdf-2a87eeb66ba6",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 37.6,
+                    "user_after_balance": 37.2,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:12.319Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:12",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 37.2,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 37.2
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:15",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 37.2,
+                "user_total_credit": 0.8,
+                "user_total_debit": 4,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "6a61cd9dd6f3c9d0",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "12fb675b-17e5-4801-974d-b3078293cf0e",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 37.2,
+                    "user_after_balance": 36.800000000000004,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:15.430Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:15",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 36.800000000000004,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 36.800000000000004
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:15",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 36.8,
+                "user_total_credit": 0.8,
+                "user_total_debit": 4.4,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "4cd405cac9c99045",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "d5f96fd5-f17d-4765-8227-e4147633bd41",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 36.8,
+                    "user_after_balance": 36.4,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:15.811Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:15",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 36.4,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 36.4
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:16",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 36.4,
+                "user_total_credit": 0.8,
+                "user_total_debit": 4.8,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "c1227af0f3773a05",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "8b35d044-81ef-4508-bd74-634318e05c33",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 36.4,
+                    "user_after_balance": 36,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:16.174Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:16",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 36,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 36
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:16",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 36,
+                "user_total_credit": 0.8,
+                "user_total_debit": 5.2,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "a84988670ff7e3f6",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "e7d0e624-b54e-4483-b162-90204399543c",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 36,
+                    "user_after_balance": 35.6,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:16.542Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:16",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 35.6,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 35.6
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:16",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 35.6,
+                "user_total_credit": 0.8,
+                "user_total_debit": 5.6,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "2a554d99496d5a7a",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "9f473fb6-982a-4093-af5f-e2762dc877b3",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 35.6,
+                    "user_after_balance": 35.2,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:16.927Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:16",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 35.2,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 35.2
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:24",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 35.2,
+                "user_total_credit": 0.8,
+                "user_total_debit": 6,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "a2f6b3aa720d6134",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "affe89c2-3b76-4ae5-b20c-c5477c38047e",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 35.2,
+                    "user_after_balance": 34.800000000000004,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:24.687Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:24",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 34.800000000000004,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 34.800000000000004
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:25",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 34.8,
+                "user_total_credit": 0.8,
+                "user_total_debit": 6.4,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "bf1cf0a93a4a59d0",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "d91b0829-5bc8-4fe2-826e-3ce8e1e8d8ff",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 34.8,
+                    "user_after_balance": 34.4,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:25.255Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:25",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 34.4,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 34.4
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:25",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 34.4,
+                "user_total_credit": 0.8,
+                "user_total_debit": 6.8,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "8547e248a3f7e921",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 1.6,
+                    "txn_id": "dd607f48-262c-4ac4-9957-a601be1ca76a",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 34.4,
+                    "user_after_balance": 35.6,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:25.860Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:25",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 35.6,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 35.6
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:27",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 35.6,
+                "user_total_credit": 2.4,
+                "user_total_debit": 7.2,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "1bb1334bc19b8330",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "9d99d49a-ce46-4c52-bd35-ecdb3bcddc79",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 35.6,
+                    "user_after_balance": 35.2,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:27.407Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:27",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 35.2,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 35.2
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:28",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 35.2,
+                "user_total_credit": 2.4,
+                "user_total_debit": 7.6,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "56fd7078c053c146",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "925757ac-a8fc-48cc-9d4c-99a7333dfeee",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 35.2,
+                    "user_after_balance": 34.800000000000004,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:27.997Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:28",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 34.800000000000004,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 34.800000000000004
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:28",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 34.8,
+                "user_total_credit": 2.4,
+                "user_total_debit": 8,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "bb1013e3a2c87139",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "a3afbb70-c447-4d88-a9dc-9a4330bfa761",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 34.8,
+                    "user_after_balance": 34.4,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:28.564Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:28",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 34.4,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 34.4
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:29",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 34.4,
+                "user_total_credit": 2.4,
+                "user_total_debit": 8.4,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "544e831a47be32b0",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "051f5bc2-db74-4d71-90c9-991826889575",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 34.4,
+                    "user_after_balance": 34,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:29.193Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:29",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 34,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 34
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:30",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 34,
+                "user_total_credit": 2.4,
+                "user_total_debit": 8.8,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "a75ed69abfa3406b",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "ac23622c-2cf9-470c-be3b-bce4b28a73e2",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 34,
+                    "user_after_balance": 33.6,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:30.070Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:30",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 33.6,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 33.6
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:30",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 33.6,
+                "user_total_credit": 2.4,
+                "user_total_debit": 9.2,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "194fb568fd5c5d6c",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "e580518f-dfe3-4388-83cf-fcb819e491dc",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 33.6,
+                    "user_after_balance": 33.2,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:30.659Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:30",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 33.2,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 33.2
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:31",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 33.2,
+                "user_total_credit": 2.4,
+                "user_total_debit": 9.6,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "089b79eaf01a2171",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "02c40c27-9f07-46eb-a99e-30bb436ad7cd",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 33.2,
+                    "user_after_balance": 32.800000000000004,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:31.533Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:31",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 32.800000000000004,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 32.800000000000004
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:32",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 32.8,
+                "user_total_credit": 2.4,
+                "user_total_debit": 10,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "5ada2f3c0414f797",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "6532ad05-14ad-4471-a1b4-9a5efe9072c5",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 32.8,
+                    "user_after_balance": 32.4,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:32.115Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:32",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 32.4,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 32.4
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:32",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 32.4,
+                "user_total_credit": 2.4,
+                "user_total_debit": 10.4,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "57c5beae6f19981b",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "26bbe048-83bb-4d5b-97dc-a9f690542b05",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 32.4,
+                    "user_after_balance": 32,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:32.689Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:32",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 32,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 32
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:33",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 32,
+                "user_total_credit": 2.4,
+                "user_total_debit": 10.8,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "2cbd97f5058b0c89",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "d66a1d91-bb56-4c83-9da9-a96e244899d8",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 32,
+                    "user_after_balance": 31.6,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:33.256Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:33",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 31.6,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 31.6
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:34",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 31.6,
+                "user_total_credit": 2.4,
+                "user_total_debit": 11.2,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "8903a729b0ed47b2",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0.24,
+                    "txn_id": "de69e0cb-751b-489e-bdec-96e122fd00ca",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 31.6,
+                    "user_after_balance": 31.44,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:34.181Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:34",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 31.44,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 31.44
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:35",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 31.44,
+                "user_total_credit": 2.64,
+                "user_total_debit": 11.6,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "cfd3feb5e689e04f",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "9e3b8958-bb75-4057-a226-0e750e558e10",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 31.44,
+                    "user_after_balance": 31.040000000000003,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:35.726Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:35",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 31.040000000000003,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 31.040000000000003
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:36",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 31.04,
+                "user_total_credit": 2.64,
+                "user_total_debit": 12,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "fa11181202c15628",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "c60a0317-a278-4b5a-9f95-c00a44f4dfdf",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 31.04,
+                    "user_after_balance": 30.64,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:36.353Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:36",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 30.64,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 30.64
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:36",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 30.64,
+                "user_total_credit": 2.64,
+                "user_total_debit": 12.4,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "6889fbcd8633e660",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "3965ff98-079c-460f-80e6-f591b9e78353",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 30.64,
+                    "user_after_balance": 30.240000000000002,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:36.903Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:36",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 30.240000000000002,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 30.240000000000002
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:37",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 30.24,
+                "user_total_credit": 2.64,
+                "user_total_debit": 12.8,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "a558097f8fe6c479",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "b8dc4bdb-efba-4f40-8c83-a257d513e5b6",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 30.24,
+                    "user_after_balance": 29.84,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:37.423Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:37",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 29.84,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 29.84
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:38",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 29.84,
+                "user_total_credit": 2.64,
+                "user_total_debit": 13.2,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "6a6b08248ffcf9e2",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "2ada62ec-fcee-443b-a50a-e60c6923c2ae",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 29.84,
+                    "user_after_balance": 29.44,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:38.078Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:38",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 29.44,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 29.44
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:38",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 29.44,
+                "user_total_credit": 2.64,
+                "user_total_debit": 13.6,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "97db51f6799e18ff",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "559fe71e-01a7-46e7-b182-36e45537e29e",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 29.44,
+                    "user_after_balance": 29.040000000000003,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:38.586Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:38",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 29.040000000000003,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 29.040000000000003
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:03:39",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 29.04,
+                "user_total_credit": 2.64,
+                "user_total_debit": 14,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "c70c7d1988f939ad",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "1c786d46-6409-4844-bc57-69f61a31395e",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 29.04,
+                    "user_after_balance": 28.64,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:03:39.470Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:03:39",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 28.64,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 28.64
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:10:29",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "agrobet85",
+                "user_balance": 292.01,
+                "user_total_credit": 0,
+                "user_total_debit": 0,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "d71f0d298c57159b",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "70a0e6c1-b84f-422c-b7c4-5f33df53ab51",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 292.01,
+                    "user_after_balance": 291.61,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:10:29.598Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:10:29",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 291.61,
+            "user_id": 4
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 291.61
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:10:31",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "agrobet85",
+                "user_balance": 291.61,
+                "user_total_credit": 0,
+                "user_total_debit": 0.4,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "07a39b3e85e7413e",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "132da0d0-ec80-4a4d-a3c3-d8c4bc9898b2",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 291.61,
+                    "user_after_balance": 291.21000000000004,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:10:31.573Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:10:31",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 291.21000000000004,
+            "user_id": 4
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 291.21000000000004
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:10:33",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "agrobet85",
+                "user_balance": 291.21,
+                "user_total_credit": 0,
+                "user_total_debit": 0.8,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "670f29aa190e0989",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "0fd12c5d-9c66-4ce9-bec6-0c5506f23831",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 291.21,
+                    "user_after_balance": 290.81,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:10:33.813Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:10:33",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 290.81,
+            "user_id": 4
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 290.81
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:10:36",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "agrobet85",
+                "user_balance": 290.81,
+                "user_total_credit": 0,
+                "user_total_debit": 1.2,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "d956653fe56e757f",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "073f8381-05ee-4f90-9a8b-e56e5cb66a8d",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 290.81,
+                    "user_after_balance": 290.41,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:10:36.015Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:10:36",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 290.41,
+            "user_id": 4
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 290.41
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:10:38",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "agrobet85",
+                "user_balance": 290.41,
+                "user_total_credit": 0,
+                "user_total_debit": 1.6,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-dragon",
+                    "round_id": "d1faae7182d88f80",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "82ade390-0cd1-44b5-9b96-dd06cecf7745",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 290.41,
+                    "user_after_balance": 290.01000000000005,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:10:38.148Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:10:38",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 290.01000000000005,
+            "user_id": 4
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 290.01000000000005
+        }
+    },
+    {
+        "timestamp": "2025-02-26 21:17:33",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "bry222",
+                "user_balance": 28.64,
+                "user_total_credit": 2.64,
+                "user_total_debit": 14.4,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-tiger",
+                    "round_id": "6fce727382124ef5",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0.24,
+                    "txn_id": "1dd5cb26-4c45-40e3-ab2b-946d2bb8b357",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 28.64,
+                    "user_after_balance": 28.48,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T00:17:33.536Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 21:17:33",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 28.48,
+            "user_id": 13
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 28.48
+        }
+    },
+    {
+        "timestamp": "2025-02-26 23:09:31",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "exp2020",
+                "user_balance": 10,
+                "user_total_credit": 0,
+                "user_total_debit": 0,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-tiger",
+                    "round_id": "67ed5d7a843fbdb6",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "8a6c9c90-857c-4adc-ae3f-17e23c633a16",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 10,
+                    "user_after_balance": 9.6,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T02:09:31.395Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 23:09:31",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 9.6,
+            "user_id": 14
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 9.6
+        }
+    },
+    {
+        "timestamp": "2025-02-26 23:09:55",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "exp2020",
+                "user_balance": 9.6,
+                "user_total_credit": 0,
+                "user_total_debit": 0.4,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-tiger",
+                    "round_id": "075bf34d4c695e08",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "91abdb72-adaf-4efb-9272-1096aa7c0413",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 9.6,
+                    "user_after_balance": 9.2,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T02:09:55.867Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 23:09:55",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 9.2,
+            "user_id": 14
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 9.2
+        }
+    },
+    {
+        "timestamp": "2025-02-26 23:09:57",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "exp2020",
+                "user_balance": 9.2,
+                "user_total_credit": 0,
+                "user_total_debit": 0.8,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-tiger",
+                    "round_id": "8d0da8f170841425",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "36f7133a-f056-4f0e-b1ef-9f4ae1160cd7",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 9.2,
+                    "user_after_balance": 8.799999999999999,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T02:09:57.894Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 23:09:57",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 8.799999999999999,
+            "user_id": 14
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 8.799999999999999
+        }
+    },
+    {
+        "timestamp": "2025-02-26 23:09:58",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "exp2020",
+                "user_balance": 8.8,
+                "user_total_credit": 0,
+                "user_total_debit": 1.2,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-tiger",
+                    "round_id": "870f8ef83799e769",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "9a77619a-c75a-4025-8e2a-7012eb1c019a",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 8.8,
+                    "user_after_balance": 8.4,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T02:09:58.890Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 23:09:58",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 8.4,
+            "user_id": 14
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 8.4
+        }
+    },
+    {
+        "timestamp": "2025-02-26 23:09:59",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "exp2020",
+                "user_balance": 8.4,
+                "user_total_credit": 0,
+                "user_total_debit": 1.6,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-tiger",
+                    "round_id": "75e93a45880cecbe",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "8cb2ad3b-af9b-4ed1-9b27-d2b3a19c197a",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 8.4,
+                    "user_after_balance": 8,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T02:09:59.947Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 23:09:59",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 8,
+            "user_id": 14
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 8
+        }
+    },
+    {
+        "timestamp": "2025-02-26 23:10:00",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "exp2020",
+                "user_balance": 8,
+                "user_total_credit": 0,
+                "user_total_debit": 2,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-tiger",
+                    "round_id": "c98ea4546093486a",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "b5be9f8d-5065-4e2d-9cde-4bf43c0a0e4d",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 8,
+                    "user_after_balance": 7.6,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T02:10:00.642Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 23:10:00",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 7.6,
+            "user_id": 14
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 7.6
+        }
+    },
+    {
+        "timestamp": "2025-02-26 23:10:01",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "exp2020",
+                "user_balance": 7.6,
+                "user_total_credit": 0,
+                "user_total_debit": 2.4,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-tiger",
+                    "round_id": "e03f22066ef29368",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "587642d8-f7cb-45aa-b07f-fcf3287c3e3d",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 7.6,
+                    "user_after_balance": 7.199999999999999,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T02:10:01.236Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 23:10:01",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 7.199999999999999,
+            "user_id": 14
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 7.199999999999999
+        }
+    },
+    {
+        "timestamp": "2025-02-26 23:10:01",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "exp2020",
+                "user_balance": 7.2,
+                "user_total_credit": 0,
+                "user_total_debit": 2.8,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-tiger",
+                    "round_id": "d2cc79c5e1ea17b0",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "ac7de5d8-77f3-452d-90f4-bcd7cfd7bee7",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 7.2,
+                    "user_after_balance": 6.8,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T02:10:01.886Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 23:10:01",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 6.8,
+            "user_id": 14
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 6.8
+        }
+    },
+    {
+        "timestamp": "2025-02-26 23:10:02",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "exp2020",
+                "user_balance": 6.8,
+                "user_total_credit": 0,
+                "user_total_debit": 3.2,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-tiger",
+                    "round_id": "faf9cf056e264c50",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0,
+                    "txn_id": "797deb36-7ca0-4cab-aeb9-4ac415845c9c",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 6.8,
+                    "user_after_balance": 6.3999999999999995,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T02:10:02.514Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 23:10:02",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 6.3999999999999995,
+            "user_id": 14
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 6.3999999999999995
+        }
+    },
+    {
+        "timestamp": "2025-02-26 23:10:03",
+        "request": {
+            "action": "request_received",
+            "data": {
+                "method": "transaction",
+                "agent_secret": "secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3",
+                "user_code": "exp2020",
+                "user_balance": 6.4,
+                "user_total_credit": 0,
+                "user_total_debit": 3.6,
+                "game_type": "slot",
+                "slot": {
+                    "provider_code": "PGSOFT",
+                    "game_code": "fortune-tiger",
+                    "round_id": "15ec6de1fe1e7c6b",
+                    "type": "BASE",
+                    "bet": 0.4,
+                    "win": 0.4,
+                    "txn_id": "ef15f161-61d3-41d7-9de0-7ce9bfc7d322",
+                    "txn_type": "debit_credit",
+                    "is_buy": false,
+                    "is_call": false,
+                    "user_before_balance": 6.4,
+                    "user_after_balance": 6.4,
+                    "agent_before_balance": 100,
+                    "agent_after_balance": 100,
+                    "created_at": "2025-02-27T02:10:03.192Z"
+                }
+            }
+        },
+        "response": null
+    },
+    {
+        "timestamp": "2025-02-26 23:10:03",
+        "request": {
+            "action": "update_balance_success",
+            "new_balance": 6.4,
+            "user_id": 14
+        },
+        "response": {
+            "status": 1,
+            "user_balance": 6.4
+        }
+    }
+]

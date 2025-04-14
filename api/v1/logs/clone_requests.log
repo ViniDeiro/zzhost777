@@ -1,0 +1,114 @@
+==== CLONE REQUEST - 2025-02-26 20:39:00 ====
+URL: https://api.expfy.online/api/v1/game_launch
+Dados Enviados: {"agentToken":"pub_61u9OPoHSGahGzBrHEwUbz4sl9xtqYRk","secretKey":"secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3","user_code":"bry222","provider_code":"PGSOFT","game_code":"fortune-tiger","user_balance":40}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https://api.expfy.online/126/index.html?operator_token=Zm9saWFiZXQ=&btt=1&t=7064f73e-1f4b-4800-a12b-28ecf959e12c&or=01tubujd%3Dqhg-fhx0aa%3Ddpn&api=api.expfy.online","user_code":"bry222","user_balance":40,"user_created":true,"currency":"BRL"}
+================================
+
+==== CLONE REQUEST - 2025-02-26 20:41:01 ====
+URL: https://api.expfy.online/api/v1/game_launch
+Dados Enviados: {"agentToken":"pub_61u9OPoHSGahGzBrHEwUbz4sl9xtqYRk","secretKey":"secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3","user_code":"bry222","provider_code":"PGSOFT","game_code":"fortune-tiger","user_balance":40}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https://api.expfy.online/126/index.html?operator_token=Zm9saWFiZXQ=&btt=1&t=7064f73e-1f4b-4800-a12b-28ecf959e12c&or=01tubujd%3Dqhg-fhx0aa%3Ddpn&api=api.expfy.online","user_code":"bry222","user_balance":39.6,"user_created":false,"currency":"BRL"}
+================================
+
+==== CLONE REQUEST - 2025-02-26 20:41:26 ====
+URL: https://api.expfy.online/api/v1/game_launch
+Dados Enviados: {"agentToken":"pub_61u9OPoHSGahGzBrHEwUbz4sl9xtqYRk","secretKey":"secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3","user_code":"bry222","provider_code":"PGSOFT","game_code":"fortune-tiger","user_balance":40}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https://api.expfy.online/126/index.html?operator_token=Zm9saWFiZXQ=&btt=1&t=7064f73e-1f4b-4800-a12b-28ecf959e12c&or=01tubujd%3Dqhg-fhx0aa%3Ddpn&api=api.expfy.online","user_code":"bry222","user_balance":40,"user_created":false,"currency":"BRL"}
+================================
+
+==== CLONE REQUEST - 2025-02-26 20:42:13 ====
+URL: https://api.expfy.online/api/v1/game_launch
+Dados Enviados: {"agentToken":"pub_61u9OPoHSGahGzBrHEwUbz4sl9xtqYRk","secretKey":"secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3","user_code":"bry222","provider_code":"PGSOFT","game_code":"fortune-tiger","user_balance":40}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https://api.expfy.online/126/index.html?operator_token=Zm9saWFiZXQ=&btt=1&t=7064f73e-1f4b-4800-a12b-28ecf959e12c&or=01tubujd%3Dqhg-fhx0aa%3Ddpn&api=api.expfy.online","user_code":"bry222","user_balance":40,"user_created":false,"currency":"BRL"}
+================================
+
+==== CLONE REQUEST - 2025-02-26 20:42:58 ====
+URL: https://api.expfy.online/api/v1/game_launch
+Dados Enviados: {"agentToken":"pub_61u9OPoHSGahGzBrHEwUbz4sl9xtqYRk","secretKey":"secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3","user_code":"bry222","provider_code":"PGSOFT","game_code":"fortune-tiger","user_balance":40}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https://api.expfy.online/126/index.html?operator_token=Zm9saWFiZXQ=&btt=1&t=7064f73e-1f4b-4800-a12b-28ecf959e12c&or=01tubujd%3Dqhg-fhx0aa%3Ddpn&api=api.expfy.online","user_code":"bry222","user_balance":40,"user_created":false,"currency":"BRL"}
+================================
+
+==== CLONE REQUEST - 2025-02-26 20:45:53 ====
+URL: https://api.expfy.online/api/v1/game_launch
+Dados Enviados: {"agentToken":"pub_61u9OPoHSGahGzBrHEwUbz4sl9xtqYRk","secretKey":"secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3","user_code":"bry222","provider_code":"PGSOFT","game_code":"fortune-dragon","user_balance":39.6}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https://api.expfy.online/1695365/index.html?operator_token=Zm9saWFiZXQ=&btt=1&t=7064f73e-1f4b-4800-a12b-28ecf959e12c&or=01tubujd%3Dqhg-fhx0aa%3Ddpn&api=api.expfy.online","user_code":"bry222","user_balance":39.6,"user_created":false,"currency":"BRL"}
+================================
+
+==== CLONE REQUEST - 2025-02-26 20:46:46 ====
+URL: https://api.expfy.online/api/v1/game_launch
+Dados Enviados: {"agentToken":"pub_61u9OPoHSGahGzBrHEwUbz4sl9xtqYRk","secretKey":"secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3","user_code":"bry222","provider_code":"PGSOFT","game_code":"fortune-dragon","user_balance":39.6}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https://api.expfy.online/1695365/index.html?operator_token=Zm9saWFiZXQ=&btt=1&t=7064f73e-1f4b-4800-a12b-28ecf959e12c&or=01tubujd%3Dqhg-fhx0aa%3Ddpn&api=api.expfy.online","user_code":"bry222","user_balance":39.6,"user_created":false,"currency":"BRL"}
+================================
+
+==== CLONE REQUEST - 2025-02-26 20:47:09 ====
+URL: https://api.expfy.online/api/v1/game_launch
+Dados Enviados: {"agentToken":"pub_61u9OPoHSGahGzBrHEwUbz4sl9xtqYRk","secretKey":"secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3","user_code":"bry222","provider_code":"PGSOFT","game_code":"fortune-tiger","user_balance":39.6}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https://api.expfy.online/126/index.html?operator_token=Zm9saWFiZXQ=&btt=1&t=7064f73e-1f4b-4800-a12b-28ecf959e12c&or=01tubujd%3Dqhg-fhx0aa%3Ddpn&api=api.expfy.online","user_code":"bry222","user_balance":39.6,"user_created":false,"currency":"BRL"}
+================================
+
+==== CLONE REQUEST - 2025-02-26 20:48:03 ====
+URL: https://api.expfy.online/api/v1/game_launch
+Dados Enviados: {"agentToken":"pub_61u9OPoHSGahGzBrHEwUbz4sl9xtqYRk","secretKey":"secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3","user_code":"bry222","provider_code":"PGSOFT","game_code":"126","user_balance":39.6}
+Resposta Recebida: {"status":"error","message":"Esse game não existe."}
+================================
+
+==== CLONE REQUEST - 2025-02-26 20:48:45 ====
+URL: https://api.expfy.online/api/v1/game_launch
+Dados Enviados: {"agentToken":"pub_61u9OPoHSGahGzBrHEwUbz4sl9xtqYRk","secretKey":"secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3","user_code":"bry222","provider_code":"PGSOFT","game_code":"fortune-tiger","user_balance":39.6}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https://api.expfy.online/126/index.html?operator_token=Zm9saWFiZXQ=&btt=1&t=7064f73e-1f4b-4800-a12b-28ecf959e12c&or=01tubujd%3Dqhg-fhx0aa%3Ddpn&api=api.expfy.online","user_code":"bry222","user_balance":39.6,"user_created":false,"currency":"BRL"}
+================================
+
+==== CLONE REQUEST - 2025-02-26 21:00:44 ====
+URL: https://api.expfy.online/api/v1/game_launch
+Dados Enviados: {"agentToken":"pub_61u9OPoHSGahGzBrHEwUbz4sl9xtqYRk","secretKey":"secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3","user_code":"bry222","provider_code":"PGSOFT","game_code":"fortune-tiger","user_balance":39.6}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https://api.expfy.online/126/index.html?operator_token=Zm9saWFiZXQ=&btt=1&t=7064f73e-1f4b-4800-a12b-28ecf959e12c&or=01tubujd%3Dqhg-fhx0aa%3Ddpn&api=api.expfy.online","user_code":"bry222","user_balance":39.6,"user_created":false,"currency":"BRL"}
+================================
+
+==== CLONE REQUEST - 2025-02-26 21:01:25 ====
+URL: https://api.expfy.online/api/v1/game_launch
+Dados Enviados: {"agentToken":"pub_61u9OPoHSGahGzBrHEwUbz4sl9xtqYRk","secretKey":"secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3","user_code":"bry222","provider_code":"PGSOFT","game_code":"fortune-tiger","user_balance":39.6}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https://api.expfy.online/126/index.html?operator_token=Zm9saWFiZXQ=&btt=1&t=7064f73e-1f4b-4800-a12b-28ecf959e12c&or=01tubujd%3Dqhg-fhx0aa%3Ddpn&api=api.expfy.online","user_code":"bry222","user_balance":39.6,"user_created":false,"currency":"BRL"}
+================================
+
+==== CLONE REQUEST - 2025-02-26 21:01:31 ====
+URL: https://api.expfy.online/api/v1/game_launch
+Dados Enviados: {"agentToken":"pub_61u9OPoHSGahGzBrHEwUbz4sl9xtqYRk","secretKey":"secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3","user_code":"bry222","provider_code":"PGSOFT","game_code":"fortune-tiger","user_balance":39.6}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https://api.expfy.online/126/index.html?operator_token=Zm9saWFiZXQ=&btt=1&t=7064f73e-1f4b-4800-a12b-28ecf959e12c&or=01tubujd%3Dqhg-fhx0aa%3Ddpn&api=api.expfy.online","user_code":"bry222","user_balance":39.6,"user_created":false,"currency":"BRL"}
+================================
+
+==== CLONE REQUEST - 2025-02-26 21:02:05 ====
+URL: https://api.expfy.online/api/v1/game_launch
+Dados Enviados: {"agentToken":"pub_61u9OPoHSGahGzBrHEwUbz4sl9xtqYRk","secretKey":"secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3","user_code":"bry222","provider_code":"PGSOFT","game_code":"fortune-dragon","user_balance":38}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https://api.expfy.online/1695365/index.html?operator_token=Zm9saWFiZXQ=&btt=1&t=7064f73e-1f4b-4800-a12b-28ecf959e12c&or=01tubujd%3Dqhg-fhx0aa%3Ddpn&api=api.expfy.online","user_code":"bry222","user_balance":38,"user_created":false,"currency":"BRL"}
+================================
+
+==== CLONE REQUEST - 2025-02-26 21:03:20 ====
+URL: https://api.expfy.online/api/v1/game_launch
+Dados Enviados: {"agentToken":"pub_61u9OPoHSGahGzBrHEwUbz4sl9xtqYRk","secretKey":"secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3","user_code":"bry222","provider_code":"PGSOFT","game_code":"fortune-dragon","user_balance":35.2}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https://api.expfy.online/1695365/index.html?operator_token=Zm9saWFiZXQ=&btt=1&t=7064f73e-1f4b-4800-a12b-28ecf959e12c&or=01tubujd%3Dqhg-fhx0aa%3Ddpn&api=api.expfy.online","user_code":"bry222","user_balance":35.2,"user_created":false,"currency":"BRL"}
+================================
+
+==== CLONE REQUEST - 2025-02-26 21:05:49 ====
+URL: https://api.expfy.online/api/v1/game_launch
+Dados Enviados: {"agentToken":"pub_61u9OPoHSGahGzBrHEwUbz4sl9xtqYRk","secretKey":"secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3","user_code":"bry222","provider_code":"PGSOFT","game_code":"fortune-tiger","user_balance":28.64}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https://api.expfy.online/126/index.html?operator_token=Zm9saWFiZXQ=&btt=1&t=7064f73e-1f4b-4800-a12b-28ecf959e12c&or=01tubujd%3Dqhg-fhx0aa%3Ddpn&api=api.expfy.online","user_code":"bry222","user_balance":28.64,"user_created":false,"currency":"BRL"}
+================================
+
+==== CLONE REQUEST - 2025-02-26 21:09:42 ====
+URL: https://api.expfy.online/api/v1/game_launch
+Dados Enviados: {"agentToken":"pub_61u9OPoHSGahGzBrHEwUbz4sl9xtqYRk","secretKey":"secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3","user_code":"agrobet85","provider_code":"PGSOFT","game_code":"fortune-tiger","user_balance":292.01}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https://api.expfy.online/126/index.html?operator_token=Zm9saWFiZXQ=&btt=1&t=a97cf69b-5e74-42e3-a8da-1a7c28a731e3&or=01tubujd%3Dqhg-fhx0aa%3Ddpn&api=api.expfy.online","user_code":"agrobet85","user_balance":292.01,"user_created":true,"currency":"BRL"}
+================================
+
+==== CLONE REQUEST - 2025-02-26 21:10:12 ====
+URL: https://api.expfy.online/api/v1/game_launch
+Dados Enviados: {"agentToken":"pub_61u9OPoHSGahGzBrHEwUbz4sl9xtqYRk","secretKey":"secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3","user_code":"agrobet85","provider_code":"PGSOFT","game_code":"fortune-dragon","user_balance":292.01}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https://api.expfy.online/1695365/index.html?operator_token=Zm9saWFiZXQ=&btt=1&t=a97cf69b-5e74-42e3-a8da-1a7c28a731e3&or=01tubujd%3Dqhg-fhx0aa%3Ddpn&api=api.expfy.online","user_code":"agrobet85","user_balance":292.01,"user_created":false,"currency":"BRL"}
+================================
+
+==== CLONE REQUEST - 2025-02-26 23:09:20 ====
+URL: https://api.expfy.online/api/v1/game_launch
+Dados Enviados: {"agentToken":"pub_61u9OPoHSGahGzBrHEwUbz4sl9xtqYRk","secretKey":"secret_MVUlHi3xynfwifHpuhBZeJChRBefy8U3","user_code":"exp2020","provider_code":"PGSOFT","game_code":"fortune-tiger","user_balance":10}
+Resposta Recebida: {"status":1,"msg":"SUCCESS","launch_url":"https://api.expfy.online/126/index.html?operator_token=Zm9saWFiZXQ=&btt=1&t=b0e26f99-aa14-4acb-a20f-8ae145d026f6&or=01tubujd%3Dqhg-fhx0aa%3Ddpn&api=api.expfy.online","user_code":"exp2020","user_balance":10,"user_created":true,"currency":"BRL"}
+================================
+

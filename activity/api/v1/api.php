@@ -1,0 +1,336 @@
+<?php
+
+ini_set('display_errors', 1);
+error_reporting(E_ALL);
+ini_set('log_errors', 1);
+ini_set('error_log', 'error.log');
+parse_str(file_get_contents("php://input"), $data);
+date_default_timezone_set('America/Sao_Paulo');
+include_once('logger.php');
+
+// Verificar se o JSON foi decodificado com sucesso
+#if ($data === null && json_last_error() !== JSON_ERROR_NONE) {
+if ($data === null) {
+    // Erro ao decodificar o JSON
+    #http_response_code(400); // Bad Request
+    //echo json_encode(array('error' => 'Erro na decodificação do JSON.'));
+    #exit;
+}
+#=================================================================================================#
+include_once "./../../../admin/services/database.php";
+include_once "./../../../admin/services/funcao.php";
+include_once "./../../../admin/services/crud.php";
+#=================================================================================================#
+#CRIANDO AS ROTAS POST PARA API
+#=================================================================================================#
+#variaveis que pode trocar
+$telegram_link = "https://t.me/#";
+#=================================================================================================#
+
+if (isset($_REQUEST['expfygaming']) and !empty($_REQUEST['expfygaming']) and $_REQUEST['expfygaming'] == 'member/webset/list?') {
+    $response = [
+        "status" => true,
+        "data" => [
+            "pool_money_style" => $dataconfig['numero_jackpot'],
+            "img_shape" => "1",
+            "lang_switch" => "1",
+            "banner_hidden_proxy" => "",
+            "authLogRegType" => "slide",
+            "authLogReg" => "1",
+            "footerJson" => '{"styleDisplay":"1","quickNavigateToggle":"1","cassinoAry":"返水,VIP,邀请/代理","gameAry":"捕鱼,电子,棋牌","suporteAry":"在线客服","快速跳转地址":"活动","shareSettingsToggle":"1","officialChannelToggle":"1","partnerInfoToggle":"1","licenseToggle":"0","hzValue":"","pzValue":"","partnerInfoData":[{"image":"/image/1724220117041..webp","name":"JDB","operationTime":"2024-08-21 03:02:02","operator":"expfygaming","id":"_1gsbr2rwm"},{"image":"/image/1724220126421..webp","name":"JILI","operationTime":"2024-08-21 03:02:09","operator":"expfygaming","id":"_2fgwmvp70"},{"image":"/image/1724220135199..webp","name":"PG","operationTime":"2024-08-21 03:02:18","operator":"expfygaming","id":"_4drxwjogn"},{"image":"/image/1724220142647..webp","name":"GC","operationTime":"2024-08-21 03:02:26","operator":"expfygaming","id":"_gqmphdwhj"},{"image":"/image/1724220149222..webp","name":"PIX","operationTime":"2024-08-21 03:02:32","operator":"expfygaming","id":"_o1mtg5mic"}],"licenseInfo":[{"image":"/image/1724220587697..webp","name":"MGA","operationTime":"2024-08-21 03:09:52","operator":"expfygaming","id":"_f26kelw6d"},{"image":"/image/1724220597985..webp","name":"GLI","operationTime":"2024-08-21 03:10:35","operator":"expfygaming","id":"_x3pqd4zva"},{"image":"/image/1724220640166..webp","name":"GC","operationTime":"2024-08-21 03:10:43","operator":"expfygaming","id":"_3fjlt8bhm"},{"image":"/image/1724220646502..webp","name":"PAGCOR","operationTime":"2024-08-21 03:10:53","operator":"expfygaming","id":"_ibe2y2dng"}],"copyrightInfo":["iGaming Development", "© 2024-2025"],"companyInfoHtml":"<p>O grupo é a empresa de operação de cassino online mais famosa do mundo e oferece entretenimento emocionante e divertido com dealers ao vivo incluindo cidade, jogos de mesa, eletrônicos, pesca, loteria, esportes, etc. Group é autorizado e regulamentado pelo Governo de Curaçao e opera de acordo com a licença número Antillephone emitida para 8048/JAZ. Group passou por todas as auditorias em conformidade e está legalmente autorizado a operar todos os jogos de oportunidade e apostas.</p>"}',
+            "googleQuickLogin" => "1",
+            "web_title" => "expfygamingDEV.COM",
+            "pop" => [
+                [
+                    "id" => "31042230947155971",
+                    "ty" => "",
+                    "name" => "roda de bônus",
+                    "portal" => [
+                        "pc",
+                        "h5",
+                        "app",
+                    ],
+                    "img" => "/image/1720066353798..webp",
+                    "link" => "https://t.me/grupoblend",
+                    "oper" => "",
+                    "sway" => 1,
+                    "sort" => 2,
+                    "state" => 1,
+                    "op_at" => 1720066373,
+                    "login_bf" => 2,
+                    "login_af" => 2,
+                    "close_today" => 0,
+                    "recipient_type" => 0,
+                    "recipient" => "",
+                ],
+                [
+                    "id" => "168545903842044476",
+                    "ty" => "",
+                    "name" => "1",
+                    "portal" => [
+                        "pc",
+                        "h5",
+                        "app",
+                    ],
+                    "img" => "/image/1720066310736..webp",
+                    "link" => "https://t.me/grupoblend",
+                    "oper" => "",
+                    "sway" => 1,
+                    "sort" => 3,
+                    "state" => 1,
+                    "op_at" => 1720066319,
+                    "login_bf" => 2,
+                    "login_af" => 2,
+                    "close_today" => 0,
+                    "recipient_type" => 0,
+                    "recipient" => "",
+                ],
+                [
+                    "id" => "19253642284340635",
+                    "ty" => "",
+                    "name" => "INS",
+                    "portal" => [
+                        "pc",
+                        "h5",
+                        "app",
+                    ],
+                    "img" => "/image/1720066296869..webp",
+                    "link" => "https://www.instagram.com/",
+                    "oper" => "",
+                    "sway" => 1,
+                    "sort" => 10,
+                    "state" => 1,
+                    "op_at" => 1720066302,
+                    "login_bf" => 2,
+                    "login_af" => 2,
+                    "close_today" => 0,
+                    "recipient_type" => 0,
+                    "recipient" => "",
+                ],
+            ],
+            "register_need_name_switch" => "1",
+            "guide_title" => "expfygamingDEV.COM",
+            "t_fees" => '[{"id":"1","tag_id":"","fmin":0,"fmax":20,"amount":0,"flags":1,"updated_name":"superadmin","updated_at":1721995535}]',
+            "decimalPlaces" => "2",
+            "pool_forward_flag" => "/",
+            "pool_forward" => "/",
+            "float" => [],
+            "banner_bottom_switch" => "1",
+            "Redirect_Url" => "https://caowin.com",
+            "deposit_img_h5" => "/image/1708935846379.webp",
+            "deposit_to" => "/activity-detail/17395548563954431/deposit",
+            "pool_forward_name" => "/",
+            "player_switch" => "1",
+            "prefix" => "f51",
+            "t_limits" => '[{"id":"538923381501373445","tag_id":"0","fmin":10,"fmax":50000,"updated_name":"superadmin","updated_at":1721995535}]',
+            "banner_switch" => "1",
+            "marqueeType" => "2", // 1 = GANHOS ALEATORIOS NO BROADCAST - 2 = BROADCAST DE TEXTO NORMAL
+            "pool_forward_jump_type" => "1",
+            "googleH5AppID" => "748502877167-pa9v53edelbut91a7129ca8o53vpds2e.apps.googleusercontent.com",
+            "deposit_img_pc" => "/image/1708935841207.webp",
+            "pool_style" => $dataconfig['jackpot'], // ESTILO DO JACKPOT
+            "s_wdraw_fst_deptamount" => "0",
+            "share" => [
+                [
+                    "id" => "507356404759062703",
+                    "ty" => "",
+                    "name" => "line",
+                    "portal" => [
+                        "",
+                    ],
+                    "img" => "/image/1710154471108..webp",
+                    "link" => "https://line.me/R/ti/p/",
+                    "oper" => "",
+                    "sway" => 0,
+                    "sort" => 8,
+                    "state" => 1,
+                    "op_at" => 1717235005,
+                    "login_bf" => 0,
+                    "login_af" => 0,
+                    "close_today" => 0,
+                    "recipient_type" => 0,
+                    "recipient" => "",
+                ],
+                [
+                    "id" => "14797924984634028",
+                    "ty" => "",
+                    "name" => "ins",
+                    "portal" => [
+                        "",
+                    ],
+                    "img" => "/image/1713094582376..webp",
+                    "link" => "https://www.instagram.com/",
+                    "oper" => "",
+                    "sway" => 0,
+                    "sort" => 1,
+                    "state" => 1,
+                    "op_at" => 1720066398,
+                    "login_bf" => 0,
+                    "login_af" => 0,
+                    "close_today" => 0,
+                    "recipient_type" => 0,
+                    "recipient" => "",
+                ],
+                [
+                    "id" => "507339199868328987",
+                    "ty" => "",
+                    "name" => "facebook",
+                    "portal" => [
+                        "",
+                    ],
+                    "img" => "/image/1710154419122..webp",
+                    "link" => "https://www.facebook.com/sharer/sharer.php?u=xxxxx",
+                    "oper" => "",
+                    "sway" => 0,
+                    "sort" => 2,
+                    "state" => 1,
+                    "op_at" => 1712855731,
+                    "login_bf" => 0,
+                    "login_af" => 0,
+                    "close_today" => 0,
+                    "recipient_type" => 0,
+                    "recipient" => "",
+                ],
+                [
+                    "id" => "507346558646967565",
+                    "ty" => "",
+                    "name" => "telegram",
+                    "portal" => [
+                        "",
+                    ],
+                    "img" => "/image/1710154436860..webp",
+                    "link" => "https://t.me/grupoblend",
+                    "oper" => "",
+                    "sway" => 0,
+                    "sort" => 2,
+                    "state" => 1,
+                    "op_at" => 1710154439,
+                    "login_bf" => 0,
+                    "login_af" => 0,
+                    "close_today" => 0,
+                    "recipient_type" => 0,
+                    "recipient" => "",
+                ],
+                [
+                    "id" => "507347921991100188",
+                    "ty" => "",
+                    "name" => "youtube",
+                    "portal" => [
+                        "",
+                    ],
+                    "img" => "/image/1710154410968..webp",
+                    "link" => "https://www.youtube.com/",
+                    "oper" => "",
+                    "sway" => 0,
+                    "sort" => 4,
+                    "state" => 1,
+                    "op_at" => 1710154412,
+                    "login_bf" => 0,
+                    "login_af" => 0,
+                    "close_today" => 0,
+                    "recipient_type" => 0,
+                    "recipient" => "",
+                ],
+                [
+                    "id" => "507350188537890161",
+                    "ty" => "",
+                    "name" => "whatsapp",
+                    "portal" => [
+                        "",
+                    ],
+                    "img" => "/image/1710154463790..webp",
+                    "link" => "https://wa.me/?text=xxxxx",
+                    "oper" => "",
+                    "sway" => 0,
+                    "sort" => 1,
+                    "state" => 1,
+                    "op_at" => 1712855692,
+                    "login_bf" => 0,
+                    "login_af" => 0,
+                    "close_today" => 0,
+                    "recipient_type" => 0,
+                    "recipient" => "",
+                ],
+                [
+                    "id" => "507352469121437887",
+                    "ty" => "",
+                    "name" => "twitter",
+                    "portal" => [
+                        "",
+                    ],
+                    "img" => "/image/1712855638183..webp",
+                    "link" => "https://twitter.com/intent/tweet",
+                    "oper" => "",
+                    "sway" => 0,
+                    "sort" => 6,
+                    "state" => 1,
+                    "op_at" => 1712855644,
+                    "login_bf" => 0,
+                    "login_af" => 0,
+                    "close_today" => 0,
+                    "recipient_type" => 0,
+                    "recipient" => "",
+                ],
+                [
+                    "id" => "507353360508835083",
+                    "ty" => "",
+                    "name" => "tiktok",
+                    "portal" => [
+                        "",
+                    ],
+                    "img" => "/image/1710154454428..webp",
+                    "link" => "https://www.tiktok.com/",
+                    "oper" => "",
+                    "sway" => 0,
+                    "sort" => 7,
+                    "state" => 1,
+                    "op_at" => 1710154456,
+                    "login_bf" => 0,
+                    "login_af" => 0,
+                    "close_today" => 0,
+                    "recipient_type" => 0,
+                    "recipient" => "",
+                ],
+                [
+                    "id" => "507356404759062703",
+                    "ty" => "",
+                    "name" => "line",
+                    "portal" => [
+                        "",
+                    ],
+                    "img" => "/image/1710154471108..webp",
+                    "link" => "https://line.me/R/ti/p/",
+                    "oper" => "",
+                    "sway" => 0,
+                    "sort" => 8,
+                    "state" => 1,
+                    "op_at" => 1717235005,
+                    "login_bf" => 0,
+                    "login_af" => 0,
+                    "close_today" => 0,
+                    "recipient_type" => 0,
+                    "recipient" => "",
+                ],
+            ],
+            "netsignal_switch" => "1", // ATIVAR OU DESATIVAR TROCAR DE SERVIDORES
+            "banner_text" => $dataconfig['mensagem_app'], // TEXTO EXIBIDO DENTRO DO POPUP DE DOWNLOAD
+            "group_name" => "expfygaming dev",
+            "realNameRequired" => "1",
+            "googleH5Secret" => "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",
+            "logo_img" => "/uploads/{$dataconfig['logo']}",
+            "marqueeTxt" => "{$dataconfig['marquee']}",
+            "pool_switch" => "1",
+            "favicon_img" => "/uploads/{$dataconfig['favicon']}",
+            "banner_img" => "/uploads/{$dataconfig['logoapp']}",
+            "player_autoplay" => "1",
+            "reg_need_phone" => "1",
+            "pool_custom_style" => "/uploads/jackpot{$dataconfig['jackpot']}.png",
+            "phoneRequired" => "1",
+            "game_recommend" => "1",
+            "pool_forward_id" => "/",
+        ],
+        "msg" => null,
+    ];
+    $response_json = json_encode($response, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
+    echo $response_json;
+}

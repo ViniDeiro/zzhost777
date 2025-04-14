@@ -1,0 +1,1581 @@
+[2024-11-05 03:19:47] Recebendo dados via POST.
+[2024-11-05 03:19:47] Dados recebidos: Array
+(
+    [user_id] => 81
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2024-11-05 03:19:47] Saldo atual do usuário: 5.60
+[2024-11-05 03:19:47] Adicionando 100 ao saldo do usuário 81. Novo saldo: 105.6
+[2024-11-05 03:19:47] Saldo atualizado com sucesso para o usuário 81.
+[2024-11-05 19:09:45] Recebendo dados via POST.
+[2024-11-05 19:09:45] Dados recebidos: Array
+(
+    [user_id] => 86
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2024-11-05 19:09:45] Saldo atual do usuário: 0.00
+[2024-11-05 19:09:45] Adicionando 100 ao saldo do usuário 86. Novo saldo: 100
+[2024-11-05 19:09:45] Saldo atualizado com sucesso para o usuário 86.
+[2024-11-05 20:56:21] Recebendo dados via POST.
+[2024-11-05 20:56:21] Dados recebidos: Array
+(
+    [user_id] => 86
+    [adicionar] => 10000
+    [remover] => 0
+)
+
+[2024-11-05 20:56:21] Saldo atual do usuário: 99.60
+[2024-11-05 20:56:21] Adicionando 10000 ao saldo do usuário 86. Novo saldo: 10099.6
+[2024-11-05 20:56:21] Saldo atualizado com sucesso para o usuário 86.
+[2024-11-06 13:54:57] Recebendo dados via POST.
+[2024-11-06 13:54:57] Dados recebidos: Array
+(
+    [user_id] => 86
+    [adicionar] => 0
+    [remover] => 18185
+)
+
+[2024-11-06 13:54:57] Saldo atual do usuário: 18203.20
+[2024-11-06 13:54:57] Removendo 18185 do saldo do usuário 86. Novo saldo: 18.200000000001
+[2024-11-06 13:54:57] Saldo atualizado com sucesso para o usuário 86.
+[2024-11-06 13:55:15] Recebendo dados via POST.
+[2024-11-06 13:55:15] Dados recebidos: Array
+(
+    [user_id] => 86
+    [adicionar] => 81.8
+    [remover] => 0
+)
+
+[2024-11-06 13:55:15] Saldo atual do usuário: 18.20
+[2024-11-06 13:55:15] Adicionando 81.8 ao saldo do usuário 86. Novo saldo: 100
+[2024-11-06 13:55:15] Saldo atualizado com sucesso para o usuário 86.
+[2024-11-06 13:56:40] Recebendo dados via POST.
+[2024-11-06 13:56:40] Dados recebidos: Array
+(
+    [user_id] => 86
+    [adicionar] => 0.25
+    [remover] => 0
+)
+
+[2024-11-06 13:56:40] Saldo atual do usuário: 99.75
+[2024-11-06 13:56:40] Adicionando 0.25 ao saldo do usuário 86. Novo saldo: 100
+[2024-11-06 13:56:40] Saldo atualizado com sucesso para o usuário 86.
+[2024-11-06 14:01:20] Recebendo dados via POST.
+[2024-11-06 14:01:20] Dados recebidos: Array
+(
+    [user_id] => 86
+    [adicionar] => 8.5
+    [remover] => 0
+)
+
+[2024-11-06 14:01:20] Saldo atual do usuário: 91.50
+[2024-11-06 14:01:20] Adicionando 8.5 ao saldo do usuário 86. Novo saldo: 100
+[2024-11-06 14:01:20] Saldo atualizado com sucesso para o usuário 86.
+[2024-11-06 14:02:47] Recebendo dados via POST.
+[2024-11-06 14:02:47] Dados recebidos: Array
+(
+    [user_id] => 86
+    [adicionar] => 0
+    [remover] => 1.6
+)
+
+[2024-11-06 14:02:47] Saldo atual do usuário: 101.60
+[2024-11-06 14:02:47] Removendo 1.6 do saldo do usuário 86. Novo saldo: 100
+[2024-11-06 14:02:47] Saldo atualizado com sucesso para o usuário 86.
+[2024-11-06 14:03:32] Recebendo dados via POST.
+[2024-11-06 14:03:32] Dados recebidos: Array
+(
+    [user_id] => 86
+    [adicionar] => 0.4
+    [remover] => 0
+)
+
+[2024-11-06 14:03:32] Saldo atual do usuário: 99.60
+[2024-11-06 14:03:32] Adicionando 0.4 ao saldo do usuário 86. Novo saldo: 100
+[2024-11-06 14:03:32] Saldo atualizado com sucesso para o usuário 86.
+[2024-11-06 14:05:24] Recebendo dados via POST.
+[2024-11-06 14:05:24] Dados recebidos: Array
+(
+    [user_id] => 86
+    [adicionar] => 0
+    [remover] => 35.75
+)
+
+[2024-11-06 14:05:24] Saldo atual do usuário: 135.75
+[2024-11-06 14:05:24] Removendo 35.75 do saldo do usuário 86. Novo saldo: 100
+[2024-11-06 14:05:24] Saldo atualizado com sucesso para o usuário 86.
+[2024-11-06 14:10:40] Recebendo dados via POST.
+[2024-11-06 14:10:40] Dados recebidos: Array
+(
+    [user_id] => 86
+    [adicionar] => 13.2
+    [remover] => 0
+)
+
+[2024-11-06 14:10:40] Saldo atual do usuário: 86.80
+[2024-11-06 14:10:40] Adicionando 13.2 ao saldo do usuário 86. Novo saldo: 100
+[2024-11-06 14:10:40] Saldo atualizado com sucesso para o usuário 86.
+[2024-11-06 14:12:20] Recebendo dados via POST.
+[2024-11-06 14:12:20] Dados recebidos: Array
+(
+    [user_id] => 86
+    [adicionar] => 0
+    [remover] => 59
+)
+
+[2024-11-06 14:12:20] Saldo atual do usuário: 159.00
+[2024-11-06 14:12:20] Removendo 59 do saldo do usuário 86. Novo saldo: 100
+[2024-11-06 14:12:20] Saldo atualizado com sucesso para o usuário 86.
+[2024-11-06 14:14:22] Recebendo dados via POST.
+[2024-11-06 14:14:22] Dados recebidos: Array
+(
+    [user_id] => 86
+    [adicionar] => 65.5
+    [remover] => 0
+)
+
+[2024-11-06 14:14:22] Saldo atual do usuário: 34.50
+[2024-11-06 14:14:22] Adicionando 65.5 ao saldo do usuário 86. Novo saldo: 100
+[2024-11-06 14:14:22] Saldo atualizado com sucesso para o usuário 86.
+[2024-11-06 15:51:41] Recebendo dados via POST.
+[2024-11-06 15:51:41] Dados recebidos: Array
+(
+    [user_id] => 87
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2024-11-06 15:51:41] Saldo atual do usuário: 0.00
+[2024-11-06 15:51:41] Adicionando 100 ao saldo do usuário 87. Novo saldo: 100
+[2024-11-06 15:51:41] Saldo atualizado com sucesso para o usuário 87.
+[2024-11-06 17:38:32] Recebendo dados via POST.
+[2024-11-06 17:38:32] Dados recebidos: Array
+(
+    [user_id] => 88
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2024-11-06 17:38:32] Saldo atual do usuário: 0.00
+[2024-11-06 17:38:32] Adicionando 50 ao saldo do usuário 88. Novo saldo: 50
+[2024-11-06 17:38:32] Saldo atualizado com sucesso para o usuário 88.
+[2024-11-08 13:14:23] Recebendo dados via POST.
+[2024-11-08 13:14:23] Dados recebidos: Array
+(
+    [user_id] => 91
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2024-11-08 13:14:23] Saldo atual do usuário: 0.00
+[2024-11-08 13:14:23] Adicionando 50 ao saldo do usuário 91. Novo saldo: 50
+[2024-11-08 13:14:23] Saldo atualizado com sucesso para o usuário 91.
+[2024-11-08 20:09:45] Recebendo dados via POST.
+[2024-11-08 20:09:45] Dados recebidos: Array
+(
+    [user_id] => 92
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2024-11-08 20:09:45] Saldo atual do usuário: 0.00
+[2024-11-08 20:09:45] Adicionando 100 ao saldo do usuário 92. Novo saldo: 100
+[2024-11-08 20:09:45] Saldo atualizado com sucesso para o usuário 92.
+[2024-11-08 20:58:34] Recebendo dados via POST.
+[2024-11-08 20:58:34] Dados recebidos: Array
+(
+    [user_id] => 95
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2024-11-08 20:58:34] Saldo atual do usuário: 0.00
+[2024-11-08 20:58:34] Adicionando 100 ao saldo do usuário 95. Novo saldo: 100
+[2024-11-08 20:58:34] Saldo atualizado com sucesso para o usuário 95.
+[2024-11-09 10:39:30] Recebendo dados via POST.
+[2024-11-09 10:39:30] Dados recebidos: Array
+(
+    [user_id] => 98
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2024-11-09 10:39:30] Saldo atual do usuário: 0.00
+[2024-11-09 10:39:30] Adicionando 50 ao saldo do usuário 98. Novo saldo: 50
+[2024-11-09 10:39:30] Saldo atualizado com sucesso para o usuário 98.
+[2024-11-10 11:51:41] Recebendo dados via POST.
+[2024-11-10 11:51:41] Dados recebidos: Array
+(
+    [user_id] => 103
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2024-11-10 11:51:41] Saldo atual do usuário: 0.00
+[2024-11-10 11:51:41] Adicionando 100 ao saldo do usuário 103. Novo saldo: 100
+[2024-11-10 11:51:41] Saldo atualizado com sucesso para o usuário 103.
+[2024-11-10 11:53:41] Recebendo dados via POST.
+[2024-11-10 11:53:41] Dados recebidos: Array
+(
+    [user_id] => 104
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2024-11-10 11:53:41] Saldo atual do usuário: 0.00
+[2024-11-10 11:53:41] Adicionando 100 ao saldo do usuário 104. Novo saldo: 100
+[2024-11-10 11:53:41] Saldo atualizado com sucesso para o usuário 104.
+[2024-11-11 15:56:33] Recebendo dados via POST.
+[2024-11-11 15:56:33] Dados recebidos: Array
+(
+    [user_id] => 106
+    [adicionar] => 200
+    [remover] => 0
+)
+
+[2024-11-11 15:56:33] Saldo atual do usuário: 0.00
+[2024-11-11 15:56:33] Adicionando 200 ao saldo do usuário 106. Novo saldo: 200
+[2024-11-11 15:56:33] Saldo atualizado com sucesso para o usuário 106.
+[2024-11-11 15:56:36] Recebendo dados via POST.
+[2024-11-11 15:56:36] Dados recebidos: Array
+(
+    [user_id] => 106
+    [adicionar] => 200
+    [remover] => 0
+)
+
+[2024-11-11 15:56:36] Saldo atual do usuário: 200.00
+[2024-11-11 15:56:36] Adicionando 200 ao saldo do usuário 106. Novo saldo: 400
+[2024-11-11 15:56:36] Saldo atualizado com sucesso para o usuário 106.
+[2024-11-11 15:57:44] Recebendo dados via POST.
+[2024-11-11 15:57:44] Dados recebidos: Array
+(
+    [user_id] => 107
+    [adicionar] => 200
+    [remover] => 0
+)
+
+[2024-11-11 15:57:44] Saldo atual do usuário: 0.00
+[2024-11-11 15:57:44] Adicionando 200 ao saldo do usuário 107. Novo saldo: 200
+[2024-11-11 15:57:44] Saldo atualizado com sucesso para o usuário 107.
+[2024-11-11 16:02:04] Recebendo dados via POST.
+[2024-11-11 16:02:04] Dados recebidos: Array
+(
+    [user_id] => 108
+    [adicionar] => 200
+    [remover] => 0
+)
+
+[2024-11-11 16:02:04] Saldo atual do usuário: 0.00
+[2024-11-11 16:02:04] Adicionando 200 ao saldo do usuário 108. Novo saldo: 200
+[2024-11-11 16:02:04] Saldo atualizado com sucesso para o usuário 108.
+[2024-11-11 16:05:20] Recebendo dados via POST.
+[2024-11-11 16:05:20] Dados recebidos: Array
+(
+    [user_id] => 102
+    [adicionar] => 20
+    [remover] => 0
+)
+
+[2024-11-11 16:05:20] Saldo atual do usuário: 0.00
+[2024-11-11 16:05:20] Adicionando 20 ao saldo do usuário 102. Novo saldo: 20
+[2024-11-11 16:05:20] Saldo atualizado com sucesso para o usuário 102.
+[2024-11-11 17:00:06] Recebendo dados via POST.
+[2024-11-11 17:00:06] Dados recebidos: Array
+(
+    [user_id] => 110
+    [adicionar] => 200
+    [remover] => 0
+)
+
+[2024-11-11 17:00:06] Saldo atual do usuário: 0.00
+[2024-11-11 17:00:06] Adicionando 200 ao saldo do usuário 110. Novo saldo: 200
+[2024-11-11 17:00:06] Saldo atualizado com sucesso para o usuário 110.
+[2024-11-11 17:00:13] Recebendo dados via POST.
+[2024-11-11 17:00:13] Dados recebidos: Array
+(
+    [user_id] => 110
+    [adicionar] => 200
+    [remover] => 0
+)
+
+[2024-11-11 17:00:13] Saldo atual do usuário: 200.00
+[2024-11-11 17:00:13] Adicionando 200 ao saldo do usuário 110. Novo saldo: 400
+[2024-11-11 17:00:13] Saldo atualizado com sucesso para o usuário 110.
+[2024-11-11 17:00:22] Recebendo dados via POST.
+[2024-11-11 17:00:22] Dados recebidos: Array
+(
+    [user_id] => 110
+    [adicionar] => 200
+    [remover] => 0
+)
+
+[2024-11-11 17:00:22] Saldo atual do usuário: 400.00
+[2024-11-11 17:00:22] Adicionando 200 ao saldo do usuário 110. Novo saldo: 600
+[2024-11-11 17:00:22] Saldo atualizado com sucesso para o usuário 110.
+[2024-11-11 17:00:22] Recebendo dados via POST.
+[2024-11-11 17:00:22] Dados recebidos: Array
+(
+    [user_id] => 110
+    [adicionar] => 200
+    [remover] => 0
+)
+
+[2024-11-11 17:00:22] Saldo atual do usuário: 600.00
+[2024-11-11 17:00:22] Adicionando 200 ao saldo do usuário 110. Novo saldo: 800
+[2024-11-11 17:00:22] Saldo atualizado com sucesso para o usuário 110.
+[2024-11-11 17:00:46] Recebendo dados via POST.
+[2024-11-11 17:00:46] Dados recebidos: Array
+(
+    [user_id] => 110
+    [adicionar] => 200
+    [remover] => 0
+)
+
+[2024-11-11 17:00:46] Saldo atual do usuário: 800.00
+[2024-11-11 17:00:46] Adicionando 200 ao saldo do usuário 110. Novo saldo: 1000
+[2024-11-11 17:00:46] Saldo atualizado com sucesso para o usuário 110.
+[2024-11-11 17:00:46] Recebendo dados via POST.
+[2024-11-11 17:00:46] Dados recebidos: Array
+(
+    [user_id] => 110
+    [adicionar] => 200
+    [remover] => 0
+)
+
+[2024-11-11 17:00:46] Saldo atual do usuário: 1000.00
+[2024-11-11 17:00:46] Adicionando 200 ao saldo do usuário 110. Novo saldo: 1200
+[2024-11-11 17:00:46] Saldo atualizado com sucesso para o usuário 110.
+[2024-11-11 17:06:37] Recebendo dados via POST.
+[2024-11-11 17:06:37] Dados recebidos: Array
+(
+    [user_id] => 109
+    [adicionar] => 200
+    [remover] => 0
+)
+
+[2024-11-11 17:06:37] Saldo atual do usuário: 0.00
+[2024-11-11 17:06:37] Adicionando 200 ao saldo do usuário 109. Novo saldo: 200
+[2024-11-11 17:06:37] Saldo atualizado com sucesso para o usuário 109.
+[2024-11-11 17:06:52] Recebendo dados via POST.
+[2024-11-11 17:06:52] Dados recebidos: Array
+(
+    [user_id] => 110
+    [adicionar] => 0
+    [remover] => 1000
+)
+
+[2024-11-11 17:06:52] Saldo atual do usuário: 1200.00
+[2024-11-11 17:06:52] Removendo 1000 do saldo do usuário 110. Novo saldo: 200
+[2024-11-11 17:06:52] Saldo atualizado com sucesso para o usuário 110.
+[2024-11-12 09:58:27] Recebendo dados via POST.
+[2024-11-12 09:58:27] Dados recebidos: Array
+(
+    [user_id] => 112
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2024-11-12 09:58:27] Saldo atual do usuário: 0.00
+[2024-11-12 09:58:27] Adicionando 50 ao saldo do usuário 112. Novo saldo: 50
+[2024-11-12 09:58:27] Saldo atualizado com sucesso para o usuário 112.
+[2024-11-12 10:57:36] Recebendo dados via POST.
+[2024-11-12 10:57:36] Dados recebidos: Array
+(
+    [user_id] => 113
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2024-11-12 10:57:36] Saldo atual do usuário: 0.00
+[2024-11-12 10:57:36] Adicionando 50 ao saldo do usuário 113. Novo saldo: 50
+[2024-11-12 10:57:36] Saldo atualizado com sucesso para o usuário 113.
+[2024-11-14 15:46:35] Recebendo dados via POST.
+[2024-11-14 15:46:35] Dados recebidos: Array
+(
+    [user_id] => 117
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2024-11-14 15:46:35] Saldo atual do usuário: 0.00
+[2024-11-14 15:46:35] Adicionando 100 ao saldo do usuário 117. Novo saldo: 100
+[2024-11-14 15:46:35] Saldo atualizado com sucesso para o usuário 117.
+[2024-11-15 10:17:21] Recebendo dados via POST.
+[2024-11-15 10:17:21] Dados recebidos: Array
+(
+    [user_id] => 483731
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2024-11-15 10:17:21] Saldo atual do usuário: 0.00
+[2024-11-15 10:17:21] Adicionando 50 ao saldo do usuário 483731. Novo saldo: 50
+[2024-11-15 10:17:21] Saldo atualizado com sucesso para o usuário 483731.
+[2024-11-15 17:11:50] Recebendo dados via POST.
+[2024-11-15 17:11:50] Dados recebidos: Array
+(
+    [user_id] => 483741
+    [adicionar] => 20
+    [remover] => 0
+)
+
+[2024-11-15 17:11:50] Saldo atual do usuário: 0.00
+[2024-11-15 17:11:50] Adicionando 20 ao saldo do usuário 483741. Novo saldo: 20
+[2024-11-15 17:11:50] Saldo atualizado com sucesso para o usuário 483741.
+[2024-11-15 22:16:47] Recebendo dados via POST.
+[2024-11-15 22:16:47] Dados recebidos: Array
+(
+    [user_id] => 483746
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2024-11-15 22:16:47] Saldo atual do usuário: 0.00
+[2024-11-15 22:16:47] Adicionando 50 ao saldo do usuário 483746. Novo saldo: 50
+[2024-11-15 22:16:47] Saldo atualizado com sucesso para o usuário 483746.
+[2024-11-16 01:32:04] Recebendo dados via POST.
+[2024-11-16 01:32:04] Dados recebidos: Array
+(
+    [user_id] => 483748
+    [adicionar] => 20
+    [remover] => 0
+)
+
+[2024-11-16 01:32:04] Saldo atual do usuário: 0.00
+[2024-11-16 01:32:04] Adicionando 20 ao saldo do usuário 483748. Novo saldo: 20
+[2024-11-16 01:32:04] Saldo atualizado com sucesso para o usuário 483748.
+[2024-11-16 18:43:29] Recebendo dados via POST.
+[2024-11-16 18:43:29] Dados recebidos: Array
+(
+    [user_id] => 483751
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2024-11-16 18:43:29] Saldo atual do usuário: 0.00
+[2024-11-16 18:43:29] Adicionando 50 ao saldo do usuário 483751. Novo saldo: 50
+[2024-11-16 18:43:29] Saldo atualizado com sucesso para o usuário 483751.
+[2024-11-17 19:38:29] Recebendo dados via POST.
+[2024-11-17 19:38:29] Dados recebidos: Array
+(
+    [user_id] => 483765
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2024-11-17 19:38:29] Saldo atual do usuário: 0.00
+[2024-11-17 19:38:29] Adicionando 100 ao saldo do usuário 483765. Novo saldo: 100
+[2024-11-17 19:38:29] Saldo atualizado com sucesso para o usuário 483765.
+[2024-11-18 11:14:37] Recebendo dados via POST.
+[2024-11-18 11:14:37] Dados recebidos: Array
+(
+    [user_id] => 483784
+    [adicionar] => 1
+    [remover] => 0
+)
+
+[2024-11-18 11:14:37] Saldo atual do usuário: 0.00
+[2024-11-18 11:14:37] Adicionando 1 ao saldo do usuário 483784. Novo saldo: 1
+[2024-11-18 11:14:37] Saldo atualizado com sucesso para o usuário 483784.
+[2024-11-20 12:06:20] Recebendo dados via POST.
+[2024-11-20 12:06:20] Dados recebidos: Array
+(
+    [user_id] => 483791
+    [adicionar] => 5
+    [remover] => 0
+)
+
+[2024-11-20 12:06:20] Saldo atual do usuário: 0.60
+[2024-11-20 12:06:20] Adicionando 5 ao saldo do usuário 483791. Novo saldo: 5.6
+[2024-11-20 12:06:20] Saldo atualizado com sucesso para o usuário 483791.
+[2024-11-20 12:06:20] Recebendo dados via POST.
+[2024-11-20 12:06:20] Dados recebidos: Array
+(
+    [user_id] => 483791
+    [adicionar] => 5
+    [remover] => 0
+)
+
+[2024-11-20 12:06:20] Saldo atual do usuário: 5.60
+[2024-11-20 12:06:20] Adicionando 5 ao saldo do usuário 483791. Novo saldo: 10.6
+[2024-11-20 12:06:20] Saldo atualizado com sucesso para o usuário 483791.
+[2024-11-20 17:01:52] Recebendo dados via POST.
+[2024-11-20 17:01:52] Dados recebidos: Array
+(
+    [user_id] => 483796
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2024-11-20 17:01:52] Saldo atual do usuário: 0.00
+[2024-11-20 17:01:52] Adicionando 50 ao saldo do usuário 483796. Novo saldo: 50
+[2024-11-20 17:01:52] Saldo atualizado com sucesso para o usuário 483796.
+[2024-11-20 22:50:41] Recebendo dados via POST.
+[2024-11-20 22:50:41] Dados recebidos: Array
+(
+    [user_id] => 483798
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2024-11-20 22:50:41] Saldo atual do usuário: 0.00
+[2024-11-20 22:50:41] Adicionando 100 ao saldo do usuário 483798. Novo saldo: 100
+[2024-11-20 22:50:41] Saldo atualizado com sucesso para o usuário 483798.
+[2024-11-21 00:01:08] Recebendo dados via POST.
+[2024-11-21 00:01:08] Dados recebidos: Array
+(
+    [user_id] => 483800
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2024-11-21 00:01:08] Saldo atual do usuário: 0.00
+[2024-11-21 00:01:08] Adicionando 100 ao saldo do usuário 483800. Novo saldo: 100
+[2024-11-21 00:01:08] Saldo atualizado com sucesso para o usuário 483800.
+[2024-11-21 11:13:41] Recebendo dados via POST.
+[2024-11-21 11:13:41] Dados recebidos: Array
+(
+    [user_id] => 483801
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2024-11-21 11:13:41] Saldo atual do usuário: 0.00
+[2024-11-21 11:13:41] Adicionando 50 ao saldo do usuário 483801. Novo saldo: 50
+[2024-11-21 11:13:41] Saldo atualizado com sucesso para o usuário 483801.
+[2024-11-21 12:47:12] Recebendo dados via POST.
+[2024-11-21 12:47:12] Dados recebidos: Array
+(
+    [user_id] => 483804
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2024-11-21 12:47:12] Saldo atual do usuário: 0.00
+[2024-11-21 12:47:12] Adicionando 100 ao saldo do usuário 483804. Novo saldo: 100
+[2024-11-21 12:47:12] Saldo atualizado com sucesso para o usuário 483804.
+[2024-11-21 12:49:03] Recebendo dados via POST.
+[2024-11-21 12:49:03] Dados recebidos: Array
+(
+    [user_id] => 483805
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2024-11-21 12:49:03] Saldo atual do usuário: 0.00
+[2024-11-21 12:49:03] Adicionando 100 ao saldo do usuário 483805. Novo saldo: 100
+[2024-11-21 12:49:03] Saldo atualizado com sucesso para o usuário 483805.
+[2024-11-21 14:01:36] Recebendo dados via POST.
+[2024-11-21 14:01:36] Dados recebidos: Array
+(
+    [user_id] => 483806
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2024-11-21 14:01:36] Saldo atual do usuário: 0.00
+[2024-11-21 14:01:36] Adicionando 50 ao saldo do usuário 483806. Novo saldo: 50
+[2024-11-21 14:01:36] Saldo atualizado com sucesso para o usuário 483806.
+[2024-11-21 16:43:06] Recebendo dados via POST.
+[2024-11-21 16:43:06] Dados recebidos: Array
+(
+    [user_id] => 483807
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2024-11-21 16:43:06] Saldo atual do usuário: 0.00
+[2024-11-21 16:43:06] Adicionando 50 ao saldo do usuário 483807. Novo saldo: 50
+[2024-11-21 16:43:06] Saldo atualizado com sucesso para o usuário 483807.
+[2024-11-21 19:46:34] Recebendo dados via POST.
+[2024-11-21 19:46:34] Dados recebidos: Array
+(
+    [user_id] => 483808
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2024-11-21 19:46:34] Saldo atual do usuário: 0.00
+[2024-11-21 19:46:34] Adicionando 100 ao saldo do usuário 483808. Novo saldo: 100
+[2024-11-21 19:46:35] Saldo atualizado com sucesso para o usuário 483808.
+[2024-11-22 09:07:23] Recebendo dados via POST.
+[2024-11-22 09:07:23] Dados recebidos: Array
+(
+    [user_id] => 483809
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2024-11-22 09:07:23] Saldo atual do usuário: 0.00
+[2024-11-22 09:07:23] Adicionando 50 ao saldo do usuário 483809. Novo saldo: 50
+[2024-11-22 09:07:23] Saldo atualizado com sucesso para o usuário 483809.
+[2024-11-22 11:13:08] Recebendo dados via POST.
+[2024-11-22 11:13:08] Dados recebidos: Array
+(
+    [user_id] => 483807
+    [adicionar] => 0
+    [remover] => 49.5
+)
+
+[2024-11-22 11:13:08] Saldo atual do usuário: 50.00
+[2024-11-22 11:13:08] Removendo 49.5 do saldo do usuário 483807. Novo saldo: 0.5
+[2024-11-22 11:13:08] Saldo atualizado com sucesso para o usuário 483807.
+[2024-11-22 11:46:31] Recebendo dados via POST.
+[2024-11-22 11:46:31] Dados recebidos: Array
+(
+    [user_id] => 483807
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2024-11-22 11:46:31] Saldo atual do usuário: 0.50
+[2024-11-22 11:46:31] Adicionando 50 ao saldo do usuário 483807. Novo saldo: 50.5
+[2024-11-22 11:46:31] Saldo atualizado com sucesso para o usuário 483807.
+[2024-11-23 10:43:26] Recebendo dados via POST.
+[2024-11-23 10:43:26] Dados recebidos: Array
+(
+    [user_id] => 483818
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2024-11-23 10:43:26] Saldo atual do usuário: 0.00
+[2024-11-23 10:43:26] Adicionando 50 ao saldo do usuário 483818. Novo saldo: 50
+[2024-11-23 10:43:26] Saldo atualizado com sucesso para o usuário 483818.
+[2024-11-23 12:14:53] Recebendo dados via POST.
+[2024-11-23 12:14:53] Dados recebidos: Array
+(
+    [user_id] => 483819
+    [adicionar] => 1000
+    [remover] => 0
+)
+
+[2024-11-23 12:14:53] Saldo atual do usuário: 0.00
+[2024-11-23 12:14:53] Adicionando 1000 ao saldo do usuário 483819. Novo saldo: 1000
+[2024-11-23 12:14:53] Saldo atualizado com sucesso para o usuário 483819.
+[2024-11-23 12:37:25] Recebendo dados via POST.
+[2024-11-23 12:37:25] Dados recebidos: Array
+(
+    [user_id] => 483820
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2024-11-23 12:37:25] Saldo atual do usuário: 0.00
+[2024-11-23 12:37:25] Adicionando 100 ao saldo do usuário 483820. Novo saldo: 100
+[2024-11-23 12:37:25] Saldo atualizado com sucesso para o usuário 483820.
+[2024-11-23 23:09:55] Recebendo dados via POST.
+[2024-11-23 23:09:55] Dados recebidos: Array
+(
+    [user_id] => 483821
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2024-11-23 23:09:55] Saldo atual do usuário: 0.00
+[2024-11-23 23:09:55] Adicionando 100 ao saldo do usuário 483821. Novo saldo: 100
+[2024-11-23 23:09:55] Saldo atualizado com sucesso para o usuário 483821.
+[2024-11-24 09:13:26] Recebendo dados via POST.
+[2024-11-24 09:13:26] Dados recebidos: Array
+(
+    [user_id] => 483821
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2024-11-24 09:13:26] Saldo atual do usuário: 0.00
+[2024-11-24 09:13:26] Adicionando 50 ao saldo do usuário 483821. Novo saldo: 50
+[2024-11-24 09:13:26] Saldo atualizado com sucesso para o usuário 483821.
+[2024-11-24 13:47:23] Recebendo dados via POST.
+[2024-11-24 13:47:23] Dados recebidos: Array
+(
+    [user_id] => 483825
+    [adicionar] => 20000
+    [remover] => 0
+)
+
+[2024-11-24 13:47:23] Saldo atual do usuário: 0.00
+[2024-11-24 13:47:23] Adicionando 20000 ao saldo do usuário 483825. Novo saldo: 20000
+[2024-11-24 13:47:23] Saldo atualizado com sucesso para o usuário 483825.
+[2024-11-24 22:15:03] Recebendo dados via POST.
+[2024-11-24 22:15:03] Dados recebidos: Array
+(
+    [user_id] => 483831
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2024-11-24 22:15:03] Saldo atual do usuário: 0.00
+[2024-11-24 22:15:03] Adicionando 50 ao saldo do usuário 483831. Novo saldo: 50
+[2024-11-24 22:15:03] Saldo atualizado com sucesso para o usuário 483831.
+[2024-11-25 12:45:43] Recebendo dados via POST.
+[2024-11-25 12:45:43] Dados recebidos: Array
+(
+    [user_id] => 483832
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2024-11-25 12:45:43] Saldo atual do usuário: 1.00
+[2024-11-25 12:45:43] Adicionando 50 ao saldo do usuário 483832. Novo saldo: 51
+[2024-11-25 12:45:43] Saldo atualizado com sucesso para o usuário 483832.
+[2024-11-25 18:00:53] Recebendo dados via POST.
+[2024-11-25 18:00:53] Dados recebidos: Array
+(
+    [user_id] => 483836
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2024-11-25 18:00:53] Saldo atual do usuário: 0.00
+[2024-11-25 18:00:53] Adicionando 50 ao saldo do usuário 483836. Novo saldo: 50
+[2024-11-25 18:00:53] Saldo atualizado com sucesso para o usuário 483836.
+[2024-11-26 17:27:48] Recebendo dados via POST.
+[2024-11-26 17:27:48] Dados recebidos: Array
+(
+    [user_id] => 483841
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2024-11-26 17:27:48] Saldo atual do usuário: 0.00
+[2024-11-26 17:27:48] Adicionando 50 ao saldo do usuário 483841. Novo saldo: 50
+[2024-11-26 17:27:48] Saldo atualizado com sucesso para o usuário 483841.
+[2024-11-26 18:33:32] Recebendo dados via POST.
+[2024-11-26 18:33:32] Dados recebidos: Array
+(
+    [user_id] => 483842
+    [adicionar] => 300
+    [remover] => 0
+)
+
+[2024-11-26 18:33:32] Saldo atual do usuário: 0.00
+[2024-11-26 18:33:32] Adicionando 300 ao saldo do usuário 483842. Novo saldo: 300
+[2024-11-26 18:33:32] Saldo atualizado com sucesso para o usuário 483842.
+[2024-11-26 21:08:38] Recebendo dados via POST.
+[2024-11-26 21:08:38] Dados recebidos: Array
+(
+    [user_id] => 483843
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2024-11-26 21:08:38] Saldo atual do usuário: 0.00
+[2024-11-26 21:08:38] Adicionando 100 ao saldo do usuário 483843. Novo saldo: 100
+[2024-11-26 21:08:38] Saldo atualizado com sucesso para o usuário 483843.
+[2024-11-27 12:15:37] Recebendo dados via POST.
+[2024-11-27 12:15:37] Dados recebidos: Array
+(
+    [user_id] => 483844
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2024-11-27 12:15:37] Saldo atual do usuário: 0.00
+[2024-11-27 12:15:37] Adicionando 100 ao saldo do usuário 483844. Novo saldo: 100
+[2024-11-27 12:15:37] Saldo atualizado com sucesso para o usuário 483844.
+[2024-11-27 12:16:48] Recebendo dados via POST.
+[2024-11-27 12:16:48] Dados recebidos: Array
+(
+    [user_id] => 483845
+    [adicionar] => 500
+    [remover] => 0
+)
+
+[2024-11-27 12:16:48] Saldo atual do usuário: 0.00
+[2024-11-27 12:16:48] Adicionando 500 ao saldo do usuário 483845. Novo saldo: 500
+[2024-11-27 12:16:48] Saldo atualizado com sucesso para o usuário 483845.
+[2024-11-27 12:48:37] Recebendo dados via POST.
+[2024-11-27 12:48:37] Dados recebidos: Array
+(
+    [user_id] => 483844
+    [adicionar] => 45000
+    [remover] => 0
+)
+
+[2024-11-27 12:48:37] Saldo atual do usuário: 113.88
+[2024-11-27 12:48:37] Adicionando 45000 ao saldo do usuário 483844. Novo saldo: 45113.88
+[2024-11-27 12:48:37] Saldo atualizado com sucesso para o usuário 483844.
+[2024-11-28 09:33:47] Recebendo dados via POST.
+[2024-11-28 09:33:47] Dados recebidos: Array
+(
+    [user_id] => 483847
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2024-11-28 09:33:47] Saldo atual do usuário: 0.00
+[2024-11-28 09:33:47] Adicionando 50 ao saldo do usuário 483847. Novo saldo: 50
+[2024-11-28 09:33:47] Saldo atualizado com sucesso para o usuário 483847.
+[2024-11-28 14:49:33] Recebendo dados via POST.
+[2024-11-28 14:49:33] Dados recebidos: Array
+(
+    [user_id] => 483847
+    [adicionar] => 0
+    [remover] => 48
+)
+
+[2024-11-28 14:49:33] Saldo atual do usuário: 48.00
+[2024-11-28 14:49:33] Removendo 48 do saldo do usuário 483847. Novo saldo: 0
+[2024-11-28 14:49:33] Saldo atualizado com sucesso para o usuário 483847.
+[2024-11-28 15:12:17] Recebendo dados via POST.
+[2024-11-28 15:12:17] Dados recebidos: Array
+(
+    [user_id] => 483847
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2024-11-28 15:12:17] Saldo atual do usuário: 0.00
+[2024-11-28 15:12:17] Adicionando 50 ao saldo do usuário 483847. Novo saldo: 50
+[2024-11-28 15:12:17] Saldo atualizado com sucesso para o usuário 483847.
+[2024-11-28 17:06:45] Recebendo dados via POST.
+[2024-11-28 17:06:45] Dados recebidos: Array
+(
+    [user_id] => 483850
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2024-11-28 17:06:45] Saldo atual do usuário: 0.00
+[2024-11-28 17:06:45] Adicionando 100 ao saldo do usuário 483850. Novo saldo: 100
+[2024-11-28 17:06:45] Saldo atualizado com sucesso para o usuário 483850.
+[2024-11-28 17:20:48] Recebendo dados via POST.
+[2024-11-28 17:20:48] Dados recebidos: Array
+(
+    [user_id] => 483851
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2024-11-28 17:20:48] Saldo atual do usuário: 0.00
+[2024-11-28 17:20:48] Adicionando 50 ao saldo do usuário 483851. Novo saldo: 50
+[2024-11-28 17:20:48] Saldo atualizado com sucesso para o usuário 483851.
+[2024-11-29 17:52:26] Recebendo dados via POST.
+[2024-11-29 17:52:26] Dados recebidos: Array
+(
+    [user_id] => 483859
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2024-11-29 17:52:26] Saldo atual do usuário: 0.00
+[2024-11-29 17:52:26] Adicionando 50 ao saldo do usuário 483859. Novo saldo: 50
+[2024-11-29 17:52:26] Saldo atualizado com sucesso para o usuário 483859.
+[2024-11-29 22:51:10] Recebendo dados via POST.
+[2024-11-29 22:51:10] Dados recebidos: Array
+(
+    [user_id] => 483860
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2024-11-29 22:51:10] Saldo atual do usuário: 0.00
+[2024-11-29 22:51:10] Adicionando 50 ao saldo do usuário 483860. Novo saldo: 50
+[2024-11-29 22:51:10] Saldo atualizado com sucesso para o usuário 483860.
+[2024-11-30 07:12:17] Recebendo dados via POST.
+[2024-11-30 07:12:17] Dados recebidos: Array
+(
+    [user_id] => 483862
+    [adicionar] => 15
+    [remover] => 0
+)
+
+[2024-11-30 07:12:17] Saldo atual do usuário: 1.00
+[2024-11-30 07:12:17] Adicionando 15 ao saldo do usuário 483862. Novo saldo: 16
+[2024-11-30 07:12:17] Saldo atualizado com sucesso para o usuário 483862.
+[2024-12-09 15:05:32] Recebendo dados via POST.
+[2024-12-09 15:05:32] Dados recebidos: Array
+(
+    [user_id] => 483903
+    [adicionar] => 200
+    [remover] => 0
+)
+
+[2024-12-09 15:05:32] Saldo atual do usuário: 1.05
+[2024-12-09 15:05:32] Adicionando 200 ao saldo do usuário 483903. Novo saldo: 201.05
+[2024-12-09 15:05:32] Saldo atualizado com sucesso para o usuário 483903.
+[2024-12-10 21:33:06] Recebendo dados via POST.
+[2024-12-10 21:33:06] Dados recebidos: Array
+(
+    [user_id] => 483905
+    [adicionar] => 10
+    [remover] => 0
+)
+
+[2024-12-10 21:33:06] Saldo atual do usuário: 0.00
+[2024-12-10 21:33:06] Adicionando 10 ao saldo do usuário 483905. Novo saldo: 10
+[2024-12-10 21:33:06] Saldo atualizado com sucesso para o usuário 483905.
+[2024-12-10 21:42:09] Recebendo dados via POST.
+[2024-12-10 21:42:09] Dados recebidos: Array
+(
+    [user_id] => 483905
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2024-12-10 21:42:09] Saldo atual do usuário: -0.45
+[2024-12-10 21:42:09] Adicionando 100 ao saldo do usuário 483905. Novo saldo: 99.55
+[2024-12-10 21:42:09] Saldo atualizado com sucesso para o usuário 483905.
+[2025-01-04 21:50:40] Recebendo dados via POST.
+[2025-01-04 21:50:40] Dados recebidos: Array
+(
+    [user_id] => 483908
+    [adicionar] => 10
+    [remover] => 0
+)
+
+[2025-01-04 21:50:40] Saldo atual do usuário: 0.00
+[2025-01-04 21:50:40] Adicionando 10 ao saldo do usuário 483908. Novo saldo: 10
+[2025-01-04 21:50:41] Saldo atualizado com sucesso para o usuário 483908.
+[2025-01-28 03:47:44] Recebendo dados via POST.
+[2025-01-28 03:47:44] Dados recebidos: Array
+(
+    [user_id] => 483910
+    [adicionar] => 20
+    [remover] => 0
+)
+
+[2025-01-28 03:47:44] Saldo atual do usuário: 0.00
+[2025-01-28 03:47:44] Adicionando 20 ao saldo do usuário 483910. Novo saldo: 20
+[2025-01-28 03:47:44] Saldo atualizado com sucesso para o usuário 483910.
+[2025-01-28 16:50:57] Recebendo dados via POST.
+[2025-01-28 16:50:57] Dados recebidos: Array
+(
+    [user_id] => 2147483647
+    [adicionar] => 40
+    [remover] => 0
+)
+
+[2025-01-28 16:50:57] Saldo atual do usuário: 0.00
+[2025-01-28 16:50:57] Adicionando 40 ao saldo do usuário 2147483647. Novo saldo: 40
+[2025-01-28 16:50:57] Saldo atualizado com sucesso para o usuário 2147483647.
+[2025-01-28 16:51:05] Recebendo dados via POST.
+[2025-01-28 16:51:05] Dados recebidos: Array
+(
+    [user_id] => 2147483647
+    [adicionar] => 0
+    [remover] => 20
+)
+
+[2025-01-28 16:51:05] Saldo atual do usuário: 40.00
+[2025-01-28 16:51:05] Removendo 20 do saldo do usuário 2147483647. Novo saldo: 20
+[2025-01-28 16:51:05] Saldo atualizado com sucesso para o usuário 2147483647.
+[2025-02-18 02:54:57] Recebendo dados via POST.
+[2025-02-18 02:54:57] Dados recebidos: Array
+(
+    [user_id] => 483922225
+    [adicionar] => 0
+    [remover] => 28.68
+)
+
+[2025-02-18 02:54:57] Saldo atual do usuário: 28.68
+[2025-02-18 02:54:57] Removendo 28.68 do saldo do usuário 483922225. Novo saldo: 0
+[2025-02-18 02:54:57] Saldo atualizado com sucesso para o usuário 483922225.
+[2025-02-18 03:30:23] Recebendo dados via POST.
+[2025-02-18 03:30:23] Dados recebidos: Array
+(
+    [user_id] => 483922225
+    [adicionar] => 95
+    [remover] => 0
+)
+
+[2025-02-18 03:30:23] Saldo atual do usuário: 5.00
+[2025-02-18 03:30:23] Adicionando 95 ao saldo do usuário 483922225. Novo saldo: 100
+[2025-02-18 03:30:23] Saldo atualizado com sucesso para o usuário 483922225.
+[2025-02-22 14:10:19] Recebendo dados via POST.
+[2025-02-22 14:10:19] Dados recebidos: Array
+(
+    [user_id] => 483922239
+    [adicionar] => 5
+    [remover] => 0
+)
+
+[2025-02-22 14:10:19] Saldo atual do usuário: 0.00
+[2025-02-22 14:10:19] Adicionando 5 ao saldo do usuário 483922239. Novo saldo: 5
+[2025-02-22 14:10:19] Saldo atualizado com sucesso para o usuário 483922239.
+[2025-02-25 09:33:23] Recebendo dados via POST.
+[2025-02-25 09:33:23] Dados recebidos: Array
+(
+    [user_id] => 1
+    [adicionar] => 500
+    [remover] => 0
+)
+
+[2025-02-25 09:33:23] Saldo atual do usuário: 0.10
+[2025-02-25 09:33:23] Adicionando 500 ao saldo do usuário 1. Novo saldo: 500.1
+[2025-02-25 09:33:23] Saldo atualizado com sucesso para o usuário 1.
+[2025-02-25 15:27:47] Recebendo dados via POST.
+[2025-02-25 15:27:47] Dados recebidos: Array
+(
+    [user_id] => 1
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2025-02-25 15:27:47] Saldo atual do usuário: 0.00
+[2025-02-25 15:27:47] Adicionando 100 ao saldo do usuário 1. Novo saldo: 100
+[2025-02-25 15:27:47] Saldo atualizado com sucesso para o usuário 1.
+[2025-02-25 20:11:53] Recebendo dados via POST.
+[2025-02-25 20:11:53] Dados recebidos: Array
+(
+    [user_id] => 5
+    [adicionar] => 10
+    [remover] => 0
+)
+
+[2025-02-25 20:11:53] Saldo atual do usuário: 0.16
+[2025-02-25 20:11:53] Adicionando 10 ao saldo do usuário 5. Novo saldo: 10.16
+[2025-02-25 20:11:53] Saldo atualizado com sucesso para o usuário 5.
+[2025-02-25 20:13:32] Recebendo dados via POST.
+[2025-02-25 20:13:32] Dados recebidos: Array
+(
+    [user_id] => 5
+    [adicionar] => 10
+    [remover] => 0
+)
+
+[2025-02-25 20:13:32] Saldo atual do usuário: 0.16
+[2025-02-25 20:13:32] Adicionando 10 ao saldo do usuário 5. Novo saldo: 10.16
+[2025-02-25 20:13:32] Saldo atualizado com sucesso para o usuário 5.
+[2025-02-25 22:37:05] Recebendo dados via POST.
+[2025-02-25 22:37:05] Dados recebidos: Array
+(
+    [user_id] => 4
+    [adicionar] => 5
+    [remover] => 0
+)
+
+[2025-02-25 22:37:05] Saldo atual do usuário: 0.40
+[2025-02-25 22:37:05] Adicionando 5 ao saldo do usuário 4. Novo saldo: 5.4
+[2025-02-25 22:37:05] Saldo atualizado com sucesso para o usuário 4.
+[2025-02-26 09:51:48] Recebendo dados via POST.
+[2025-02-26 09:51:48] Dados recebidos: Array
+(
+    [user_id] => 7
+    [adicionar] => 20
+    [remover] => 0
+)
+
+[2025-02-26 09:51:48] Saldo atual do usuário: 0.00
+[2025-02-26 09:51:48] Adicionando 20 ao saldo do usuário 7. Novo saldo: 20
+[2025-02-26 09:51:48] Saldo atualizado com sucesso para o usuário 7.
+[2025-02-26 12:51:08] Recebendo dados via POST.
+[2025-02-26 12:51:08] Dados recebidos: Array
+(
+    [user_id] => 1
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2025-02-26 12:51:08] Saldo atual do usuário: 0.00
+[2025-02-26 12:51:08] Adicionando 100 ao saldo do usuário 1. Novo saldo: 100
+[2025-02-26 12:51:08] Saldo atualizado com sucesso para o usuário 1.
+[2025-02-26 12:51:25] Recebendo dados via POST.
+[2025-02-26 12:51:25] Dados recebidos: Array
+(
+    [user_id] => 8
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2025-02-26 12:51:25] Saldo atual do usuário: 0.00
+[2025-02-26 12:51:25] Adicionando 50 ao saldo do usuário 8. Novo saldo: 50
+[2025-02-26 12:51:25] Saldo atualizado com sucesso para o usuário 8.
+[2025-02-26 18:47:35] Recebendo dados via POST.
+[2025-02-26 18:47:35] Dados recebidos: Array
+(
+    [user_id] => 1
+    [adicionar] => 15
+    [remover] => 0
+)
+
+[2025-02-26 18:47:35] Saldo atual do usuário: 1.00
+[2025-02-26 18:47:35] Adicionando 15 ao saldo do usuário 1. Novo saldo: 16
+[2025-02-26 18:47:35] Saldo atualizado com sucesso para o usuário 1.
+[2025-02-26 20:06:41] Recebendo dados via POST.
+[2025-02-26 20:06:41] Dados recebidos: Array
+(
+    [user_id] => 13
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2025-02-26 20:06:41] Saldo atual do usuário: 0.00
+[2025-02-26 20:06:41] Adicionando 50 ao saldo do usuário 13. Novo saldo: 50
+[2025-02-26 20:06:41] Saldo atualizado com sucesso para o usuário 13.
+[2025-02-26 22:25:47] Recebendo dados via POST.
+[2025-02-26 22:25:47] Dados recebidos: Array
+(
+    [user_id] => 13
+    [adicionar] => 500
+    [remover] => 0
+)
+
+[2025-02-26 22:25:47] Saldo atual do usuário: 3.48
+[2025-02-26 22:25:47] Adicionando 500 ao saldo do usuário 13. Novo saldo: 503.48
+[2025-02-26 22:25:47] Saldo atualizado com sucesso para o usuário 13.
+[2025-02-27 00:39:59] Recebendo dados via POST.
+[2025-02-27 00:39:59] Dados recebidos: Array
+(
+    [user_id] => 1
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2025-02-27 00:39:59] Saldo atual do usuário: 
+[2025-02-27 00:39:59] Adicionando 50 ao saldo do usuário 1. Novo saldo: 50
+[2025-02-27 00:39:59] Saldo atualizado com sucesso para o usuário 1.
+[2025-02-27 01:01:01] Recebendo dados via POST.
+[2025-02-27 01:01:01] Dados recebidos: Array
+(
+    [user_id] => 2
+    [adicionar] => 20
+    [remover] => 0
+)
+
+[2025-02-27 01:01:01] Saldo atual do usuário: 
+[2025-02-27 01:01:01] Adicionando 20 ao saldo do usuário 2. Novo saldo: 20
+[2025-02-27 01:01:01] Saldo atualizado com sucesso para o usuário 2.
+[2025-02-27 13:26:44] Recebendo dados via POST.
+[2025-02-27 13:26:44] Dados recebidos: Array
+(
+    [user_id] => 6
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2025-02-27 13:26:44] Saldo atual do usuário: 
+[2025-02-27 13:26:44] Adicionando 100 ao saldo do usuário 6. Novo saldo: 100
+[2025-02-27 13:26:44] Saldo atualizado com sucesso para o usuário 6.
+[2025-02-27 15:17:30] Recebendo dados via POST.
+[2025-02-27 15:17:30] Dados recebidos: Array
+(
+    [user_id] => 7
+    [adicionar] => 20
+    [remover] => 0
+)
+
+[2025-02-27 15:17:30] Saldo atual do usuário: 
+[2025-02-27 15:17:30] Adicionando 20 ao saldo do usuário 7. Novo saldo: 20
+[2025-02-27 15:17:30] Saldo atualizado com sucesso para o usuário 7.
+[2025-02-27 15:34:50] Recebendo dados via POST.
+[2025-02-27 15:34:50] Dados recebidos: Array
+(
+    [user_id] => 2
+    [adicionar] => 20
+    [remover] => 0
+)
+
+[2025-02-27 15:34:50] Saldo atual do usuário: 5.33
+[2025-02-27 15:34:50] Adicionando 20 ao saldo do usuário 2. Novo saldo: 25.33
+[2025-02-27 15:34:50] Saldo atualizado com sucesso para o usuário 2.
+[2025-02-27 15:45:41] Recebendo dados via POST.
+[2025-02-27 15:45:41] Dados recebidos: Array
+(
+    [user_id] => 1
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2025-02-27 15:45:41] Saldo atual do usuário: 0.00
+[2025-02-27 15:45:41] Adicionando 100 ao saldo do usuário 1. Novo saldo: 100
+[2025-02-27 15:45:41] Saldo atualizado com sucesso para o usuário 1.
+[2025-02-27 22:35:24] Recebendo dados via POST.
+[2025-02-27 22:35:24] Dados recebidos: Array
+(
+    [user_id] => 1
+    [adicionar] => 20
+    [remover] => 0
+)
+
+[2025-02-27 22:35:24] Saldo atual do usuário: 
+[2025-02-27 22:35:24] Adicionando 20 ao saldo do usuário 1. Novo saldo: 20
+[2025-02-27 22:35:24] Saldo atualizado com sucesso para o usuário 1.
+[2025-02-27 22:44:23] Recebendo dados via POST.
+[2025-02-27 22:44:23] Dados recebidos: Array
+(
+    [user_id] => 1
+    [adicionar] => 0
+    [remover] => 214.49
+)
+
+[2025-02-27 22:44:23] Saldo atual do usuário: 214.49
+[2025-02-27 22:44:23] Removendo 214.49 do saldo do usuário 1. Novo saldo: 0
+[2025-02-27 22:44:23] Saldo atualizado com sucesso para o usuário 1.
+[2025-02-27 22:44:34] Recebendo dados via POST.
+[2025-02-27 22:44:34] Dados recebidos: Array
+(
+    [user_id] => 1
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2025-02-27 22:44:34] Saldo atual do usuário: 0.00
+[2025-02-27 22:44:34] Adicionando 100 ao saldo do usuário 1. Novo saldo: 100
+[2025-02-27 22:44:34] Saldo atualizado com sucesso para o usuário 1.
+[2025-02-28 17:01:54] Recebendo dados via POST.
+[2025-02-28 17:01:54] Dados recebidos: Array
+(
+    [user_id] => 2
+    [adicionar] => 10
+    [remover] => 0
+)
+
+[2025-02-28 17:01:54] Saldo atual do usuário: 
+[2025-02-28 17:01:54] Adicionando 10 ao saldo do usuário 2. Novo saldo: 10
+[2025-02-28 17:01:54] Saldo atualizado com sucesso para o usuário 2.
+[2025-03-01 20:20:43] Recebendo dados via POST.
+[2025-03-01 20:20:43] Dados recebidos: Array
+(
+    [user_id] => 9
+    [adicionar] => 5
+    [remover] => 0
+)
+
+[2025-03-01 20:20:43] Saldo atual do usuário: 1.00
+[2025-03-01 20:20:43] Adicionando 5 ao saldo do usuário 9. Novo saldo: 6
+[2025-03-01 20:20:43] Saldo atualizado com sucesso para o usuário 9.
+[2025-03-01 20:57:47] Recebendo dados via POST.
+[2025-03-01 20:57:47] Dados recebidos: Array
+(
+    [user_id] => 10
+    [adicionar] => 9
+    [remover] => 0
+)
+
+[2025-03-01 20:57:47] Saldo atual do usuário: 1.00
+[2025-03-01 20:57:47] Adicionando 9 ao saldo do usuário 10. Novo saldo: 10
+[2025-03-01 20:57:47] Saldo atualizado com sucesso para o usuário 10.
+[2025-03-01 21:30:51] Recebendo dados via POST.
+[2025-03-01 21:30:51] Dados recebidos: Array
+(
+    [user_id] => 1
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2025-03-01 21:30:51] Saldo atual do usuário: 74.91
+[2025-03-01 21:30:51] Adicionando 100 ao saldo do usuário 1. Novo saldo: 174.91
+[2025-03-01 21:30:51] Saldo atualizado com sucesso para o usuário 1.
+[2025-03-02 13:05:48] Recebendo dados via POST.
+[2025-03-02 13:05:48] Dados recebidos: Array
+(
+    [user_id] => 5
+    [adicionar] => 5
+    [remover] => 0
+)
+
+[2025-03-02 13:05:48] Saldo atual do usuário: 
+[2025-03-02 13:05:48] Adicionando 5 ao saldo do usuário 5. Novo saldo: 5
+[2025-03-02 13:05:48] Saldo atualizado com sucesso para o usuário 5.
+[2025-03-02 21:39:17] Recebendo dados via POST.
+[2025-03-02 21:39:17] Dados recebidos: Array
+(
+    [user_id] => 1
+    [adicionar] => 0
+    [remover] => 788.25
+)
+
+[2025-03-02 21:39:17] Saldo atual do usuário: 788.25
+[2025-03-02 21:39:17] Removendo 788.25 do saldo do usuário 1. Novo saldo: 0
+[2025-03-02 21:39:17] Saldo atualizado com sucesso para o usuário 1.
+[2025-03-02 21:39:26] Recebendo dados via POST.
+[2025-03-02 21:39:26] Dados recebidos: Array
+(
+    [user_id] => 1
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2025-03-02 21:39:26] Saldo atual do usuário: 0.00
+[2025-03-02 21:39:26] Adicionando 100 ao saldo do usuário 1. Novo saldo: 100
+[2025-03-02 21:39:26] Saldo atualizado com sucesso para o usuário 1.
+[2025-03-03 17:22:16] Recebendo dados via POST.
+[2025-03-03 17:22:16] Dados recebidos: Array
+(
+    [user_id] => 12
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2025-03-03 17:22:16] Saldo atual do usuário: 
+[2025-03-03 17:22:16] Adicionando 100 ao saldo do usuário 12. Novo saldo: 100
+[2025-03-03 17:22:16] Saldo atualizado com sucesso para o usuário 12.
+[2025-03-05 00:57:43] Recebendo dados via POST.
+[2025-03-05 00:57:43] Dados recebidos: Array
+(
+    [user_id] => 5
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2025-03-05 00:57:43] Saldo atual do usuário: 0.53
+[2025-03-05 00:57:43] Adicionando 100 ao saldo do usuário 5. Novo saldo: 100.53
+[2025-03-05 00:57:43] Saldo atualizado com sucesso para o usuário 5.
+[2025-03-07 15:07:04] Recebendo dados via POST.
+[2025-03-07 15:07:04] Dados recebidos: Array
+(
+    [user_id] => 23
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2025-03-07 15:07:04] Saldo atual do usuário: 
+[2025-03-07 15:07:04] Adicionando 50 ao saldo do usuário 23. Novo saldo: 50
+[2025-03-07 15:07:04] Saldo atualizado com sucesso para o usuário 23.
+[2025-03-07 19:15:32] Recebendo dados via POST.
+[2025-03-07 19:15:32] Dados recebidos: Array
+(
+    [user_id] => 24
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2025-03-07 19:15:32] Saldo atual do usuário: 
+[2025-03-07 19:15:32] Adicionando 50 ao saldo do usuário 24. Novo saldo: 50
+[2025-03-07 19:15:32] Saldo atualizado com sucesso para o usuário 24.
+[2025-03-15 22:05:48] Recebendo dados via POST.
+[2025-03-15 22:05:48] Dados recebidos: Array
+(
+    [user_id] => 51
+    [adicionar] => 10
+    [remover] => 0
+)
+
+[2025-03-15 22:05:48] Saldo atual do usuário: 
+[2025-03-15 22:05:48] Adicionando 10 ao saldo do usuário 51. Novo saldo: 10
+[2025-03-15 22:05:48] Saldo atualizado com sucesso para o usuário 51.
+[2025-03-16 14:53:50] Recebendo dados via POST.
+[2025-03-16 14:53:50] Dados recebidos: Array
+(
+    [user_id] => 1
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2025-03-16 14:53:50] Saldo atual do usuário: 0.37
+[2025-03-16 14:53:50] Adicionando 100 ao saldo do usuário 1. Novo saldo: 100.37
+[2025-03-16 14:53:50] Saldo atualizado com sucesso para o usuário 1.
+[2025-03-16 14:54:54] Recebendo dados via POST.
+[2025-03-16 14:54:54] Dados recebidos: Array
+(
+    [user_id] => 51
+    [adicionar] => 10
+    [remover] => 0
+)
+
+[2025-03-16 14:54:54] Saldo atual do usuário: 0.00
+[2025-03-16 14:54:54] Adicionando 10 ao saldo do usuário 51. Novo saldo: 10
+[2025-03-16 14:54:54] Saldo atualizado com sucesso para o usuário 51.
+[2025-03-17 20:05:31] Recebendo dados via POST.
+[2025-03-17 20:05:31] Dados recebidos: Array
+(
+    [user_id] => 52
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2025-03-17 20:05:31] Saldo atual do usuário: 
+[2025-03-17 20:05:31] Adicionando 50 ao saldo do usuário 52. Novo saldo: 50
+[2025-03-17 20:05:31] Saldo atualizado com sucesso para o usuário 52.
+[2025-03-17 22:20:50] Recebendo dados via POST.
+[2025-03-17 22:20:50] Dados recebidos: Array
+(
+    [user_id] => 53
+    [adicionar] => 20
+    [remover] => 0
+)
+
+[2025-03-17 22:20:50] Saldo atual do usuário: 
+[2025-03-17 22:20:50] Adicionando 20 ao saldo do usuário 53. Novo saldo: 20
+[2025-03-17 22:20:50] Saldo atualizado com sucesso para o usuário 53.
+[2025-03-17 22:25:45] Recebendo dados via POST.
+[2025-03-17 22:25:45] Dados recebidos: Array
+(
+    [user_id] => 53
+    [adicionar] => 100
+    [remover] => 0
+)
+
+[2025-03-17 22:25:45] Saldo atual do usuário: 1.44
+[2025-03-17 22:25:45] Adicionando 100 ao saldo do usuário 53. Novo saldo: 101.44
+[2025-03-17 22:25:45] Saldo atualizado com sucesso para o usuário 53.
+[2025-03-17 22:27:35] Recebendo dados via POST.
+[2025-03-17 22:27:35] Dados recebidos: Array
+(
+    [user_id] => 53
+    [adicionar] => 1000
+    [remover] => 0
+)
+
+[2025-03-17 22:27:35] Saldo atual do usuário: 6.24
+[2025-03-17 22:27:35] Adicionando 1000 ao saldo do usuário 53. Novo saldo: 1006.24
+[2025-03-17 22:27:35] Saldo atualizado com sucesso para o usuário 53.
+[2025-03-17 23:00:34] Recebendo dados via POST.
+[2025-03-17 23:00:34] Dados recebidos: Array
+(
+    [user_id] => 53
+    [adicionar] => 0
+    [remover] => 587.44
+)
+
+[2025-03-17 23:00:34] Saldo atual do usuário: 587.44
+[2025-03-17 23:00:34] Removendo 587.44 do saldo do usuário 53. Novo saldo: 0
+[2025-03-17 23:00:34] Saldo atualizado com sucesso para o usuário 53.
+[2025-03-17 23:01:18] Recebendo dados via POST.
+[2025-03-17 23:01:18] Dados recebidos: Array
+(
+    [user_id] => 53
+    [adicionar] => 0
+    [remover] => 200
+)
+
+[2025-03-17 23:01:18] Saldo atual do usuário: 200.00
+[2025-03-17 23:01:18] Removendo 200 do saldo do usuário 53. Novo saldo: 0
+[2025-03-17 23:01:18] Saldo atualizado com sucesso para o usuário 53.
+[2025-03-17 23:01:31] Recebendo dados via POST.
+[2025-03-17 23:01:31] Dados recebidos: Array
+(
+    [user_id] => 53
+    [adicionar] => 10
+    [remover] => 0
+)
+
+[2025-03-17 23:01:31] Saldo atual do usuário: 0.00
+[2025-03-17 23:01:31] Adicionando 10 ao saldo do usuário 53. Novo saldo: 10
+[2025-03-17 23:01:31] Saldo atualizado com sucesso para o usuário 53.
+[2025-03-19 09:49:32] Recebendo dados via POST.
+[2025-03-19 09:49:32] Dados recebidos: Array
+(
+    [user_id] => 56
+    [adicionar] => 50
+    [remover] => 0
+)
+
+[2025-03-19 09:49:32] Saldo atual do usuário: 
+[2025-03-19 09:49:32] Adicionando 50 ao saldo do usuário 56. Novo saldo: 50
+[2025-03-19 09:49:32] Saldo atualizado com sucesso para o usuário 56.
+[2025-03-19 14:55:25] converter_saldo.php: Método inválido de requisição.
+[2025-03-19 14:55:37] converter_saldo.php: Recebendo dados via POST.
+[2025-03-19 14:55:37] Dados recebidos: Array
+(
+    [user_id] => 5
+)
+
+[2025-03-19 14:55:56] converter_saldo.php: Recebendo dados via POST.
+[2025-03-19 14:55:56] Dados recebidos: Array
+(
+    [user_id] => 5
+)
+
+[2025-03-19 14:56:22] converter_saldo.php: Recebendo dados via POST.
+[2025-03-19 14:56:22] Dados recebidos: Array
+(
+    [user_id] => 5
+)
+
+[2025-03-19 14:56:38] converter_saldo.php: Recebendo dados via POST.
+[2025-03-19 14:56:38] Dados recebidos: Array
+(
+    [user_id] => 5
+)
+
+[2025-03-19 14:56:38] converter_saldo.php: Saldo atual: 176.88, Saldo de afiliado: 90 para o usuário 5.
+[2025-03-19 14:56:38] converter_saldo.php: Saldo convertido com sucesso para o usuário 5.
+[2025-03-19 18:09:25] update_config.php: Recebendo dados via POST.
+[2025-03-19 18:09:25] Dados recebidos: Array
+(
+    [user_id] => 5
+    [comissao_percentual] => 2
+    [saque_minimo] => 100
+)
+
+[2025-03-19 18:09:25] update_config.php: Configurações atualizadas com sucesso para o usuário 5.
+[2025-03-19 18:09:48] update_proximo_salario.php: Recebendo dados via POST.
+[2025-03-19 18:09:48] Dados recebidos: Array
+(
+    [user_id] => 5
+    [prox_salario_valor] => 999
+    [prox_salario] => 2025-06-25
+)
+
+[2025-03-19 18:09:48] update_proximo_salario.php: Próximo salário atualizado com sucesso para o usuário 5.
+[2025-03-19 19:24:04] update_proximo_salario.php: Recebendo dados via POST.
+[2025-03-19 19:24:04] Dados recebidos: Array
+(
+    [user_id] => 58
+    [prox_salario_valor] => 100
+    [prox_salario] => 2025-03-20
+)
+
+[2025-03-19 19:24:04] update_proximo_salario.php: Próximo salário atualizado com sucesso para o usuário 58.
+[2025-03-19 20:32:56] update_proximo_salario.php: Recebendo dados via POST.
+[2025-03-19 20:32:56] Dados recebidos: Array
+(
+    [user_id] => 5
+    [prox_salario_valor] => 100
+    [prox_salario] => 2025-03-19
+)
+
+[2025-03-19 20:32:56] update_proximo_salario.php: Próximo salário atualizado com sucesso para o usuário 5.
+[2025-03-19 22:56:21] update_config.php: Recebendo dados via POST.
+[2025-03-19 22:56:21] Dados recebidos: Array
+(
+    [user_id] => 1
+    [comissao_percentual] => 25
+    [saque_minimo] => 100.00
+)
+
+[2025-03-19 22:56:21] update_config.php: Configurações atualizadas com sucesso para o usuário 1.
+[2025-03-19 22:56:22] update_proximo_salario.php: Recebendo dados via POST.
+[2025-03-19 22:56:22] Dados recebidos: Array
+(
+    [user_id] => 1
+    [prox_salario_valor] => 250
+    [prox_salario] => 2025-06-25
+)
+
+[2025-03-19 22:56:22] update_proximo_salario.php: Próximo salário atualizado com sucesso para o usuário 1.
+[2025-03-19 22:56:30] update_config.php: Recebendo dados via POST.
+[2025-03-19 22:56:30] Dados recebidos: Array
+(
+    [user_id] => 1
+    [comissao_percentual] => 15
+    [saque_minimo] => 100.00
+)
+
+[2025-03-19 22:56:30] update_config.php: Configurações atualizadas com sucesso para o usuário 1.
+[2025-03-20 02:45:17] converter_saldo.php: Recebendo dados via POST.
+[2025-03-20 02:45:17] Dados recebidos: Array
+(
+    [user_id] => 1
+)
+
+[2025-03-20 02:45:17] converter_saldo.php: Saldo atual: 0, Saldo de afiliado: 251.5 para o usuário 1.
+[2025-03-20 02:45:17] converter_saldo.php: Saldo convertido com sucesso para o usuário 1.
+[2025-03-20 14:27:15] Recebendo dados via POST.
+[2025-03-20 14:27:15] Dados recebidos: Array
+(
+    [user_id] => 1
+    [adicionar] => 1000
+    [remover] => 0
+)
+
+[2025-03-20 14:27:15] Saldo atual do usuário: 3.02
+[2025-03-20 14:27:15] Adicionando 1000 ao saldo do usuário 1. Novo saldo: 1003.02
+[2025-03-20 14:27:15] Saldo atualizado com sucesso para o usuário 1.
+[2025-03-20 19:45:56] update_config.php: Recebendo dados via POST.
+[2025-03-20 19:45:56] Dados recebidos: Array
+(
+    [user_id] => 7
+    [comissao_percentual] => 25
+    [saque_minimo] => 100.00
+)
+
+[2025-03-20 19:45:56] update_config.php: Configurações atualizadas com sucesso para o usuário 7.

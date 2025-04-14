@@ -1,0 +1,76 @@
+[2025-02-18 02:57:18] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"expfybr2025","amount":3}
+[2025-02-18 02:57:18] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-02-18 03:08:19] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"expfybr2025","amount":2}
+[2025-02-18 03:08:20] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-02-18 03:43:16] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"expfybr2025","amount":1}
+[2025-02-18 03:43:16] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-02-24 18:39:44] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"brabos2025","amount":1}
+[2025-02-24 18:39:45] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-02-24 22:56:25] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"expfybr2025","amount":1}
+[2025-02-24 22:56:26] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-02-25 06:54:28] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"agrobet85","amount":1}
+[2025-02-25 06:54:29] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-02-25 07:04:47] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"agrobet86","amount":3}
+[2025-02-25 07:04:48] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-02-25 07:12:01] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"agrobet86","amount":1}
+[2025-02-25 07:12:02] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-02-25 19:18:42] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"expfy2222","amount":10}
+[2025-02-25 19:18:43] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-02-25 20:00:21] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"expfy2222","amount":10}
+[2025-02-25 20:00:21] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-02-25 20:15:58] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"expf202","amount":10}
+[2025-02-25 20:15:59] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-02-25 22:10:04] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"agrobet85","amount":1}
+[2025-02-25 22:10:04] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-02-26 15:47:09] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"expfybr2025","amount":1}
+[2025-02-26 15:47:10] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-02-26 15:59:59] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"expfybr2025","amount":5}
+[2025-02-26 16:00:00] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-02-26 16:17:06] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"expfybr2025","amount":10}
+[2025-02-26 16:17:07] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-02-26 23:08:45] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"exp2020","amount":10}
+[2025-02-26 23:08:46] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-02-27 01:27:59] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"exp222","amount":10}
+[2025-02-27 01:28:00] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-02-27 02:47:44] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"expfybr2025","amount":10}
+[2025-02-27 02:47:45] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-02-27 14:19:06] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"marceloteste","amount":1}
+[2025-02-27 14:19:07] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-03-01 20:19:17] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"marceloteste2","amount":1}
+[2025-03-01 20:19:17] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-03-01 20:57:10] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"marceloteste3","amount":1}
+[2025-03-01 20:57:11] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-03-09 06:03:24] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"hudensales","amount":1}
+[2025-03-09 06:03:24] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-03-10 13:40:33] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"marceloteste","amount":1}
+[2025-03-10 13:40:34] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-03-13 16:06:27] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"bry2000","amount":10}
+[2025-03-13 16:06:27] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-03-13 18:37:01] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"bry2000","amount":5}
+[2025-03-13 18:37:02] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-03-13 18:40:17] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"bry2000","amount":3}
+[2025-03-13 18:40:18] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-03-14 14:39:37] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"edson","amount":5}
+[2025-03-14 14:39:38] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-03-15 03:25:17] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"expfybr2025","amount":10}
+[2025-03-15 03:25:17] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-03-15 03:26:26] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"expfybr2025","amount":1}
+[2025-03-15 03:26:26] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-03-15 19:55:07] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"expfyb20","amount":10}
+[2025-03-15 19:55:08] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-03-19 11:32:23] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"falacmg","amount":10}
+[2025-03-19 11:32:24] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-03-19 11:37:36] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"fulano","amount":10}
+[2025-03-19 11:37:37] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-03-19 12:17:11] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"fulano","amount":5}
+[2025-03-19 12:17:11] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-03-19 12:23:49] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"fulano","amount":10}
+[2025-03-19 12:23:50] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-03-19 21:17:21] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"qp2025","amount":10}
+[2025-03-19 21:17:21] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-03-20 02:10:18] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"fulanodetal100","amount":10}
+[2025-03-20 02:10:18] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-03-20 19:01:00] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"brasileh","amount":5}
+[2025-03-20 19:01:01] Resposta da API: {"status":0,"msg":"O Agente é inválido"}
+[2025-03-20 19:47:02] Dados JSON enviados: {"method":"user_deposit","agent_code":"28fd0b9c-7004-46fd-8922-cebc96827215","agent_token":"efd02bfb-c25f-4631-a9aa-193d7daa342e","user_code":"faloufalou","amount":10}
+[2025-03-20 19:47:03] Resposta da API: {"status":0,"msg":"O Agente é inválido"}

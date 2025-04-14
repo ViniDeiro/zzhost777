@@ -1,0 +1,285 @@
+[2025-03-19 20:59:55] Dados completos recebidos: Array
+(
+    [device_no] => 14w9axwcli41lfelyyueqz7dpk4fzpqo
+    [username] => opa205
+    [password] => opa205
+    [repassword] => opa205
+    [phone] => 123213213
+    [currency] => 1
+    [verify_code] => 
+    [code] => 
+    [link_id] => AF1f5da
+    [reg_url] => https://chinav2.expfygaming.online/?id=AF1f5da&currency=BRL&type=2
+    [pass_token] => e4adca8928e058a9e78462d803125d5c6a42ec8b5ba19aa6b8d1ae4f9abde053
+    [lot_number] => 18829e069b9841319347ffce2434206a
+    [captcha_output] => Uh4vMouNcmCS7jzdgXJmCi0LRr4m_aVyuTtjbRxcVy8aU4bqU8CXOLgGnpRS-bYUaTRRk_K5jFl0kpTWuB5fEH6S1AsAxORI4TRFlKorpCIAX9SdQST1-7KmMJRRcF-7pFaa5IT_HeZu2FlrzSH6amblAhJ7DtBiRWLuBxe1JMJNpF_DNeO1Lbd7JQUWnO7zC1C8Re9iSS65MoTI9UHQN6CjczYfJT2nXrm2eOTUVAq_UP_zZJHFA0rp_UpMJPtAfvl_92_wUfb5neN2AJag5QjYZz2ZaDXuw6bOhUdo2DlljssztCNSStFDZBiuvwETKXi0pEFpXAxNbFrz8F8omEwyGmyRFlIKyiCRclfJhSBX3m0VYVuvDENsj0XUOXY4FtQ1Srk3QIZbQnM5Kq-VGz36tM06YkebzU-5LoHtukJE_CDDhF6CTGWD7LVmfPQe7MX5yTrBZAjEOQX4Zr1khDyWh3e3MG6E_soPLZLnMHEWqXGPZ-Cr3Pfsw4oIA3Ar
+    [gen_time] => 1742428791
+)
+
+[2025-03-19 20:59:55] Campo 'phone' recebido antes do PHP_SEGURO: 123213213
+[2025-03-19 20:59:55] Valor do telefone após PHP_SEGURO: 123213213
+[2025-03-19 20:59:55] chanceCpa = 50, usuário teve 87% de chance, definido como afiliado.
+[2025-03-19 20:59:55] Valor de rtp obtido da igamewin: 90
+[2025-03-19 20:59:55] Inserindo usuário com telefone: 123213213 e rtp: 90
+[2025-03-19 20:59:55] Usuário inserido com sucesso. Token: ca6e0a1f700d7acf2f82cf7c46dd3da3
+[2025-03-19 21:00:51] Dados completos recebidos: Array
+(
+    [device_no] => 14w9axwcli41lfelyyueqz7dpk4fzpqo
+    [username] => qp2025
+    [password] => qp2025
+    [repassword] => qp2025
+    [phone] => 123213213
+    [currency] => 1
+    [verify_code] => 
+    [code] => 
+    [link_id] => AF1f5da
+    [reg_url] => https://chinav2.expfygaming.online/?id=AF1f5da&currency=BRL&type=2
+    [pass_token] => e1b8919d71f3ad3bbf7c8a042b756fa6216f29228604b937258dc449ec937393
+    [lot_number] => 147c3df4e607436da141dc16c1a33ba8
+    [captcha_output] => Uh4vMouNcmCS7jzdgXJmCi0LRr4m_aVyuTtjbRxcVy8aU4bqU8CXOLgGnpRS-bYUaTRRk_K5jFl0kpTWuB5fEH6S1AsAxORI4TRFlKorpCLY5j-1P8GIn-Ana00yG_YQOcX4yPmzf07t9oST8uFgcEpOpfMcvILBAKAdfMwv0Fl2queTbd_XtH8Wajw_P-gu-DpVbhWkGb346bTd3NYQkwfCnryYO843X7sbTK7zstHh_GNEIqZ8Zcv7Zn-eXzxmHu1WhaKecdrb58gdSs7-T1Dbgj4dhD7EpFdv7d0S8nGltVEdwmOB5x_YIvyH6ZwDXnldQuXa2cUO9BweI0DF4akR57DbGV313vOuCXNXkAAyZP_PDhiFBWf9M2MuveuvdKUSVTThHZu6DTImk8VOoz_2WLtV7GYfQZVvHvqy0uEl6ZZhAJmhANGpFJC2XMMBh7PlfBNYQLB-vxZ06jmYTMTDkts8n8HVlXs6-FcqhQ8WLqzr3ZsnBFyzcYbpajqF
+    [gen_time] => 1742428847
+)
+
+[2025-03-19 21:00:51] Campo 'phone' recebido antes do PHP_SEGURO: 123213213
+[2025-03-19 21:00:51] Valor do telefone após PHP_SEGURO: 123213213
+[2025-03-19 21:00:51] chanceCpa = 25, usuário teve 94% de chance, definido como afiliado.
+[2025-03-19 21:00:51] Valor de rtp obtido da igamewin: 90
+[2025-03-19 21:00:51] Inserindo usuário com telefone: 123213213 e rtp: 90
+[2025-03-19 21:00:51] Usuário inserido com sucesso. Token: c591bcefc48d98685e963b0686b1de44
+[2025-03-19 21:02:38] Dados completos recebidos: Array
+(
+    [device_no] => 14w9axwcli41lfelyyueqz7dpk4fzpqo
+    [username] => pqp2025
+    [password] => pqp2025
+    [repassword] => pqp2025
+    [phone] => 12321321321
+    [currency] => 1
+    [verify_code] => 
+    [code] => 
+    [link_id] => AF1f5da
+    [reg_url] => https://chinav2.expfygaming.online/?id=AF1f5da&currency=BRL&type=2
+    [pass_token] => 1a98caa09f816b3b45f622ef3114bd10d2817070746e70dae93e6eec1b629dcb
+    [lot_number] => fd033c919f0e403b866babc25d0aba6b
+    [captcha_output] => Uh4vMouNcmCS7jzdgXJmCi0LRr4m_aVyuTtjbRxcVy8aU4bqU8CXOLgGnpRS-bYUaTRRk_K5jFl0kpTWuB5fEIjQi7tl4eBg0G6G4-eJ-A-yZh0_SHHlw__Jn1RQJV5OEmf115tg7Lgmhzj4DLnQg2PJ5WsDYB8m1UEDzU7iHN9B5dsP6d28QDTIApGvIhE_8eHc0zP1Sw0hxkArgr1XAs5Q3nJauRTat8RmBsqmjuu6La0NXtBPpCXctTi06aBvTD_ulyhH5v4Er3CNhPBubwnn6_fqczFnrwAZVEQdUoHEfWdp8zVEZe5kbhI8uFQY6JJTrkwism3KlAHeyvDKeiumcPbId4ha7OEWhfJ6cRL6NRTDAPFCpCHi2gudicKDnOwDqt0QeZ7gz2yytfip__TIWT-21KnQ5L8h419ruLSbFdG5RrjXDCTj4SMa32QOekc29GAEcGRBSrluksQm7p_6GXitWjjYfduOUotoV2GkL-DcHUxdEm1gPhCXGvgc
+    [gen_time] => 1742428953
+)
+
+[2025-03-19 21:02:38] Campo 'phone' recebido antes do PHP_SEGURO: 12321321321
+[2025-03-19 21:02:38] Valor do telefone após PHP_SEGURO: 12321321321
+[2025-03-19 21:02:38] chanceCpa = 80, usuário teve 8% de chance, não definido como afiliado (abaixo da chance).
+[2025-03-19 21:02:38] Valor de rtp obtido da igamewin: 90
+[2025-03-19 21:02:38] Inserindo usuário com telefone: 12321321321 e rtp: 90
+[2025-03-19 21:02:38] Usuário inserido com sucesso. Token: 33489a3cdcebcc808771f02f7e9853c1
+[2025-03-19 22:55:31] Dados completos recebidos: Array
+(
+    [device_no] => ic7ksjxnka1uwnaklzif68tg6ptxi8vz
+    [username] => expfybr2025
+    [password] => expfybr2025
+    [repassword] => expfybr2025
+    [phone] => 213213213
+    [currency] => 1
+    [verify_code] => 
+    [code] => 
+    [link_id] => AF1f5da
+    [reg_url] => https://chinav2.expfygaming.online/
+    [pass_token] => 9c40a3ed756dcea1d8eae2a3a4b8b8a63ed0c10e45e0a8e73605da492a0af705
+    [lot_number] => 9c28912331624179a246f45d02777ee2
+    [captcha_output] => Uh4vMouNcmCS7jzdgXJmCi0LRr4m_aVyuTtjbRxcVy8aU4bqU8CXOLgGnpRS-bYUaTRRk_K5jFl0kpTWuB5fEG-_xL02b3gffo97MT47wjB5wF_swAmE7VUxm-ebKvNDJxt69rnN5T_gXMIVTpdmrqoetxE_rPHMKLrxcmUZaoohho6-FqQfJHQJsrrpGGE9I5-m0bXgpihod9Dvwv4Q2L0uRXmwvoiQYqVa_GiA0Ng1avidEgasISdBYpyyKGlJyors8SL8qVxyLAlbaBh8YM-9GeoKmhbmlWjWMnb95WPXBHwdMENmAnJMAvE34RfZF0LITJ0CnXXnHLkH3UYgPY92kqH1384BWsNM6A9reHRSnkZkFczHRQoe3WuKx-lvciLnwC3LZFgYHTmKEbHE_d9h23ilzmMAXHBLSlhSwXKJbeUL1l0qrgiSHiNVj80SSB1nQsh0KongAD0rp0zTrHFcolRp0jtYOzyqxOOzZ6Q=
+    [gen_time] => 1742435725
+)
+
+[2025-03-19 22:55:31] Campo 'phone' recebido antes do PHP_SEGURO: 213213213
+[2025-03-19 22:55:31] Valor do telefone após PHP_SEGURO: 213213213
+[2025-03-19 22:55:31] chanceCpa = 100, usuário teve 5% de chance, não definido como afiliado (abaixo da chance).
+[2025-03-19 22:55:31] Valor de rtp obtido da igamewin: 90
+[2025-03-19 22:55:31] Inserindo usuário com telefone: 213213213 e rtp: 90
+[2025-03-19 22:55:31] Usuário inserido com sucesso. Token: e658bd622eca9c742e1225de4c12dfa4
+[2025-03-19 22:59:24] Dados completos recebidos: Array
+(
+    [device_no] => zvrkf8kegaxldx9itxdu3wvdmdytb22k
+    [username] => fulanotst222
+    [password] => fulanotst222
+    [repassword] => fulanotst222
+    [phone] => 12321321321
+    [currency] => 1
+    [verify_code] => 
+    [code] => 
+    [link_id] => AFc6540
+    [reg_url] => https://chinav2.expfygaming.online/?id=AFc6540&currency=BRL&type=2
+    [pass_token] => 75e0e02f757aa4ec359ac3ea0e55fc675202f012d7565040a09c561865f50bb5
+    [lot_number] => 27250fdd972848c0a764a1caa20adbd9
+    [captcha_output] => Uh4vMouNcmCS7jzdgXJmCi0LRr4m_aVyuTtjbRxcVy8aU4bqU8CXOLgGnpRS-bYUaTRRk_K5jFl0kpTWuB5fEK1M-517g4McMadRXnvvGFt-4YhLJzV1qa7b8k_uHp_10oQDN-Wy9V9qUSjj15Rp-J_4zICtfvs25ygZxvUG_QNQXY0Ac-q40wxR3bgUxeTJLtP_QURH4Dpe1Hv3AUsgTYb1__2HvFxuDIFun-mpJHy0u7apKUve6TrucdHc4sETk5nT8SphL5ly2fifza4Rk6EcY-sA3PKoOFdxtMcR6PEt1RI_snbIAA85Dw0pbkrQN0-UIqj6b-h6vW3S9nUv0GcPF_B3d95SPl_PK4fvuKoJjL_XPyccAtiUXUtM12ytu-o5VBsCsfimKyOyRRnqbUBxpdo41_Ry9Pj9pnl0FtvKRvVgdyOOt-bqRSktZyle4mKH5rntYJGdS-HyQtQEndGTGySuIkmhqshKz5AY-e69TJzyYsfb4tOImaazT8ye
+    [gen_time] => 1742435959
+)
+
+[2025-03-19 22:59:24] Campo 'phone' recebido antes do PHP_SEGURO: 12321321321
+[2025-03-19 22:59:24] Valor do telefone após PHP_SEGURO: 12321321321
+[2025-03-19 22:59:24] chanceCpa = 100, usuário teve 7% de chance, não definido como afiliado (abaixo da chance).
+[2025-03-19 22:59:24] Valor de rtp obtido da igamewin: 90
+[2025-03-19 22:59:24] Inserindo usuário com telefone: 12321321321 e rtp: 90
+[2025-03-19 22:59:24] Usuário inserido com sucesso. Token: f3e07ec4cad62927b88f3bc1e9ce6129
+[2025-03-19 23:04:35] Dados completos recebidos: Array
+(
+    [device_no] => lu0lq09rbmhu26scjlj5450r8y433jb5
+    [username] => caralho123
+    [password] => caralho123
+    [repassword] => caralho123
+    [phone] => 123213123
+    [currency] => 1
+    [verify_code] => 
+    [code] => 
+    [link_id] => AFc6540
+    [reg_url] => https://chinav2.expfygaming.online/?id=AFc6540&currency=BRL&type=2
+    [pass_token] => e84c3748bab346e7ea6d16245f8866fa8ec46931260a2ddf8b5eb8513bcb2055
+    [lot_number] => e393a93fb6aa43a59235f5d13b3c4763
+    [captcha_output] => Uh4vMouNcmCS7jzdgXJmCi0LRr4m_aVyuTtjbRxcVy8aU4bqU8CXOLgGnpRS-bYUaTRRk_K5jFl0kpTWuB5fEPvuwb9Q0QxcFWaCTCoLwg2GuHxQ3X_g0j63fetVPVVu-3xYDrkc1JjXgON1jJjjVADF31yawBV8UZwti2gOVaapGFcyDN0rh75rY6gCkvWolW1IvatJWwYtX8JP3XoVV5Vce2Zzg9rQZiZ747njxREPzF7kVNqakAX0a7ccvImNv6cLa9lkIq5U80hGAG0YsoFtsDg0Gvx_ev9VEBByA7zZeD1JgRVXEoveifPDfh2QxZsJa9kaPQfOhnNf2UAM11z44mWSDSuuHknZwFds5OTO8FWUehYLgKJqMF24E3Yote7yGU60tlBxAgJef0ad3CO2fKlyExapCkQLexKsvMkio9Su3ltUwtDVF7QZ4daxVWI3CKT8wnY7LAm_WYRq-jOH7VPc5-EgOjqgmPu8MSA=
+    [gen_time] => 1742436270
+)
+
+[2025-03-19 23:04:35] Campo 'phone' recebido antes do PHP_SEGURO: 123213123
+[2025-03-19 23:04:35] Valor do telefone após PHP_SEGURO: 123213123
+[2025-03-19 23:04:35] chanceCpa = 1, usuário teve 62% de chance, definido como afiliado.
+[2025-03-19 23:04:35] Valor de rtp obtido da igamewin: 90
+[2025-03-19 23:04:35] Inserindo usuário com telefone: 123213123 e rtp: 90
+[2025-03-19 23:04:35] Usuário inserido com sucesso. Token: 07088e9bcdb6b99d1aecb4de1c9b5e85
+[2025-03-20 02:03:58] Dados completos recebidos: Array
+(
+    [device_no] => ic7ksjxnka1uwnaklzif68tg6ptxi8vz
+    [username] => fulanodetal100
+    [password] => fulanodetal100
+    [repassword] => fulanodetal100
+    [phone] => 123213123
+    [currency] => 1
+    [verify_code] => 
+    [code] => 
+    [link_id] => AFc6540
+    [reg_url] => https://chinav2.expfygaming.online/?id=AFc6540&currency=BRL&type=2
+    [pass_token] => 1ff63d91b3cb57e9335daa9e402f778b97130455eb5ccca878842d7984bb237b
+    [lot_number] => fac234db6a8846fc8af404f2774099eb
+    [captcha_output] => Uh4vMouNcmCS7jzdgXJmCi0LRr4m_aVyuTtjbRxcVy8aU4bqU8CXOLgGnpRS-bYUaTRRk_K5jFl0kpTWuB5fEIjQi7tl4eBg0G6G4-eJ-A-2_RHnfU6KImQuMI0DxxkWsHeL7GKCKfS-34K5BozuaWNfBOvR_m0u_mGvPV4IWYnkZq7f6qZb7fjweoqW56SGmsQLCH_s3xX1y_6aA8eVms-FVc3BknJ26Q0WpdX-KNXM_gSxLDAObHfmA1yuchQ7pYQamMkFZkO7YZ61HInA99wNpJkKG53fMjjWpUQSuAGIS7K6PBnBnRt87t-rMm3DbAmOt1UWYIvl0jv9Fne7m7lbMozU_2PUOedkZO_2MRRJorUVIgT_TQiJ9WVuRZo3HNUyhXFlObG68GIeyx67IewdvTxZjgAGUJ_eWqOoowQ94gQ-3RXEeNWq9Pkufx89NiDPxeWmG3SLDgIq9If4hodgNoPzrIKOQ8vSeoIy8Hs=
+    [gen_time] => 1742447033
+)
+
+[2025-03-20 02:03:58] Campo 'phone' recebido antes do PHP_SEGURO: 123213123
+[2025-03-20 02:03:58] Valor do telefone após PHP_SEGURO: 123213123
+[2025-03-20 02:03:58] chanceCpa = 0, usuário teve 1% de chance, definido como afiliado.
+[2025-03-20 02:03:58] Valor de rtp obtido da igamewin: 90
+[2025-03-20 02:03:58] Inserindo usuário com telefone: 123213123 e rtp: 90
+[2025-03-20 02:03:58] Usuário inserido com sucesso. Token: c12db74b5f2148f5a63512acdc912e79
+[2025-03-20 03:49:37] Dados completos recebidos: Array
+(
+    [device_no] => uac6dk9nv71ms7mgb6v9i35o4zx6u4hn
+    [username] => test123
+    [password] => 123testA7
+    [repassword] => 123testA7
+    [phone] => 8499773677
+    [currency] => 1
+    [verify_code] => 
+    [code] => 
+    [link_id] => 
+    [reg_url] => https://chinav2.expfygaming.online/
+    [pass_token] => ec18dfbcf34c1ee94d7f14c587e18cd83717f700a1573408da9df6470fc28d02
+    [lot_number] => 1818a59ede014d0bbf9e5861fee81609
+    [captcha_output] => Uh4vMouNcmCS7jzdgXJmCpsxrUV21yU4QBqNJIAUCz2Nyvnn5ymB-PfYVrq68uA1I_UQCDsCgcKk0R2vDJzSuUVZ2avCNajPjsqAjMaEXQ8smQEpaubYTUFRRbhVKT3oJd51jopQMYnexS32Ym5z8EkUEh9Nr9G2QSlJ-BzkQCW6qaoRMwkQX_6YXqYRuUOj_6odjU_mUy8VpZ4BzmgLdTkP0dPLcbdBxSByfoAdSxYm90Yrvrxmw7ObkfY3V2-_0NRN1hgwJhY54-BdPwEacLAt1NFQCLkNq6-ZOMcLD4GnYcnQandheKQMTX52wt4HmEHDySxdpIiUQ3s6x6XkRBfbQGyRXX7BiKiDTkSaRPd48znoI96t2uVpKJ-AC0RyREcTm9d9goNdueXgwEZoixpEOG7cVTMjaHOSNnaBkfljKxbG9kz6aHWUTM7I96-9tDdPElosJz94yord0vSDE6hq4QYXLa6EP9R9-XLDuEU=
+    [gen_time] => 1742453369
+)
+
+[2025-03-20 03:49:37] Campo 'phone' recebido antes do PHP_SEGURO: 8499773677
+[2025-03-20 03:49:37] Valor do telefone após PHP_SEGURO: 8499773677
+[2025-03-20 03:49:37] Valor de rtp obtido da igamewin: 25
+[2025-03-20 03:49:37] Inserindo usuário com telefone: 8499773677 e rtp: 25
+[2025-03-20 03:49:37] Usuário inserido com sucesso. Token: d16f14314d2a8156c062e0f0c12766c7
+[2025-03-20 10:36:05] Dados completos recebidos: Array
+(
+    [device_no] => akdgt79nceo4a6dtzib1zjz4nassp51n
+    [username] => marceloteste
+    [password] => 102030mm
+    [repassword] => 102030mm
+    [phone] => 31971231243
+    [currency] => 1
+    [verify_code] => 
+    [code] => 
+    [link_id] => 
+    [reg_url] => https://chinav2.expfygaming.online/
+    [pass_token] => 97c8550eec3854cce94c88927c22a07b3799c87ca8048ef60fb30e4c79338078
+    [lot_number] => 3f322e09471c4211a862fc0ec4d4c859
+    [captcha_output] => Uh4vMouNcmCS7jzdgXJmCrH7DGztkOh4Nn6DId32SQeJjGNjcf4JovdfKnKmrbfSOcYvJ-O7Ew5Eq5d9Qu9ihi2tVKTNGjB6udW-TZFPqss11bw_NokugyvyuH1RcCydP3rQy5LwCf3VD4T15OiBmVUXLMUs09AKc9sM4ABUfDuU3fgBmvOOMXbfFpsyKmaOwIria2r24pwCsR-kSKJxtXQJzbKoVizeuyg064yVEmfjvWGFDxg9eeWULwx16ClWEgd9NN235mlAmsxRsabX78PDsHnoKdOIqi1WzDMxTahjV3IFPFzvRXrcWIMpHSG2hOh3tRexpB_szoXPcB8eMsYkFMXTWlcZSjxidpHLU8XwNTi0uLwfm5RcH2GihQCv6ZSPLnTfK8sh04Vd0UnwKzYbxWBRpC1piJ70WaexHAnpsQgkmFsqneMXyiEBD71j5JedMWOC99yJTJM4ZCDWAmFA2vEXKNt8G1uWmU-d9qFCGB9Qxr9FOKtam5iViuvUE3Qw12Vruh2_nUFPGMVk9g==
+    [gen_time] => 1742477760
+)
+
+[2025-03-20 10:36:05] Campo 'phone' recebido antes do PHP_SEGURO: 31971231243
+[2025-03-20 10:36:05] Valor do telefone após PHP_SEGURO: 31971231243
+[2025-03-20 10:36:05] Valor de rtp obtido da igamewin: 10
+[2025-03-20 10:36:05] Inserindo usuário com telefone: 31971231243 e rtp: 10
+[2025-03-20 10:36:05] Usuário inserido com sucesso. Token: 40497a0576465395b20e7727eeb17e2c
+[2025-03-20 18:39:40] Dados completos recebidos: Array
+(
+    [device_no] => lu0lq09rbmhu26scjlj5450r8y433jb5
+    [username] => brasileh
+    [password] => brasileh
+    [repassword] => brasileh
+    [phone] => 123213123
+    [currency] => 1
+    [verify_code] => 
+    [code] => 
+    [link_id] => 3
+    [reg_url] => https://chinav2.expfygaming.online/
+    [pass_token] => 33aa55257e426abf83450dd2ced23e27b7fb02c125d5d2389ad3cd48c4ddf58d
+    [lot_number] => 9c490aa3a4ca418f87d2e80022b90597
+    [captcha_output] => Uh4vMouNcmCS7jzdgXJmCldCUU99ROONQyJTexIbkRduvViBYUDkxNk7y-fLS2LpjRMxjsitUL0f0KgHkqGHmdSGoi4pPnBT6ILcQgJ8pXkfQvTJNTP2nmze1DHBgCfJS27rnlcsBJsgGsNgSxLa44ZxXnsQHOKJvELKjUHnrpeXbm27H15qBxr7M5kUuJi-It9eWuJAwIKi-RAypk8XVma57Vc0jh10ngr0Tsx17c4IzZZLjqLwhC00KYXlG9X3RsxgO1YQRWjx1XXxtAWe19KpORpPx4ArkUJHCTiyGsXhlRq0N4yh6NU1IzJ4gv5r7XJl3aZITLdddRj3Z8gi5Yl2r2P9YRSahYWLA1jMq2SAETI1aZ_lYMCpbEQ3brYAsD6tlHFic6QTiLirWUHJ6MOs7Em6bZwTPuI_KtqGH8qkKaKML6216lFOClhTZiCoj1hHDgQ42trxHv06WJCJ_KTytkU1XhN64UFkIfRJW2E=
+    [gen_time] => 1742506775
+)
+
+[2025-03-20 18:39:40] Campo 'phone' recebido antes do PHP_SEGURO: 123213123
+[2025-03-20 18:39:40] Valor do telefone após PHP_SEGURO: 123213123
+[2025-03-20 18:39:40] chanceCpa = 0, usuário teve 91% de chance, definido como afiliado.
+[2025-03-20 18:39:40] Valor de rtp obtido da igamewin: 90
+[2025-03-20 18:39:40] Inserindo usuário com telefone: 123213123 e rtp: 90
+[2025-03-20 18:39:40] Usuário inserido com sucesso. Token: d7a3ae19431fd6937af829de4e843e2c
+[2025-03-20 18:39:52] Dados completos recebidos: Array
+(
+    [device_no] => s7q0rfit49859xjhydysi43ere0stbee
+    [username] => asddasdas
+    [password] => asdasdasd
+    [repassword] => asdasdasd
+    [phone] => 11982288228
+    [currency] => 1
+    [verify_code] => 
+    [code] => 
+    [link_id] => 
+    [reg_url] => https://chinav2.expfygaming.online/
+    [pass_token] => 5aff9decd6332df0909ec2bf06dcfd1631db34d87002882cd31d27754d99ad9e
+    [lot_number] => f4a9c3692826419fb7dce22249648338
+    [captcha_output] => Uh4vMouNcmCS7jzdgXJmCi0LRr4m_aVyuTtjbRxcVy-XcM4fucMVsykK1v6-OTbYhPAyN4T7ks3K2LyPIBqVrPcQ-mSw_jyyC4O6faPqd1EcUaFUuboTK34Ul9_E5klAIoBU5CjmMNYQz9sJs5qSYBhCebS9z_B-nioeK44IuIjB9hzYRhZUHwR5EQU0xky1NGam7Yay8XJmPYZMXmpXXxkDPr9qqISvEvKGWcRzKZNX8KB-1GdLJM5zDWNlR5rvBST4hlm5IdtrKq6JEnQX4896CyPWH8IOqOIOqHaSzEk1ptly99_Jm1Ldj5oT5FG9mJkkfC-k3Y0soZTbTACoiYV-gTKSI2n-IXzDLXmpFFpUXjJ-uUujgcoTfBuHx88TiUqesBUG6jeZzdHIHDBadCzHsvDGDmcc79aTTSeJp79uLXIP9FVoF9oYBT_LSvuvO9_5jo6KXadzcqMYNiwbOfVh1Tlik84HF6cMinPEY-M=
+    [gen_time] => 1742506786
+)
+
+[2025-03-20 18:39:52] Campo 'phone' recebido antes do PHP_SEGURO: 11982288228
+[2025-03-20 18:39:52] Valor do telefone após PHP_SEGURO: 11982288228
+[2025-03-20 18:39:52] Valor de rtp obtido da igamewin: 90
+[2025-03-20 18:39:52] Inserindo usuário com telefone: 11982288228 e rtp: 90
+[2025-03-20 18:39:52] Usuário inserido com sucesso. Token: 69c3176528299799718590b34e6a9017
+[2025-03-20 19:46:29] Dados completos recebidos: Array
+(
+    [device_no] => si90896co71m2j78d8smh8sv4wnze0ki
+    [username] => faloufalou
+    [password] => faloufalou
+    [repassword] => faloufalou
+    [phone] => 123123123
+    [currency] => 1
+    [verify_code] => 
+    [code] => 
+    [link_id] => AF0795f
+    [reg_url] => https://chinav2.expfygaming.online/?id=AF0795f&currency=BRL&type=2
+    [pass_token] => 17abcde4ee9cf330cc9b6b28d25f4f0ccd1f0574f4a5d188d310a9384defc8b1
+    [lot_number] => 346b794d4d8c4356986ee2628b65ccac
+    [captcha_output] => Uh4vMouNcmCS7jzdgXJmCldCUU99ROONQyJTexIbkRduvViBYUDkxNk7y-fLS2LpjRMxjsitUL0f0KgHkqGHmdnuESaVBDMPdCkhozXP5E5ceeu4V-kYYwahCpK-dj_RbIT2P1CGqGVl0s2RB8zrj8V3vPsar69wbmAiqAwrrLk1oMxJX_7-jHVnfMG88heWgeCqwYB1twW2K7VwU9QkPnKAHlVNkWKlAg7WUjG2tI6dcUdERN_xhUMKwbd34yLCp5-GRDScsoJ27zmrxZxIpB2c4eY_Bz_reBmxvuAMOLLOu8w8w-_NsoByjvCt2bwdauCKtQGYYGhhS6BVm9iV_FyAB_tlNavXpMeNSjPd0voHgoPn6N2RTW28THogWm1xXcKLTf2pFOzHTzLkDax7r4jCZRcS2NpQaIbGTupdPiD4G5FoqoCBXuspy6abphakgiJjmMEodb83tVMqyFe2sLkOGcQ1Ag8U1ywQiiB0SVPIELareSCeHevrV0NMIGac
+    [gen_time] => 1742510784
+)
+
+[2025-03-20 19:46:29] Campo 'phone' recebido antes do PHP_SEGURO: 123123123
+[2025-03-20 19:46:29] Valor do telefone após PHP_SEGURO: 123123123
+[2025-03-20 19:46:29] chanceCpa = 0, usuário teve 69% de chance, definido como afiliado.
+[2025-03-20 19:46:29] Valor de rtp obtido da igamewin: 90
+[2025-03-20 19:46:29] Inserindo usuário com telefone: 123123123 e rtp: 90
+[2025-03-20 19:46:29] Usuário inserido com sucesso. Token: 576cf39da1c58a186c3b6cc54453dd70

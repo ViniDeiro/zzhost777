@@ -1,0 +1,2102 @@
+@charset "UTF-8";
+/* 兼容笔记本设备显示 */
+html[theme=blue] ._svg_theme_fill_color_1rhy2_3 * {
+  fill: #EAB700;
+}
+html[theme=purple] ._svg_theme_fill_color_1rhy2_3 * {
+  fill: #ffdc82;
+}
+html[theme=oilyGreen] ._svg_theme_fill_color_1rhy2_3 * {
+  fill: #fee004;
+}
+html[theme=whiteGreen] ._svg_theme_fill_color_1rhy2_3 * {
+  fill: #1e8c58;
+}
+html[theme=versaceYellow] ._svg_theme_fill_color_1rhy2_3 * {
+  fill: #ffffff;
+}
+html[theme=whiteRed] ._svg_theme_fill_color_1rhy2_3 * {
+  fill: #CB3034;
+}
+html[theme=hermesOrange] ._svg_theme_fill_color_1rhy2_3 * {
+  fill: #551f0e;
+}
+html[theme=sk2] ._svg_theme_fill_color_1rhy2_3 * {
+  fill: #f5d470;
+}
+html[theme=whiteYellow] ._svg_theme_fill_color_1rhy2_3 * {
+  fill: #DF9A1C;
+}
+html[theme=furlaBlue] ._svg_theme_fill_color_1rhy2_3 * {
+  fill: #FFFCD2;
+}
+html[theme=whitePink] ._svg_theme_fill_color_1rhy2_3 * {
+  fill: #EF7A7B;
+}
+html[theme=bvGreen] ._svg_theme_fill_color_1rhy2_3 * {
+  fill: #FFF45D;
+}
+html[theme=whiteBrown] ._svg_theme_fill_color_1rhy2_3 * {
+  fill: #927D6A;
+}
+html[theme=AnnaSuiPurple] ._svg_theme_fill_color_1rhy2_3 * {
+  fill: #fff;
+}
+html[theme=whitePurple] ._svg_theme_fill_color_1rhy2_3 * {
+  fill: #610862;
+}
+html[theme=burgundyRed] ._svg_theme_fill_color_1rhy2_3 * {
+  fill: #FE3856;
+}
+html[theme=whiteDarkGreen] ._svg_theme_fill_color_1rhy2_3 * {
+  fill: #054146;
+}
+
+._vip_icon_1rhy2_55 {
+  width: 60rem;
+  position: relative;
+  font-size: 28.8rem;
+  font-style: normal;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+._vip_icon_1rhy2_55 img {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 0;
+}
+._vip_icon_1rhy2_55 > span {
+  z-index: 1;
+}
+/* 兼容笔记本设备显示 */
+html[theme=blue] ._svg_theme_fill_color_yo5sw_3 * {
+  fill: #EAB700;
+}
+html[theme=purple] ._svg_theme_fill_color_yo5sw_3 * {
+  fill: #ffdc82;
+}
+html[theme=oilyGreen] ._svg_theme_fill_color_yo5sw_3 * {
+  fill: #fee004;
+}
+html[theme=whiteGreen] ._svg_theme_fill_color_yo5sw_3 * {
+  fill: #1e8c58;
+}
+html[theme=versaceYellow] ._svg_theme_fill_color_yo5sw_3 * {
+  fill: #ffffff;
+}
+html[theme=whiteRed] ._svg_theme_fill_color_yo5sw_3 * {
+  fill: #CB3034;
+}
+html[theme=hermesOrange] ._svg_theme_fill_color_yo5sw_3 * {
+  fill: #551f0e;
+}
+html[theme=sk2] ._svg_theme_fill_color_yo5sw_3 * {
+  fill: #f5d470;
+}
+html[theme=whiteYellow] ._svg_theme_fill_color_yo5sw_3 * {
+  fill: #DF9A1C;
+}
+html[theme=furlaBlue] ._svg_theme_fill_color_yo5sw_3 * {
+  fill: #FFFCD2;
+}
+html[theme=whitePink] ._svg_theme_fill_color_yo5sw_3 * {
+  fill: #EF7A7B;
+}
+html[theme=bvGreen] ._svg_theme_fill_color_yo5sw_3 * {
+  fill: #FFF45D;
+}
+html[theme=whiteBrown] ._svg_theme_fill_color_yo5sw_3 * {
+  fill: #927D6A;
+}
+html[theme=AnnaSuiPurple] ._svg_theme_fill_color_yo5sw_3 * {
+  fill: #fff;
+}
+html[theme=whitePurple] ._svg_theme_fill_color_yo5sw_3 * {
+  fill: #610862;
+}
+html[theme=burgundyRed] ._svg_theme_fill_color_yo5sw_3 * {
+  fill: #FE3856;
+}
+html[theme=whiteDarkGreen] ._svg_theme_fill_color_yo5sw_3 * {
+  fill: #054146;
+}
+
+._vip_page_yo5sw_55 {
+  padding: 24rem;
+  font-size: 24rem;
+  background-size: 90rem;
+}
+._vip_page_yo5sw_55 .btns {
+  display: flex;
+  padding: 24rem 0;
+}
+._vip_page_yo5sw_55 .btns > div {
+  font-weight: 500;
+  height: 70rem;
+  line-height: 70rem;
+  width: 100%;
+  border-radius: var(--button-radius, 10rem) !important;
+  background-color: #2FA33F;
+  color: #fff;
+}
+html[theme=blue] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #EAB700;
+  color: #1F2837;
+}
+html[theme=whiteGreen] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #1e8c58;
+}
+html[theme=purple] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #ffdc82;
+  color: #5e095d;
+}
+html[theme=oilyGreen] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #fee004;
+  color: #067831;
+}
+html[theme=whiteRed] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #CB3034;
+  color: #FFF;
+}
+html[theme=versaceYellow] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #373638;
+  color: #FFF;
+}
+html[theme=lancomePeach] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #FFE2C9;
+  color: #DF6061;
+}
+html[theme=hermesOrange] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #551F0E;
+  color: #F8F2EE;
+}
+html[theme=whiteBlue] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #5378BF;
+}
+html[theme=whiteYellow] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #DF9A1C;
+}
+html[theme=sk2] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #F5D470;
+  color: #C4242A;
+}
+html[theme=lightBrown] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #FED39D;
+  color: #9B8977;
+}
+html[theme=whiteOrange] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #FA9447;
+  color: #FFF;
+}
+html[theme=furlaBlue] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #FFFCD2;
+  color: #4969C2;
+}
+html[theme=whitePink] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #EF7A7B;
+  color: #FFF;
+}
+html[theme=bvGreen] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #FFF45D;
+  color: #7B9A1E;
+}
+html[theme=whiteBrown] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #927D6A;
+  color: #FFF;
+}
+html[theme=AnnaSuiPurple] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #FFF;
+  color: #8870B8;
+}
+html[theme=whitePurple] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #610862;
+  color: #FFF;
+}
+html[theme=burgundyRed] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #FE3856;
+  color: #FFF;
+}
+html[theme=whiteDarkGreen] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #054146;
+  color: #FFF;
+}
+html[theme=greenGold] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #FDD981;
+  color: #00352F;
+}
+html[theme=whiteBrownLauren] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #9C6638;
+  color: #FFF;
+}
+html[theme=whiteRedGucci] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #520E23;
+  color: #FFF;
+}
+html[theme=embraerBlue] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #00AC3F;
+  color: #FFF;
+}
+html[theme=elsaPink] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #FFF0BC;
+  color: #B94B6B;
+}
+html[theme=bvlgariBrown] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #FEAE8A;
+  color: #57433A;
+}
+html[theme=whiteBlack] ._vip_page_yo5sw_55 .btns > div {
+  background-color: #000;
+  color: #FFF;
+}
+._vip_page_yo5sw_55 h5 {
+  padding-bottom: 24rem;
+  font-size: 24rem;
+  color: #fff;
+  font-family: Roboto;
+  font-weight: 700;
+}
+html[theme=whiteRed] ._vip_page_yo5sw_55 h5 {
+  color: #565656;
+}
+html[theme=whiteGreen] ._vip_page_yo5sw_55 h5 {
+  color: #565656;
+}
+html[theme=whiteBlue] ._vip_page_yo5sw_55 h5 {
+  color: #565656;
+}
+html[theme=whiteYellow] ._vip_page_yo5sw_55 h5 {
+  color: #565656;
+}
+html[theme=sk2] ._vip_page_yo5sw_55 h5 {
+  color: rgba(255, 255, 255, 0.92);
+}
+html[theme=whiteOrange] ._vip_page_yo5sw_55 h5 {
+  color: #565656;
+}
+html[theme=whitePink] ._vip_page_yo5sw_55 h5 {
+  color: #565656;
+}
+html[theme=bvGreen] ._vip_page_yo5sw_55 h5 {
+  color: #FFF;
+}
+html[theme=whiteBrown] ._vip_page_yo5sw_55 h5 {
+  color: #565656;
+}
+html[theme=AnnaSuiPurple] ._vip_page_yo5sw_55 h5 {
+  color: #FFF;
+}
+html[theme=whitePurple] ._vip_page_yo5sw_55 h5 {
+  color: #565656;
+}
+html[theme=burgundyRed] ._vip_page_yo5sw_55 h5 {
+  color: #FFF;
+}
+html[theme=whiteDarkGreen] ._vip_page_yo5sw_55 h5 {
+  color: #565656;
+}
+html[theme=whiteBrownLauren] ._vip_page_yo5sw_55 h5 {
+  color: #323133;
+}
+html[theme=whiteRedGucci] ._vip_page_yo5sw_55 h5 {
+  color: #565656;
+}
+html[theme=embraerBlue] ._vip_page_yo5sw_55 h5 {
+  color: #FFFFFF;
+}
+html[theme=elsaPink] ._vip_page_yo5sw_55 h5 {
+  color: #ffffff;
+}
+html[theme=bvlgariBrown] ._vip_page_yo5sw_55 h5 {
+  color: #FFF;
+}
+html[theme=whiteBlack] ._vip_page_yo5sw_55 h5 {
+  color: #565656;
+}
+
+._flex_yo5sw_247 {
+  display: flex;
+}
+
+._flex1_yo5sw_251 {
+  flex: 1;
+}
+
+._flexCenter_yo5sw_255 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+._vipProgressContainer_yo5sw_261 {
+  border-radius: 12rem;
+  border: 1rem solid rgba(255, 255, 255, 0.1);
+  overflow: hidden;
+}
+html[theme=blue] ._vipProgressContainer_yo5sw_261 {
+  background-color: #186CD5;
+}
+html[theme=purple] ._vipProgressContainer_yo5sw_261 {
+  background-color: #5D085D;
+}
+html[theme=oilyGreen] ._vipProgressContainer_yo5sw_261 {
+  background-color: #067831;
+  border-color: #3bac65;
+}
+html[theme=lancomePeach] ._vipProgressContainer_yo5sw_261 {
+  background-color: #EE7879;
+  border-color: rgba(255, 255, 255, 0.36);
+}
+html[theme=whiteRed] ._vipProgressContainer_yo5sw_261 {
+  background-color: #F6F6F6;
+  border-color: #D8D8D8;
+}
+html[theme=versaceYellow] ._vipProgressContainer_yo5sw_261 {
+  background-color: #F5B90B;
+  border-color: #FFE08A;
+}
+html[theme=whiteGreen] ._vipProgressContainer_yo5sw_261 {
+  border: 1rem solid #dbdbdb;
+  background: linear-gradient(0deg, rgba(93, 189, 145, 0.4) 0%, rgba(93, 189, 145, 0.4) 100%), #e4ffe9;
+  background-image: url("https://dl-br-cf.sadslj88.com/image-prod/bximages/h5/home/bg_whiteGreen_grid.webp");
+  background-size: cover;
+}
+html[theme=hermesOrange] ._vipProgressContainer_yo5sw_261 {
+  background-color: #F26E0A;
+  border-color: #FFBD89;
+}
+html[theme=whiteBlue] ._vipProgressContainer_yo5sw_261 {
+  background-color: #F6F6F6;
+  border-color: #D8D8D8;
+}
+html[theme=whiteYellow] ._vipProgressContainer_yo5sw_261 {
+  background-color: #F6F6F6;
+  border-color: #D8D8D8;
+}
+html[theme=sk2] ._vipProgressContainer_yo5sw_261 {
+  background-color: #C4242A;
+  border-color: rgba(255, 255, 255, 0.32);
+}
+html[theme=lightBrown] ._vipProgressContainer_yo5sw_261 {
+  background-color: #9B8977;
+  border-color: #B7A697;
+}
+html[theme=whiteOrange] ._vipProgressContainer_yo5sw_261 {
+  background-color: #F9F9F9;
+  border-color: #E5E4E5;
+}
+html[theme=furlaBlue] ._vipProgressContainer_yo5sw_261 {
+  background-color: #5375D1;
+  border-color: rgba(255, 255, 255, 0.3);
+}
+html[theme=whitePink] ._vipProgressContainer_yo5sw_261 {
+  background-color: #F6F6F6;
+  border-color: #D8D8D8;
+}
+html[theme=bvGreen] ._vipProgressContainer_yo5sw_261 {
+  background-color: #7B9A1E;
+  border-color: #9CBE1F;
+}
+html[theme=whiteBrown] ._vipProgressContainer_yo5sw_261 {
+  background-color: #F6F6F6;
+  border-color: #D8D8D8;
+}
+html[theme=AnnaSuiPurple] ._vipProgressContainer_yo5sw_261 {
+  background-color: #6B53A2;
+  border-color: rgba(255, 255, 255, 0.24);
+}
+html[theme=whitePurple] ._vipProgressContainer_yo5sw_261 {
+  background-color: #F6F6F6;
+  border-color: #D8D8D8;
+}
+html[theme=whiteDarkGreen] ._vipProgressContainer_yo5sw_261 {
+  background-color: #F6F6F6;
+  border-color: #D8D8D8;
+}
+html[theme=greenGold] ._vipProgressContainer_yo5sw_261 {
+  background-color: #003E37;
+  border-color: #05584F;
+}
+html[theme=whiteBrownLauren] ._vipProgressContainer_yo5sw_261 {
+  background-color: #F9F9F9;
+  border-color: #CDCECF;
+}
+html[theme=whiteRedGucci] ._vipProgressContainer_yo5sw_261 {
+  background-color: #F6F6F6;
+  border-color: #D8D8D8;
+}
+html[theme=burgundyRed] ._vipProgressContainer_yo5sw_261 {
+  background-color: #630B20;
+  border-color: #8F2B40;
+}
+html[theme=embraerBlue] ._vipProgressContainer_yo5sw_261 {
+  background-color: #082C71;
+  border-color: #214A9C;
+}
+html[theme=elsaPink] ._vipProgressContainer_yo5sw_261 {
+  background-color: #C3607C;
+  border-color: rgba(255, 255, 255, 0.24);
+}
+html[theme=bvlgariBrown] ._vipProgressContainer_yo5sw_261 {
+  background-color: #634C42;
+  border-color: rgba(255, 255, 255, 0.36);
+}
+html[theme=whiteBlack] ._vipProgressContainer_yo5sw_261 {
+  background-color: #F6F6F6;
+  border-color: #D8D8D8;
+}
+._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  display: inline-block;
+  padding: 0 10rem;
+  color: #fff;
+  min-width: 135rem;
+  height: 35rem;
+  line-height: 35rem;
+  text-align: center;
+  border-radius: 12rem 0;
+  font-family: Inter;
+  font-size: 22rem;
+  background-color: #2FA33F;
+}
+html[theme=versaceYellow] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #373638;
+}
+html[theme=lancomePeach] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #FFE2C9;
+  color: #DF6061;
+}
+html[theme=blue] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #EAB700;
+  color: #1F2837;
+}
+html[theme=whiteGreen] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #1e8c58;
+}
+html[theme=purple] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #ffdc82;
+  color: #5E095D;
+}
+html[theme=oilyGreen] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #fee004;
+  color: #067831;
+}
+html[theme=whiteRed] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #CB3034;
+  color: #FFF;
+}
+html[theme=hermesOrange] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #551F0E;
+  color: #F8F2EE;
+}
+html[theme=whiteBlue] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #5378BF;
+  color: #FFF;
+}
+html[theme=whiteYellow] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #DF9A1C;
+  color: #FFF;
+}
+html[theme=sk2] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #F5D470;
+  color: #C4242A;
+}
+html[theme=lightBrown] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #FED39D;
+  color: #9B8977;
+}
+html[theme=whiteOrange] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #FA9447;
+  color: #FFF;
+}
+html[theme=furlaBlue] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #FFFCD2;
+  color: #4969C2;
+}
+html[theme=whitePink] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #EF7A7B;
+  color: #FFF;
+}
+html[theme=bvGreen] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #FFF45D;
+  color: #7B9A1E;
+}
+html[theme=whiteBrown] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #927D6A;
+  color: #FFF;
+}
+html[theme=AnnaSuiPurple] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #FFF;
+  color: #8870B8;
+}
+html[theme=whitePurple] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #610862;
+  color: #FFF;
+}
+html[theme=burgundyRed] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #FE3856;
+  color: #FFF;
+}
+html[theme=whiteDarkGreen] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #054146;
+  color: #FFF;
+}
+html[theme=greenGold] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #FDD981;
+  color: #00352F;
+}
+html[theme=whiteBrownLauren] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #9C6638;
+  color: #FFF;
+}
+html[theme=whiteRedGucci] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #520E23;
+  color: #FFF;
+}
+html[theme=embraerBlue] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #00AC3F;
+  color: #FFF;
+}
+html[theme=elsaPink] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #FFF0BC;
+  color: #B94B6B;
+}
+html[theme=bvlgariBrown] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #FEAE8A;
+  color: #57433A;
+}
+html[theme=whiteBlack] ._vipProgressContainer_yo5sw_261 ._progressTitle_yo5sw_378 {
+  background-color: #000;
+  color: #fff;
+}
+._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  display: flex;
+  background: #0d131c;
+  padding: 18.5rem;
+}
+html[theme=blue] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background: #186CD5;
+}
+html[theme=purple] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background: none;
+}
+html[theme=lancomePeach] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background: none;
+}
+html[theme=versaceYellow] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background: none;
+}
+html[theme=whiteGreen] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background: none;
+}
+html[theme=hermesOrange] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background: none;
+}
+html[theme=oilyGreen] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background-color: #067831;
+}
+html[theme=whiteRed] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background-color: #F6F6F6;
+}
+html[theme=whiteBlue] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background-color: transparent;
+}
+html[theme=whiteYellow] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background-color: transparent;
+}
+html[theme=sk2] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background-color: #C4242A;
+}
+html[theme=lightBrown] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background-color: #9B8977;
+}
+html[theme=whiteOrange] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background-color: #F9F9F9;
+}
+html[theme=furlaBlue] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background-color: #5375D1;
+}
+html[theme=whitePink] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background: none;
+}
+html[theme=bvGreen] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background: #7B9A1E;
+}
+html[theme=whiteBrown] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background: #F6F6F6;
+}
+html[theme=AnnaSuiPurple] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background: #6B53A2;
+}
+html[theme=whitePurple] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background: #F6F6F6;
+}
+html[theme=burgundyRed] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background: #630B20;
+}
+html[theme=whiteDarkGreen] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background: #F6F6F6;
+}
+html[theme=greenGold] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background: #003E37;
+}
+html[theme=whiteBrownLauren] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background: #F9F9F9;
+}
+html[theme=whiteRedGucci] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background: #F6F6F6;
+}
+html[theme=embraerBlue] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background: #082C71;
+}
+html[theme=elsaPink] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background: #C3607C;
+}
+html[theme=bvlgariBrown] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background: #634C42;
+}
+html[theme=whiteBlack] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 {
+  background: #F6F6F6;
+}
+._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._vipImg_yo5sw_590 ._ico_yo5sw_590 {
+  width: 60rem;
+  height: 60rem;
+}
+._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._progressWidth_yo5sw_594 {
+  flex: 1;
+}
+._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._progressContent_yo5sw_597 {
+  font-size: 24rem;
+  padding: 0 17rem;
+}
+._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._progressContent_yo5sw_597 ._progress_yo5sw_378 {
+  padding: 16rem 0;
+}
+._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #fff;
+  font-weight: 400 !important;
+}
+html[theme=whiteGreen] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #ffaa09 !important;
+}
+html[theme=oilyGreen] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #fee004 !important;
+}
+html[theme=whiteRed] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #CB3034 !important;
+}
+html[theme=versaceYellow] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #373638 !important;
+}
+html[theme=lancomePeach] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #FFE2C9 !important;
+}
+html[theme=hermesOrange] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #551F0E !important;
+}
+html[theme=whiteBlue] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #FF820E !important;
+}
+html[theme=whiteYellow] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #DF9A1C !important;
+}
+html[theme=sk2] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #F5D470 !important;
+}
+html[theme=lightBrown] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #FED39D !important;
+}
+html[theme=whiteOrange] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #FA9447 !important;
+}
+html[theme=furlaBlue] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #FFFCD2 !important;
+}
+html[theme=whitePink] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #EF7A7B !important;
+}
+html[theme=bvGreen] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #FFF45D !important;
+}
+html[theme=whiteBrown] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #927D6A !important;
+}
+html[theme=AnnaSuiPurple] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #FFF !important;
+}
+html[theme=whitePurple] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #610862 !important;
+}
+html[theme=burgundyRed] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #FE3856 !important;
+}
+html[theme=whiteDarkGreen] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #054146 !important;
+}
+html[theme=greenGold] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #FDD981 !important;
+}
+html[theme=whiteBrownLauren] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #9C6638 !important;
+}
+html[theme=whiteRedGucci] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #520E23 !important;
+}
+html[theme=embraerBlue] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #00AC3F !important;
+}
+html[theme=elsaPink] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #FFF0BC !important;
+}
+html[theme=bvlgariBrown] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #FEAE8A !important;
+}
+html[theme=whiteBlack] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title1_yo5sw_604 ._special_yo5sw_604 {
+  color: #000 !important;
+}
+._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #ffd205;
+  font-weight: 400 !important;
+}
+html[theme=black] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #FFD205 !important;
+}
+html[theme=blue] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #EAB700 !important;
+}
+html[theme=oilyGreen] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #ffaa09 !important;
+}
+html[theme=whiteRed] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #FF820E !important;
+}
+html[theme=versaceYellow] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #FFF104 !important;
+}
+html[theme=lancomePeach] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #F4DA80 !important;
+}
+html[theme=hermesOrange] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #FDED06 !important;
+}
+html[theme=whiteYellow] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #FF820E !important;
+}
+html[theme=sk2] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #FFAA09 !important;
+}
+html[theme=lightBrown] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #FFD600 !important;
+}
+html[theme=whiteOrange] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #F4BD36 !important;
+}
+html[theme=furlaBlue] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #F9B205 !important;
+}
+html[theme=whitePink] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #FF820E !important;
+}
+html[theme=bvGreen] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #FF8A00 !important;
+}
+html[theme=whiteBrown] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #FF820E !important;
+}
+html[theme=AnnaSuiPurple] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #F9B205 !important;
+}
+html[theme=whitePurple] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #FF820E !important;
+}
+html[theme=burgundyRed] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #F7BB32 !important;
+}
+html[theme=whiteDarkGreen] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #FF820E !important;
+}
+html[theme=greenGold] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #FDD981 !important;
+}
+html[theme=whiteBrownLauren] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #F9B105 !important;
+}
+html[theme=whiteRedGucci] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #FF820E !important;
+}
+html[theme=embraerBlue] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #FFD600 !important;
+}
+html[theme=elsaPink] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #FFD205 !important;
+}
+html[theme=bvlgariBrown] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #F9B205 !important;
+}
+html[theme=whiteBlack] ._vipProgressContainer_yo5sw_261 ._vipProgress_yo5sw_261 ._title2_yo5sw_686 ._special_yo5sw_604 {
+  color: #FF820E !important;
+}
+._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  margin-right: 12rem;
+  color: rgba(167, 183, 215, 0.5);
+  font-size: 20rem;
+  font-weight: 400;
+}
+html[theme=blue] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: rgba(255, 255, 255, 0.6);
+}
+html[theme=whiteGreen] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: #676767;
+}
+html[theme=purple] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: rgba(255, 255, 255, 0.6);
+}
+html[theme=oilyGreen] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: #87d1a2;
+}
+html[theme=lancomePeach] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: #FEE0E0;
+}
+html[theme=whiteRed] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: #9D9D9D;
+}
+html[theme=versaceYellow] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: #FFF0C1;
+}
+html[theme=lancomePeach] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: #FEE0E0;
+}
+html[theme=hermesOrange] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: #FFBE8B;
+}
+html[theme=whiteBlue] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: #9D9D9D;
+}
+html[theme=whiteYellow] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: #9D9D9D;
+}
+html[theme=sk2] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: #FFC5C8;
+}
+html[theme=lightBrown] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: #E7D2C2;
+}
+html[theme=whiteOrange] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: #9A9A9A;
+}
+html[theme=furlaBlue] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: #D4DDFE;
+}
+html[theme=whitePink] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: #9D9D9D;
+}
+html[theme=bvGreen] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: #D1E676;
+}
+html[theme=whiteBrown] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: #9D9D9D;
+}
+html[theme=AnnaSuiPurple] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: #BFA9CC;
+}
+html[theme=whitePurple] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: #9D9D9D;
+}
+html[theme=burgundyRed] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: #E08EA3;
+}
+html[theme=whiteDarkGreen] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: #9D9D9D;
+}
+html[theme=greenGold] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: #039685;
+}
+html[theme=whiteBrownLauren] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: #9A9A9B;
+}
+html[theme=whiteRedGucci] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: #9D9D9D;
+}
+html[theme=embraerBlue] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: #6F97EB;
+}
+html[theme=elsaPink] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: rgba(255, 255, 255, 0.6);
+}
+html[theme=bvlgariBrown] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: rgba(255, 255, 255, 0.6);
+}
+html[theme=whiteBlack] ._vipProgressContainer_yo5sw_261 ._vipleftspan_yo5sw_768 {
+  color: #9D9D9D;
+}
+._vipProgressContainer_yo5sw_261 ._vipTip_yo5sw_861 {
+  color: #2FA33F !important;
+  font-size: 24rem !important;
+  font-weight: 400 !important;
+}
+html[theme=blue] ._vipProgressContainer_yo5sw_261 ._vipTip_yo5sw_861 {
+  color: #EAB700 !important;
+}
+html[theme=purple] ._vipProgressContainer_yo5sw_261 ._vipTip_yo5sw_861 {
+  color: #FFDC82 !important;
+}
+html[theme=whiteGreen] ._vipProgressContainer_yo5sw_261 ._vipTip_yo5sw_861 {
+  color: #ffaa09 !important;
+}
+html[theme=oilyGreen] ._vipProgressContainer_yo5sw_261 ._vipTip_yo5sw_861 {
+  color: #ffaa09 !important;
+}
+html[theme=lancomePeach] ._vipProgressContainer_yo5sw_261 ._vipTip_yo5sw_861 {
+  color: #FFE2C9 !important;
+}
+html[theme=hermesOrange] ._vipProgressContainer_yo5sw_261 ._vipTip_yo5sw_861 {
+  color: #551F0E !important;
+}
+html[theme=whiteBlue] ._vipProgressContainer_yo5sw_261 ._vipTip_yo5sw_861 {
+  color: #5378BF !important;
+}
+html[theme=whiteBlue] ._vipProgressContainer_yo5sw_261 ._vipTip_yo5sw_861 {
+  color: #DF9A1C !important;
+}
+html[theme=lightBrown] ._vipProgressContainer_yo5sw_261 ._vipTip_yo5sw_861 {
+  color: #9B8977 !important;
+}
+html[theme=whiteOrange] ._vipProgressContainer_yo5sw_261 ._vipTip_yo5sw_861 {
+  color: #363333 !important;
+}
+html[theme=whitePink] ._vipProgressContainer_yo5sw_261 ._vipTip_yo5sw_861 {
+  color: #363333 !important;
+}
+html[theme=bvGreen] ._vipProgressContainer_yo5sw_261 ._vipTip_yo5sw_861 {
+  color: #7B9A1E !important;
+}
+html[theme=whitePurple] ._vipProgressContainer_yo5sw_261 ._vipTip_yo5sw_861 {
+  color: #363333 !important;
+}
+._vipProgressContainer_yo5sw_261 ._nextMoney_yo5sw_905 {
+  color: white !important;
+  margin-left: 12rem;
+}
+html[theme=whiteGreen] ._vipProgressContainer_yo5sw_261 ._nextMoney_yo5sw_905 {
+  color: #ffaa09 !important;
+}
+html[theme=whiteBlue] ._vipProgressContainer_yo5sw_261 ._nextMoney_yo5sw_905 {
+  color: #FF820E !important;
+}
+
+._progressComponent_yo5sw_916 {
+  width: 100%;
+  height: 24rem;
+  border-radius: 11rem;
+  border: 2rem solid rgba(255, 255, 255, 0.1);
+  background-color: #161D29;
+  padding: 2rem;
+  overflow: hidden;
+  position: relative;
+}
+html[theme=blue] ._progressComponent_yo5sw_916 {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+html[theme=whiteGreen] ._progressComponent_yo5sw_916 {
+  background-color: #DBDBDB;
+}
+html[theme=purple] ._progressComponent_yo5sw_916 {
+  background-color: #5d085d;
+}
+html[theme=oilyGreen] ._progressComponent_yo5sw_916 {
+  border-color: #3bac65;
+  background-color: #3BAC65;
+  color: #067831;
+}
+html[theme=whiteRed] ._progressComponent_yo5sw_916 {
+  background-color: #D8D8D8;
+  color: #FFF;
+}
+html[theme=versaceYellow] ._progressComponent_yo5sw_916 {
+  background-color: #F5B90B;
+  border-color: #FFE08A;
+}
+html[theme=lancomePeach] ._progressComponent_yo5sw_916 {
+  background-color: #DF6061;
+  border-color: rgba(255, 255, 255, 0.36);
+}
+html[theme=hermesOrange] ._progressComponent_yo5sw_916 {
+  background-color: #FFBD89;
+  border-color: #FFBD89;
+}
+html[theme=whiteBlue] ._progressComponent_yo5sw_916 {
+  background-color: #F6F6F6;
+  border-color: #D8D8D8;
+}
+html[theme=whiteYellow] ._progressComponent_yo5sw_916 {
+  background-color: #F6F6F6;
+  border-color: #D8D8D8;
+}
+html[theme=sk2] ._progressComponent_yo5sw_916 {
+  background-color: rgba(255, 255, 255, 0.32);
+  border-color: rgba(255, 255, 255, 0.32);
+}
+html[theme=lightBrown] ._progressComponent_yo5sw_916 {
+  background-color: #8C7A66;
+  border-color: #B7A697;
+}
+html[theme=whiteOrange] ._progressComponent_yo5sw_916 {
+  background-color: #E5E4E5;
+}
+html[theme=furlaBlue] ._progressComponent_yo5sw_916 {
+  background-color: #4969C2;
+  border-color: rgba(255, 255, 255, 0.3);
+}
+html[theme=whitePink] ._progressComponent_yo5sw_916 {
+  background-color: #D8D8D8;
+  border-color: transparent;
+}
+html[theme=bvGreen] ._progressComponent_yo5sw_916 {
+  background-color: #5C780B;
+  border-color: transparent;
+}
+html[theme=whiteBrown] ._progressComponent_yo5sw_916 {
+  background-color: #D8D8D8;
+  border-color: transparent;
+}
+html[theme=AnnaSuiPurple] ._progressComponent_yo5sw_916 {
+  background-color: rgba(255, 255, 255, 0.24);
+  border-color: transparent;
+}
+html[theme=whitePurple] ._progressComponent_yo5sw_916 {
+  background-color: #D8D8D8;
+  border-color: transparent;
+}
+html[theme=burgundyRed] ._progressComponent_yo5sw_916 {
+  background-color: #8F2B40;
+  border-color: transparent;
+}
+html[theme=whiteDarkGreen] ._progressComponent_yo5sw_916 {
+  background-color: #D8D8D8;
+  border-color: transparent;
+}
+html[theme=greenGold] ._progressComponent_yo5sw_916 {
+  background-color: rgba(255, 255, 255, 0.5);
+  border-color: transparent;
+}
+html[theme=whiteBrownLauren] ._progressComponent_yo5sw_916 {
+  background-color: #CDCECF;
+  border-color: transparent;
+}
+html[theme=whiteRedGucci] ._progressComponent_yo5sw_916 {
+  background-color: #D8D8D8;
+  border-color: transparent;
+}
+html[theme=embraerBlue] ._progressComponent_yo5sw_916 {
+  background-color: #214A9C;
+  border-color: transparent;
+}
+html[theme=elsaPink] ._progressComponent_yo5sw_916 {
+  background-color: rgba(255, 255, 255, 0.24);
+  border: none;
+}
+html[theme=bvlgariBrown] ._progressComponent_yo5sw_916 {
+  background-color: rgba(255, 255, 255, 0.36);
+  border: none;
+}
+html[theme=whiteBlack] ._progressComponent_yo5sw_916 {
+  background-color: #D8D8D8;
+  border: none;
+}
+._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  border-radius: 10px;
+  background: #06BE01;
+  height: 100%;
+  line-height: 100%;
+  text-align: end;
+  font-size: 20rem;
+}
+html[theme=whiteGreen] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  background-color: #06BE01;
+}
+html[theme=whiteRed] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  background-color: #06BE01;
+}
+html[theme=lancomePeach] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  background-color: #FFE2C9;
+}
+html[theme=hermesOrange] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  background-color: #06BE01;
+}
+html[theme=whiteBlue] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  background-color: #5378BF;
+}
+html[theme=whiteYellow] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  background-color: #DF9A1C;
+}
+html[theme=sk2] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  background-color: #06BE01;
+}
+html[theme=whiteYellow] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  background-color: #00D552;
+}
+html[theme=lightBrown] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  background-color: #06BE01;
+}
+html[theme=whiteOrange] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  background-color: #06DA00;
+}
+html[theme=furlaBlue] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  background-color: #06BE01;
+}
+html[theme=whitePink] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  background-color: #00D552;
+}
+html[theme=bvGreen] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  background-color: #06BE01;
+}
+html[theme=whiteBrown] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  background-color: #00D552;
+}
+html[theme=AnnaSuiPurple] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  background-color: #06BE01;
+}
+html[theme=whitePurple] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  background-color: #06BE01;
+}
+html[theme=burgundyRed] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  background-color: #06BE01;
+}
+html[theme=whiteDarkGreen] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  background-color: #06BE01;
+}
+html[theme=greenGold] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  background-color: #06BE01;
+}
+html[theme=whiteBrownLauren] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  background-color: #06BE01;
+}
+html[theme=whiteRedGucci] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  background-color: #06BE01;
+}
+html[theme=embraerBlue] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  background-color: #06BE01;
+}
+html[theme=elsaPink] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  background-color: #00D552;
+}
+html[theme=bvlgariBrown] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  background-color: #00D552;
+}
+html[theme=whiteBlack] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 {
+  background-color: #06BE01;
+}
+._progressComponent_yo5sw_916 ._content_yo5sw_1035 > span {
+  position: absolute;
+  left: 0;
+  right: 0;
+  text-align: center;
+  color: #fff;
+}
+html[theme=blue] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 > span {
+  color: #FFFFFF;
+}
+html[theme=whiteGreen] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 > span {
+  color: #fff;
+}
+html[theme=versaceYellow] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 > span {
+  color: #fff;
+}
+html[theme=lancomePeach] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 > span {
+  color: #DF6061;
+}
+html[theme=whiteRed] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 > span {
+  color: #FFFFFF;
+}
+html[theme=whiteBlue] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 > span {
+  color: #fff;
+}
+html[theme=whiteYellow] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 > span {
+  color: #fff;
+}
+html[theme=sk2] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 > span {
+  color: #fff;
+}
+html[theme=whiteYellow] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 > span {
+  color: #565656;
+}
+html[theme=lightBrown] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 > span {
+  color: #FFF;
+}
+html[theme=whiteOrange] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 > span {
+  color: #363333;
+}
+html[theme=furlaBlue] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 > span {
+  color: #FFF;
+}
+html[theme=whiteBlue] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 > span {
+  color: #565656;
+}
+html[theme=bvGreen] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 > span {
+  color: #7B9A1E;
+}
+html[theme=whiteBrown] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 > span {
+  color: #565656;
+}
+html[theme=AnnsSuiPurple] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 > span {
+  color: #FFF;
+}
+html[theme=whitePurple] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 > span {
+  color: #FFF;
+}
+html[theme=burgundyRed] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 > span {
+  color: #FFF;
+}
+html[theme=whiteDarkGreen] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 > span {
+  color: #FFF;
+}
+html[theme=whiteBrownLauren] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 > span {
+  color: #FFF;
+}
+html[theme=whiteRedGucci] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 > span {
+  color: #FFF;
+}
+html[theme=embraerBlue] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 > span {
+  color: #ffffff;
+}
+html[theme=elsaPink] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 > span {
+  color: #FFF;
+}
+html[theme=bvlgariBrown] ._progressComponent_yo5sw_916 ._content_yo5sw_1035 > span {
+  color: #FFF;
+}
+
+html[theme=whiteGreen] ._c_list_yo5sw_1198 {
+  border-radius: 6rem;
+  overflow: hidden;
+}
+html[theme=whiteGreen][nested="1"] ._c_list_yo5sw_1198 {
+  border: 1px solid #dbdbdb;
+  border-radius: 12rem;
+}
+._c_list_yo5sw_1198 .c_list_header {
+  border-radius: 6rem;
+  border: 1rem solid rgba(255, 255, 255, 0.1);
+}
+html[theme=oilyGreen] ._c_list_yo5sw_1198 .c_list_header {
+  border-color: #3bac65;
+}
+html[theme=whiteGreen] ._c_list_yo5sw_1198 .c_list_header {
+  border-color: #DBDBDB;
+}
+html[theme=hermesOrange] ._c_list_yo5sw_1198 .c_list_header {
+  border-color: #FFBD89;
+}
+html[theme=sk2] ._c_list_yo5sw_1198 .c_list_header {
+  border-color: rgba(255, 255, 255, 0.32);
+}
+html[theme=lightBrown] ._c_list_yo5sw_1198 .c_list_header {
+  border-color: #B7A697;
+}
+html[theme=whitePink] ._c_list_yo5sw_1198 .c_list_header {
+  border-color: #D8D8D8;
+}
+html[theme=bvGreen] ._c_list_yo5sw_1198 .c_list_header {
+  border-color: #9CBE1F;
+}
+html[theme=whiteRed] ._c_list_yo5sw_1198 .c_list_header {
+  border-color: #D8D8D8;
+}
+html[theme=whiteBrown] ._c_list_yo5sw_1198 .c_list_header {
+  border-color: #D8D8D8;
+}
+html[theme=AnnaSuiPurple] ._c_list_yo5sw_1198 .c_list_header {
+  border-color: rgba(255, 255, 255, 0.24);
+}
+html[theme=whitePurple] ._c_list_yo5sw_1198 .c_list_header {
+  border-color: #D8D8D8;
+}
+html[theme=burgundyRed] ._c_list_yo5sw_1198 .c_list_header {
+  border-color: #8F2B40;
+}
+html[theme=whiteDarkGreen] ._c_list_yo5sw_1198 .c_list_header {
+  border-color: #D8D8D8;
+}
+html[theme=greenGold] ._c_list_yo5sw_1198 .c_list_header {
+  border-color: #05584F;
+}
+html[theme=whiteBrownLauren] ._c_list_yo5sw_1198 .c_list_header {
+  border-color: #CDCECF;
+}
+html[theme=whiteRedGucci] ._c_list_yo5sw_1198 .c_list_header {
+  border-color: #D8D8D8;
+}
+html[theme=embraerBlue] ._c_list_yo5sw_1198 .c_list_header {
+  border-color: #214A9C;
+}
+html[theme=elsaPink] ._c_list_yo5sw_1198 .c_list_header {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+html[theme=bvlgariBrown] ._c_list_yo5sw_1198 .c_list_header {
+  border-color: rgba(255, 255, 255, 0.36);
+}
+html[theme=whiteBlack] ._c_list_yo5sw_1198 .c_list_header {
+  border-color: #D8D8D8;
+}
+._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  color: #FFF !important;
+  font-size: 24rem;
+  font-weight: 500;
+  background: #1f2837;
+}
+html[theme=blue] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background-color: #2B7DE4;
+}
+html[theme=versaceYellow] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background-color: #FEC626;
+}
+html[theme=whiteGreen] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background-color: #FFFFFF !important;
+  color: #333322 !important;
+}
+html[theme=purple] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background-color: #7d1b7e !important;
+}
+html[theme=purple][nested="1"] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  border-width: 1rem;
+}
+html[theme=oilyGreen] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background: #0c913f;
+}
+html[theme=whiteRed] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background: #E9E9E9;
+  color: #565656 !important;
+}
+html[theme=lancomePeach] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background: #F88486;
+}
+html[theme=hermesOrange] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background: #FA831D;
+}
+html[theme=whiteBlue] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background: none;
+  color: #565656 !important;
+}
+html[theme=whiteYellow] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background: none;
+  color: #565656 !important;
+}
+html[theme=sk2] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background-color: #D72A30;
+  color: #FFF !important;
+}
+html[theme=lightBrown] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background-color: #A49485;
+  color: #FFF !important;
+}
+html[theme=whiteOrange] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background-color: #E9E9E9;
+  color: #363333 !important;
+}
+html[theme=furlaBlue] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background-color: #7996E3;
+  color: #FFF !important;
+}
+html[theme=whitePink] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background-color: #E9E9E9;
+  color: #565656 !important;
+}
+html[theme=bvGreen] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background-color: #8A2;
+  color: #FFF !important;
+}
+html[theme=whiteBrown] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background-color: #E9E9E9;
+  color: #565656 !important;
+}
+html[theme=AnnaSuiPurple] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background-color: #755CAD;
+  color: #FFF !important;
+}
+html[theme=whitePurple] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background-color: #F6F6F6;
+  color: #565656 !important;
+}
+html[theme=burgundyRed] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background-color: #781830;
+  color: #FFF !important;
+}
+html[theme=whiteDarkGreen] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background-color: #FAFAFA;
+  color: #565656 !important;
+}
+html[theme=greenGold] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background-color: #05584F;
+  color: #fff !important;
+  border-radius: 0;
+}
+html[theme=whiteBrownLauren] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background-color: #FFFFFF;
+  color: #323133 !important;
+}
+html[theme=whiteRedGucci] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background-color: #FAFAFA;
+  color: #565656 !important;
+}
+html[theme=embraerBlue] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background-color: #0C3589;
+  color: #FFFFFF !important;
+}
+html[theme=elsaPink] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background-color: #D36684;
+  color: #FFFFFF !important;
+}
+html[theme=bvlgariBrown] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background-color: #745A4E;
+  color: #FFFFFF !important;
+}
+html[theme=whiteBlack] ._c_list_yo5sw_1198 .c_list_header .c_list_col {
+  background-color: #FFF;
+  color: #565656 !important;
+}
+._c_list_yo5sw_1198 .c_list_row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-width: 100%;
+}
+html[theme=blue] ._c_list_yo5sw_1198 .c_list_row {
+  background-color: #186CD5;
+}
+._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  border-bottom: 0;
+  border-radius: 6rem;
+}
+html[theme=whiteGreen] ._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  background-color: #fff;
+}
+html[theme=purple] ._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  background-color: #5D085D;
+  border: none;
+}
+html[theme=oilyGreen] ._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  border: none;
+  background-color: #058536;
+}
+html[theme=whiteRed] ._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  background-color: #E9E9E9;
+  border: none;
+}
+html[theme=versaceYellow] ._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  border: none;
+  background-color: #FEC626;
+}
+html[theme=lancomePeach] ._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  border: none;
+  background-color: #EE7879;
+}
+html[theme=hermesOrange] ._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  border: none;
+  background-color: #F26E0A;
+}
+html[theme=sk2] ._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  border: none;
+  background-color: #C4242A;
+}
+html[theme=lightBrown] ._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  border: none;
+  background-color: #A49485;
+}
+html[theme=whiteOrange] ._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  border: none;
+  background-color: #F9F9F9;
+}
+html[theme=furlaBlue] ._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  border: none;
+  background-color: #5375D1;
+}
+html[theme=whitePink] ._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  border: none;
+  background-color: #E9E9E9;
+}
+html[theme=bvGreen] ._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  border: none;
+  background-color: #8A2;
+}
+html[theme=whiteBrown] ._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  border: none;
+  background-color: #E9E9E9;
+}
+html[theme=AnnaSuiPurple] ._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  border: none;
+  background-color: #6B53A2;
+}
+html[theme=whitePurple] ._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  border: none;
+  background-color: #FFF;
+}
+html[theme=burgundyRed] ._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  border: none;
+  background-color: #781830;
+}
+html[theme=whiteDarkGreen] ._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  border: none;
+  background-color: #FAFAFA;
+}
+html[theme=greenGold] ._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  border: none;
+  background-color: #014D45;
+}
+html[theme=whiteBrownLauren] ._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  border: none;
+  background-color: #FFFFFF;
+}
+html[theme=whiteRedGucci] ._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  border: none;
+  background-color: #FFFFFF;
+}
+html[theme=embraerBlue] ._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  border: none;
+  background-color: #0C3588;
+}
+html[theme=elsaPink] ._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background-color: #D57490;
+}
+html[theme=bvlgariBrown] ._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background-color: #544038;
+}
+html[theme=whiteBlack] ._c_list_yo5sw_1198 .c_list_row + .c_list_row {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background-color: #FAFAFA;
+}
+html[theme=blue] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #2B7DE4;
+}
+html[theme=purple] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #7d1b7e;
+}
+html[theme=lancomePeach] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #F88486;
+}
+html[theme=hermesOrange] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #FA831D;
+}
+html[theme=whiteBlue] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #E9E9E9;
+}
+html[theme=whiteRed] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #E9E9E9;
+}
+html[theme=whiteYellow] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #E9E9E9;
+}
+html[theme=sk2] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #D72A30;
+}
+html[theme=lightBrown] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #A49485;
+}
+html[theme=whiteOrange] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #E9E9E9;
+}
+html[theme=furlaBlue] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #7996E3;
+}
+html[theme=whitePink] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #E9E9E9;
+}
+html[theme=bvGreen] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #8A2;
+}
+html[theme=whiteBrown] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #E9E9E9;
+}
+html[theme=AnnaSuiPurple] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #6B53A2;
+}
+html[theme=whitePurple] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #F6F6F6;
+}
+html[theme=whiteGreen] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #f5f5f5;
+  border: #FFFFFF 10%;
+}
+html[theme=burgundyRed] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #630B20;
+}
+html[theme=whiteDarkGreen] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #FAFAFA;
+}
+html[theme=greenGold] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #003E37;
+}
+html[theme=whiteBrownLauren] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #F9F9F9;
+}
+html[theme=whiteRedGucci] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #F6F6F6;
+}
+html[theme=versaceYellow] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #FEC626;
+}
+html[theme=embraerBlue] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #082C71;
+}
+html[theme=elsaPink] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #C3607C;
+}
+html[theme=bvlgariBrown] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #634C42;
+}
+html[theme=whiteBlack] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(odd) {
+  background-color: #F6F6F6;
+}
+._c_list_yo5sw_1198 .c_list_row:nth-of-type(even) {
+  background-color: #161D29;
+}
+html[theme=oilyGreen] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(even) {
+  background-color: #067831;
+}
+html[theme=whiteRed] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(even) {
+  background-color: #F6F6F6;
+}
+html[theme=versaceYellow] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(even) {
+  background-color: #F5B90B;
+}
+html[theme=lancomePeach] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(even) {
+  background-color: #EE7879;
+}
+html[theme=hermesOrange] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(even) {
+  background-color: #F26E0A;
+}
+html[theme=whiteBlue] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(even) {
+  background-color: #F6F6F6;
+}
+html[theme=whiteYellow] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(even) {
+  background-color: #F6F6F6;
+}
+html[theme=lightBrown] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(even) {
+  background-color: #9B8977;
+}
+html[theme=whiteOrange] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(even) {
+  background-color: #F9F9F9;
+}
+html[theme=whitePink] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(even) {
+  background-color: #F6F6F6;
+}
+html[theme=bvGreen] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(even) {
+  background-color: #7B9A1E;
+}
+html[theme=whiteBrown] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(even) {
+  background-color: #F6F6F6;
+}
+html[theme=AnnaSuiPurple] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(even) {
+  background-color: #8870B8;
+}
+html[theme=whitePurple] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(even) {
+  background-color: #FFF;
+}
+html[theme=burgundyRed] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(even) {
+  background-color: #781830;
+  border: 1rem solid rgba(255, 255, 255, 0.3);
+  border-width: 1rem;
+  border-color: #8F2B40;
+}
+html[theme=whiteDarkGreen] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(even) {
+  background-color: #FFFFFF;
+  border: none;
+  border-width: 1rem;
+  border-color: #FFFFFF;
+}
+html[theme=greenGold] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(even) {
+  background-color: #014D45;
+  border: none;
+  border-width: 1rem;
+  border-color: rgba(255, 255, 255, 0.1);
+}
+html[theme=whiteBrownLauren] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(even) {
+  background-color: #FFFFFF;
+  border: none;
+  border-width: 1rem;
+  border-color: #FFFFFF;
+}
+html[theme=whiteRedGucci] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(even) {
+  background-color: #FFFFFF;
+  border: none;
+  border-width: 1rem;
+  border-color: #FFFFFF;
+}
+html[theme=whiteBlack] ._c_list_yo5sw_1198 .c_list_row:nth-of-type(even) {
+  background-color: #FAFAFA;
+  border: none;
+}
+html[theme=burgundyRed] ._c_list_yo5sw_1198 .c_list_row:first-of-type {
+  background-color: #781830;
+}
+html[theme=whiteDarkGreen] ._c_list_yo5sw_1198 .c_list_row:first-of-type {
+  background-color: #FAFAFA;
+}
+html[theme=whiteBrownLauren] ._c_list_yo5sw_1198 .c_list_row:first-of-type {
+  background-color: #FFFFFF;
+}
+._c_list_yo5sw_1198 .c_list_col {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 90rem;
+  color: #ffd205;
+}
+html[theme=blue] ._c_list_yo5sw_1198 .c_list_col {
+  color: #EAB700;
+}
+html[theme=whiteGreen] ._c_list_yo5sw_1198 .c_list_col {
+  color: #FFAA09;
+}
+html[theme=versaceYellow] ._c_list_yo5sw_1198 .c_list_col {
+  color: #FFF104;
+}
+html[theme=lancomePeach] ._c_list_yo5sw_1198 .c_list_col {
+  color: #F4DA80;
+}
+html[theme=hermesOrange] ._c_list_yo5sw_1198 .c_list_col {
+  color: #FDED06;
+}
+html[theme=whiteBlue] ._c_list_yo5sw_1198 .c_list_col {
+  color: #FF820E;
+}
+html[theme=whiteRed] ._c_list_yo5sw_1198 .c_list_col {
+  color: #FF820E;
+}
+html[theme=whiteYellow] ._c_list_yo5sw_1198 .c_list_col {
+  color: #FF820E;
+}
+html[theme=sk2] ._c_list_yo5sw_1198 .c_list_col {
+  color: #FFAA09;
+}
+html[theme=lightBrown] ._c_list_yo5sw_1198 .c_list_col {
+  color: #FFD600;
+}
+html[theme=whiteOrange] ._c_list_yo5sw_1198 .c_list_col {
+  color: #F4BD36;
+}
+html[theme=furlaBlue] ._c_list_yo5sw_1198 .c_list_col {
+  color: #F9B205;
+}
+html[theme=whitePink] ._c_list_yo5sw_1198 .c_list_col {
+  color: #FF820E;
+}
+html[theme=bvGreen] ._c_list_yo5sw_1198 .c_list_col {
+  color: #FF8A00;
+}
+html[theme=whiteBrown] ._c_list_yo5sw_1198 .c_list_col {
+  color: #FF820E;
+}
+html[theme=AnnaSuiPurple] ._c_list_yo5sw_1198 .c_list_col {
+  color: #F9B205;
+}
+html[theme=whitePurple] ._c_list_yo5sw_1198 .c_list_col {
+  color: #FF820E;
+}
+html[theme=burgundyRed] ._c_list_yo5sw_1198 .c_list_col {
+  color: #F7BB32;
+}
+html[theme=whiteDarkGreen] ._c_list_yo5sw_1198 .c_list_col {
+  color: #FF820E;
+}
+html[theme=greenGold] ._c_list_yo5sw_1198 .c_list_col {
+  color: #FFD600;
+}
+html[theme=whiteBrownLauren] ._c_list_yo5sw_1198 .c_list_col {
+  color: #F9B105;
+}
+html[theme=whiteRedGucci] ._c_list_yo5sw_1198 .c_list_col {
+  color: #FF820E;
+}
+html[theme=embraerBlue] ._c_list_yo5sw_1198 .c_list_col {
+  color: #FFD600;
+}
+html[theme=elsaPink] ._c_list_yo5sw_1198 .c_list_col {
+  color: #FFD205;
+}
+html[theme=bvlgariBrown] ._c_list_yo5sw_1198 .c_list_col {
+  color: #F9B205;
+}
+html[theme=whiteBlack] ._c_list_yo5sw_1198 .c_list_col {
+  color: #FF820E;
+}
+._c_list_yo5sw_1198 .c_list_col > * {
+  color: #ffd205;
+}
+._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: #A7B7D7;
+}
+html[theme=blue] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: #B5E4FF;
+}
+html[theme=whiteGreen] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: #999999;
+}
+html[theme=oilyGreen] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: #C4FFD9;
+}
+html[theme=versaceYellow] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: #fff;
+}
+html[theme=lancomePeach] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: rgba(255, 255, 255, 0.8);
+}
+html[theme=hermesOrange] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: #FEE7CA;
+}
+html[theme=whiteBlue] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: #3F3F3F;
+}
+html[theme=whiteRed] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: #9D9D9D;
+}
+html[theme=whiteYellow] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: #3F3F3F;
+}
+html[theme=sk2] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: #FFC5C8;
+}
+html[theme=lightBrown] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: #FFEFE0;
+}
+html[theme=whiteOrange] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: #3F3F3F;
+}
+html[theme=furlaBlue] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: rgba(255, 255, 255, 0.6);
+}
+html[theme=whitePink] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: #3F3F3F;
+}
+html[theme=bvGreen] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: #F2FBB7;
+}
+html[theme=whiteBrown] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: #3F3F3F;
+}
+html[theme=AnnaSuiPurple] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: #BFA9CC;
+}
+html[theme=whitePurple] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: #9D9D9D;
+}
+html[theme=burgundyRed] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: #E08EA3;
+}
+html[theme=whiteDarkGreen] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: #9D9D9D;
+}
+html[theme=greenGold] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: #039685;
+}
+html[theme=purple] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: rgba(255, 255, 255, 0.6);
+}
+html[theme=whiteBrownLauren] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: #9A9A9B;
+}
+html[theme=whiteRedGucci] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: #9D9D9D;
+}
+html[theme=embraerBlue] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: #6F97EB;
+}
+html[theme=elsaPink] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: rgba(255, 255, 255, 0.8);
+}
+html[theme=bvlgariBrown] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: rgba(255, 255, 255, 0.6);
+}
+html[theme=whiteBlack] ._c_list_yo5sw_1198 .c_list_col:nth-of-type(even) {
+  color: #9D9D9D;
+}
+
+._fullLevel_yo5sw_1845 {
+  padding-left: 12rem;
+  text-align: center;
+  font-size: 20rem;
+}
+._fullLevel_yo5sw_1845 p {
+  color: rgba(167, 183, 215, 0.5);
+}
+html[theme=blue] ._fullLevel_yo5sw_1845 p {
+  color: rgba(255, 255, 255, 0.6);
+}
+html[theme=whiteGreen] ._fullLevel_yo5sw_1845 p {
+  color: #676767;
+}
+html[theme=oilyGreen] ._fullLevel_yo5sw_1845 p {
+  color: #87d1a2;
+}
+html[theme=whiteRed] ._fullLevel_yo5sw_1845 p {
+  color: #9D9D9D;
+}
+html[theme=hermesOrange] ._fullLevel_yo5sw_1845 p {
+  color: #FFBE8B;
+}
+html[theme=sk2] ._fullLevel_yo5sw_1845 p {
+  color: #FFC5C8;
+}
+html[theme=whiteYellow] ._fullLevel_yo5sw_1845 p {
+  color: #9D9D9D;
+}
+html[theme=lightBrown] ._fullLevel_yo5sw_1845 p {
+  color: #E7D2C2;
+}
+html[theme=whiteOrange] ._fullLevel_yo5sw_1845 p {
+  color: #9A9A9A;
+}
+html[theme=furlaBlue] ._fullLevel_yo5sw_1845 p {
+  color: #D4DDFE;
+}
+html[theme=whitePink] ._fullLevel_yo5sw_1845 p {
+  color: #9D9D9D;
+}
+html[theme=bvGreen] ._fullLevel_yo5sw_1845 p {
+  color: #D1E676;
+}
+html[theme=whiteBrown] ._fullLevel_yo5sw_1845 p {
+  color: #9D9D9D;
+}
+html[theme=AnnaSuiPurple] ._fullLevel_yo5sw_1845 p {
+  color: #BFA9CC;
+}
+html[theme=whitePurple] ._fullLevel_yo5sw_1845 p {
+  color: #9D9D9D;
+}
+html[theme=burgundyRed] ._fullLevel_yo5sw_1845 p {
+  color: #E08EA3;
+}
+html[theme=whiteDarkGreen] ._fullLevel_yo5sw_1845 p {
+  color: #9D9D9D;
+}
+html[theme=whiteBrownLauren] ._fullLevel_yo5sw_1845 p {
+  color: #9A9A9B;
+}
+html[theme=whiteRedGucci] ._fullLevel_yo5sw_1845 p {
+  color: #9D9D9D;
+}
+html[theme=embraerBlue] ._fullLevel_yo5sw_1845 p {
+  color: #FFD600;
+}
+html[theme=elsaPink] ._fullLevel_yo5sw_1845 p {
+  color: rgba(255, 255, 255, 0.6);
+}
+html[theme=bvlgariBrown] ._fullLevel_yo5sw_1845 p {
+  color: rgba(255, 255, 255, 0.6);
+}
+html[theme=greenGold] ._fullLevel_yo5sw_1845 p {
+  color: #039685;
+}
+._fullLevel_yo5sw_1845 ._tips_yo5sw_1922 {
+  color: #fff;
+  font-size: 24rem;
+}
+html[theme=whiteGreen] ._fullLevel_yo5sw_1845 ._tips_yo5sw_1922 {
+  color: #333;
+}
+html[theme=whiteRed] ._fullLevel_yo5sw_1845 ._tips_yo5sw_1922 {
+  color: #565656;
+}
+html[theme=sk2] ._fullLevel_yo5sw_1845 ._tips_yo5sw_1922 {
+  color: rgba(255, 255, 255, 0.92);
+}
+html[theme=whiteYellow] ._fullLevel_yo5sw_1845 ._tips_yo5sw_1922 {
+  color: #565656;
+}
+html[theme=whiteOrange] ._fullLevel_yo5sw_1845 ._tips_yo5sw_1922 {
+  color: #363333;
+}
+html[theme=whitePink] ._fullLevel_yo5sw_1845 ._tips_yo5sw_1922 {
+  color: #9D9D9D;
+}
+html[theme=whiteBrown] ._fullLevel_yo5sw_1845 ._tips_yo5sw_1922 {
+  color: #565656;
+}
+html[theme=whitePurple] ._fullLevel_yo5sw_1845 ._tips_yo5sw_1922 {
+  color: #565656;
+}
+html[theme=burgundyRed] ._fullLevel_yo5sw_1845 ._tips_yo5sw_1922 {
+  color: #FFFFFF;
+}
+html[theme=whiteDarkGreen] ._fullLevel_yo5sw_1845 ._tips_yo5sw_1922 {
+  color: #565656;
+}
+html[theme=whiteBrownLauren] ._fullLevel_yo5sw_1845 ._tips_yo5sw_1922 {
+  color: #323133;
+}
+html[theme=whiteRedGucci] ._fullLevel_yo5sw_1845 ._tips_yo5sw_1922 {
+  color: #565656;
+}
+html[theme=embraerBlue] ._fullLevel_yo5sw_1845 ._tips_yo5sw_1922 {
+  color: #565656;
+}
+html[theme=elsaPink] ._fullLevel_yo5sw_1845 ._tips_yo5sw_1922 {
+  color: #FFF;
+}
+html[theme=bvlgariBrown] ._fullLevel_yo5sw_1845 ._tips_yo5sw_1922 {
+  color: #FFF;
+}
+._fullLevel_yo5sw_1845 ._amount_yo5sw_1971 {
+  padding: 0 12rem;
+  font-size: 24rem;
+  color: #ffd205;
+}
+html[theme=whiteGreen] ._fullLevel_yo5sw_1845 ._amount_yo5sw_1971 {
+  color: #ffaa09;
+}
+html[theme=oilyGreen] ._fullLevel_yo5sw_1845 ._amount_yo5sw_1971 {
+  color: #ffaa09;
+}
+html[theme=whiteRed] ._fullLevel_yo5sw_1845 ._amount_yo5sw_1971 {
+  color: #FF820E;
+}
+html[theme=sk2] ._fullLevel_yo5sw_1845 ._amount_yo5sw_1971 {
+  color: #FFAA09;
+}
+html[theme=whiteYellow] ._fullLevel_yo5sw_1845 ._amount_yo5sw_1971 {
+  color: #FF820E;
+}
+html[theme=whiteBrown] ._fullLevel_yo5sw_1845 ._amount_yo5sw_1971 {
+  color: #FF820E;
+}
+html[theme=burgundyRed] ._fullLevel_yo5sw_1845 ._amount_yo5sw_1971 {
+  color: #F7BB32;
+}
+html[theme=whiteDarkGreen] ._fullLevel_yo5sw_1845 ._amount_yo5sw_1971 {
+  color: #FF820E;
+}
+html[theme=whiteBrownLauren] ._fullLevel_yo5sw_1845 ._amount_yo5sw_1971 {
+  color: #F9B105;
+}
+html[theme=whiteRedGucci] ._fullLevel_yo5sw_1845 ._amount_yo5sw_1971 {
+  color: #FF820E;
+}
+html[theme=embraerBlue] ._fullLevel_yo5sw_1845 ._amount_yo5sw_1971 {
+  color: #FF820E;
+}
+html[theme=elsaPink] ._fullLevel_yo5sw_1845 ._amount_yo5sw_1971 {
+  color: #FFD205;
+}
+html[theme=bvlgariBrown] ._fullLevel_yo5sw_1845 ._amount_yo5sw_1971 {
+  color: #F9B205;
+}
+
+._bestImg_yo5sw_2016 {
+  width: 110rem;
+}
+
+._bestContent_yo5sw_2020 {
+  padding-left: 0 !important;
+}
+._bestContent_yo5sw_2020 ._vipProgress_yo5sw_261 {
+  padding-left: 0;
+  gap: 0 !important;
+  align-items: center;
+}
